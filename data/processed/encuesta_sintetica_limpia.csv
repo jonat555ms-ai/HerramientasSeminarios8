@@ -1,0 +1,2001 @@
+id_persona,prov,area,sexo,edad,nivel_instr,ingreso,fexp,provincia,area_etq,sexo_etq,nivel_etq
+1,7,1,1,62,1.0,727.31,1150.2,El Oro,Urbana,Hombre,Ninguno
+2,13,2,2,15,3.0,,2624.1,Manabí,Rural,Mujer,Bachillerato
+3,9,1,2,64,1.0,,843.15,Guayas,Urbana,Mujer,Ninguno
+4,9,2,1,30,3.0,,1618.8,Guayas,Rural,Hombre,Bachillerato
+5,9,2,2,25,3.0,440.83,2327.1,Guayas,Rural,Mujer,Bachillerato
+6,17,2,2,26,3.0,733.7,1637.4,Pichincha,Rural,Mujer,Bachillerato
+7,17,1,2,29,3.0,1339.33,1278.3,Pichincha,Urbana,Mujer,Bachillerato
+8,7,2,1,31,3.0,457.92,1390.5,El Oro,Rural,Hombre,Bachillerato
+9,13,1,2,24,2.0,381.76,1200.15,Manabí,Urbana,Mujer,Educación básica
+10,9,2,2,28,1.0,,2047.5,Guayas,Rural,Mujer,Ninguno
+11,18,1,2,17,4.0,586.82,705.0,Tungurahua,Urbana,Mujer,Superior
+12,17,2,2,29,2.0,570.89,560.4,Pichincha,Rural,Mujer,Educación básica
+13,13,1,2,35,3.0,940.6,1384.65,Manabí,Urbana,Mujer,Bachillerato
+14,17,1,1,25,3.0,377.14,785.85,Pichincha,Urbana,Hombre,Bachillerato
+15,9,1,1,35,2.0,205.8,427.5,Guayas,Urbana,Hombre,Educación básica
+16,17,1,2,22,1.0,426.63,610.5,Pichincha,Urbana,Mujer,Ninguno
+17,9,1,1,18,3.0,557.0,656.4,Guayas,Urbana,Hombre,Bachillerato
+18,9,2,2,15,3.0,619.42,2722.65,Guayas,Rural,Mujer,Bachillerato
+19,9,2,2,32,4.0,357.55,821.55,Guayas,Rural,Mujer,Superior
+20,9,2,1,73,1.0,197.96,2466.3,Guayas,Rural,Hombre,Ninguno
+21,13,2,1,58,2.0,,616.05,Manabí,Rural,Hombre,Educación básica
+22,9,1,2,75,2.0,406.29,537.0,Guayas,Urbana,Mujer,Educación básica
+23,13,2,2,44,3.0,571.43,1581.3,Manabí,Rural,Mujer,Bachillerato
+24,1,1,2,20,3.0,,408.3,Azuay,Urbana,Mujer,Bachillerato
+25,9,2,2,41,3.0,574.21,811.8,Guayas,Rural,Mujer,Bachillerato
+26,9,1,2,40,4.0,,570.45,Guayas,Urbana,Mujer,Superior
+27,7,1,1,21,2.0,,1071.0,El Oro,Urbana,Hombre,Educación básica
+28,13,2,2,19,2.0,396.1,1081.95,Manabí,Rural,Mujer,Educación básica
+29,9,2,1,15,3.0,375.11,2574.0,Guayas,Rural,Hombre,Bachillerato
+30,9,1,1,19,2.0,331.48,1389.15,Guayas,Urbana,Hombre,Educación básica
+31,7,2,2,19,4.0,1267.36,1443.9,El Oro,Rural,Mujer,Superior
+32,17,1,1,36,3.0,1363.06,693.6,Pichincha,Urbana,Hombre,Bachillerato
+33,17,1,1,24,2.0,661.48,531.3,Pichincha,Urbana,Hombre,Educación básica
+34,13,2,1,32,2.0,297.14,3372.15,Manabí,Rural,Hombre,Educación básica
+35,9,1,2,45,3.0,1095.55,1056.6,Guayas,Urbana,Mujer,Bachillerato
+36,18,1,2,39,,347.02,1129.2,Tungurahua,Urbana,Mujer,
+37,13,1,2,17,2.0,279.34,1246.8,Manabí,Urbana,Mujer,Educación básica
+38,9,2,1,19,1.0,195.28,1095.9,Guayas,Rural,Hombre,Ninguno
+39,17,1,1,19,3.0,950.61,779.25,Pichincha,Urbana,Hombre,Bachillerato
+40,9,1,2,26,2.0,524.62,967.2,Guayas,Urbana,Mujer,Educación básica
+41,13,2,1,38,2.0,250.09,2265.6,Manabí,Rural,Hombre,Educación básica
+42,9,1,2,28,3.0,976.44,1041.15,Guayas,Urbana,Mujer,Bachillerato
+43,9,1,2,84,3.0,1010.67,1496.1,Guayas,Urbana,Mujer,Bachillerato
+44,17,1,2,36,4.0,,729.3,Pichincha,Urbana,Mujer,Superior
+45,9,1,1,24,2.0,611.27,979.8,Guayas,Urbana,Hombre,Educación básica
+46,9,1,2,23,4.0,,1111.05,Guayas,Urbana,Mujer,Superior
+47,13,2,1,39,2.0,559.37,2303.4,Manabí,Rural,Hombre,Educación básica
+48,7,1,2,15,1.0,,1195.2,El Oro,Urbana,Mujer,Ninguno
+49,17,2,1,64,2.0,289.15,1121.7,Pichincha,Rural,Hombre,Educación básica
+50,13,2,2,51,2.0,199.18,2646.15,Manabí,Rural,Mujer,Educación básica
+51,13,1,2,34,4.0,1095.84,677.85,Manabí,Urbana,Mujer,Superior
+52,9,1,1,22,4.0,1214.14,765.6,Guayas,Urbana,Hombre,Superior
+53,9,2,1,54,4.0,673.33,1229.85,Guayas,Rural,Hombre,Superior
+54,9,1,2,30,2.0,671.59,442.65,Guayas,Urbana,Mujer,Educación básica
+55,9,1,2,37,3.0,,679.95,Guayas,Urbana,Mujer,Bachillerato
+56,13,1,2,48,4.0,963.0,927.0,Manabí,Urbana,Mujer,Superior
+57,13,2,1,90,2.0,244.38,1886.55,Manabí,Rural,Hombre,Educación básica
+58,9,1,1,80,1.0,325.35,605.4,Guayas,Urbana,Hombre,Ninguno
+59,1,1,1,15,2.0,447.18,1106.25,Azuay,Urbana,Hombre,Educación básica
+60,17,2,1,15,2.0,165.47,1297.65,Pichincha,Rural,Hombre,Educación básica
+61,9,2,1,32,2.0,616.0,1175.55,Guayas,Rural,Hombre,Educación básica
+62,9,1,1,35,4.0,911.78,626.25,Guayas,Urbana,Hombre,Superior
+63,9,2,2,30,3.0,462.32,733.2,Guayas,Rural,Mujer,Bachillerato
+64,1,2,1,62,1.0,229.1,1732.2,Azuay,Rural,Hombre,Ninguno
+65,17,2,1,38,3.0,644.3,1588.2,Pichincha,Rural,Hombre,Bachillerato
+66,18,1,2,23,2.0,314.39,643.8,Tungurahua,Urbana,Mujer,Educación básica
+67,1,2,1,90,3.0,,1184.55,Azuay,Rural,Hombre,Bachillerato
+68,9,2,2,70,1.0,559.3,1513.5,Guayas,Rural,Mujer,Ninguno
+69,17,1,1,37,3.0,538.7,607.65,Pichincha,Urbana,Hombre,Bachillerato
+70,9,1,1,29,2.0,244.22,1478.1,Guayas,Urbana,Hombre,Educación básica
+71,13,1,2,46,3.0,1036.76,480.45,Manabí,Urbana,Mujer,Bachillerato
+72,9,1,1,22,3.0,643.57,670.05,Guayas,Urbana,Hombre,Bachillerato
+73,17,1,1,44,2.0,677.7,742.05,Pichincha,Urbana,Hombre,Educación básica
+74,18,1,1,45,1.0,452.08,841.2,Tungurahua,Urbana,Hombre,Ninguno
+75,17,2,2,23,3.0,395.95,1779.9,Pichincha,Rural,Mujer,Bachillerato
+76,13,1,2,27,3.0,376.68,986.85,Manabí,Urbana,Mujer,Bachillerato
+77,7,1,1,28,4.0,2859.41,1045.35,El Oro,Urbana,Hombre,Superior
+78,18,1,2,50,,1904.6,1243.05,Tungurahua,Urbana,Mujer,
+79,1,2,2,23,2.0,274.44,1067.85,Azuay,Rural,Mujer,Educación básica
+80,9,1,1,43,2.0,612.39,1633.05,Guayas,Urbana,Hombre,Educación básica
+81,9,1,1,52,3.0,1029.66,480.75,Guayas,Urbana,Hombre,Bachillerato
+82,13,1,2,37,2.0,604.79,603.6,Manabí,Urbana,Mujer,Educación básica
+83,9,1,2,20,2.0,670.49,792.75,Guayas,Urbana,Mujer,Educación básica
+84,1,1,1,37,2.0,743.24,1056.75,Azuay,Urbana,Hombre,Educación básica
+85,1,1,2,44,2.0,,881.55,Azuay,Urbana,Mujer,Educación básica
+86,13,1,2,28,3.0,722.34,1113.0,Manabí,Urbana,Mujer,Bachillerato
+87,9,1,1,49,4.0,1753.51,1788.75,Guayas,Urbana,Hombre,Superior
+88,13,2,1,59,2.0,371.93,689.55,Manabí,Rural,Hombre,Educación básica
+89,13,1,1,50,3.0,534.15,595.2,Manabí,Urbana,Hombre,Bachillerato
+90,17,1,2,20,4.0,,726.6,Pichincha,Urbana,Mujer,Superior
+91,17,2,2,24,2.0,343.08,2725.5,Pichincha,Rural,Mujer,Educación básica
+92,7,1,1,15,1.0,,830.4,El Oro,Urbana,Hombre,Ninguno
+93,18,2,1,44,3.0,,1077.75,Tungurahua,Rural,Hombre,Bachillerato
+94,17,1,2,41,2.0,,810.45,Pichincha,Urbana,Mujer,Educación básica
+95,13,1,1,15,3.0,476.78,439.35,Manabí,Urbana,Hombre,Bachillerato
+96,13,2,2,51,4.0,,727.5,Manabí,Rural,Mujer,Superior
+97,13,1,2,39,4.0,1392.12,843.15,Manabí,Urbana,Mujer,Superior
+98,17,1,1,52,2.0,256.11,1273.8,Pichincha,Urbana,Hombre,Educación básica
+99,9,1,1,19,3.0,579.23,1629.15,Guayas,Urbana,Hombre,Bachillerato
+100,13,1,2,21,4.0,,1195.5,Manabí,Urbana,Mujer,Superior
+101,17,1,1,15,,661.59,1908.75,Pichincha,Urbana,Hombre,
+102,7,1,1,24,3.0,503.68,676.2,El Oro,Urbana,Hombre,Bachillerato
+103,13,1,2,28,4.0,412.97,904.35,Manabí,Urbana,Mujer,Superior
+104,9,2,1,18,2.0,198.71,483.0,Guayas,Rural,Hombre,Educación básica
+105,17,1,1,43,3.0,,1242.0,Pichincha,Urbana,Hombre,Bachillerato
+106,1,1,1,25,,1912.69,731.55,Azuay,Urbana,Hombre,
+107,13,2,1,40,2.0,600.94,882.9,Manabí,Rural,Hombre,Educación básica
+108,17,1,2,15,2.0,,833.1,Pichincha,Urbana,Mujer,Educación básica
+109,13,2,2,64,2.0,,1557.0,Manabí,Rural,Mujer,Educación básica
+110,9,2,2,24,2.0,162.84,1188.75,Guayas,Rural,Mujer,Educación básica
+111,13,2,1,19,1.0,210.33,602.85,Manabí,Rural,Hombre,Ninguno
+112,9,1,1,36,3.0,464.38,1208.85,Guayas,Urbana,Hombre,Bachillerato
+113,13,2,2,71,1.0,235.62,1104.3,Manabí,Rural,Mujer,Ninguno
+114,7,1,1,73,1.0,912.83,751.05,El Oro,Urbana,Hombre,Ninguno
+115,9,2,2,29,2.0,236.36,742.95,Guayas,Rural,Mujer,Educación básica
+116,1,1,1,32,2.0,808.96,1298.1,Azuay,Urbana,Hombre,Educación básica
+117,1,1,2,30,2.0,366.1,922.65,Azuay,Urbana,Mujer,Educación básica
+118,13,1,1,26,4.0,1907.91,1050.6,Manabí,Urbana,Hombre,Superior
+119,9,1,2,25,3.0,635.32,1831.35,Guayas,Urbana,Mujer,Bachillerato
+120,9,2,2,15,2.0,349.29,1043.55,Guayas,Rural,Mujer,Educación básica
+121,13,1,2,15,2.0,656.57,1415.85,Manabí,Urbana,Mujer,Educación básica
+122,17,1,2,45,1.0,533.26,412.8,Pichincha,Urbana,Mujer,Ninguno
+123,9,2,1,22,2.0,,715.5,Guayas,Rural,Hombre,Educación básica
+124,9,2,2,18,2.0,674.12,808.8,Guayas,Rural,Mujer,Educación básica
+125,9,1,1,62,2.0,323.39,974.55,Guayas,Urbana,Hombre,Educación básica
+126,1,2,2,34,2.0,489.45,933.9,Azuay,Rural,Mujer,Educación básica
+127,13,1,1,31,4.0,472.95,1143.45,Manabí,Urbana,Hombre,Superior
+128,17,2,2,23,3.0,275.62,1454.4,Pichincha,Rural,Mujer,Bachillerato
+129,9,1,2,50,2.0,259.07,1107.15,Guayas,Urbana,Mujer,Educación básica
+130,13,1,2,59,3.0,314.1,855.15,Manabí,Urbana,Mujer,Bachillerato
+131,18,2,2,28,3.0,486.65,1115.55,Tungurahua,Rural,Mujer,Bachillerato
+132,13,2,2,16,2.0,290.41,1614.6,Manabí,Rural,Mujer,Educación básica
+133,17,1,2,30,3.0,362.31,486.75,Pichincha,Urbana,Mujer,Bachillerato
+134,17,1,2,90,1.0,365.42,532.8,Pichincha,Urbana,Mujer,Ninguno
+135,7,2,2,36,2.0,156.92,1118.25,El Oro,Rural,Mujer,Educación básica
+136,13,1,2,66,3.0,1150.68,1152.3,Manabí,Urbana,Mujer,Bachillerato
+137,17,1,1,39,2.0,308.5,701.1,Pichincha,Urbana,Hombre,Educación básica
+138,17,1,2,32,2.0,,716.85,Pichincha,Urbana,Mujer,Educación básica
+139,9,1,1,25,3.0,880.21,1145.55,Guayas,Urbana,Hombre,Bachillerato
+140,13,1,1,56,3.0,555.44,539.1,Manabí,Urbana,Hombre,Bachillerato
+141,13,1,2,41,4.0,669.24,452.7,Manabí,Urbana,Mujer,Superior
+142,9,1,2,47,4.0,747.81,962.55,Guayas,Urbana,Mujer,Superior
+143,1,2,1,37,3.0,373.91,2005.2,Azuay,Rural,Hombre,Bachillerato
+144,9,1,1,19,4.0,1625.13,594.45,Guayas,Urbana,Hombre,Superior
+145,18,2,2,15,3.0,434.01,2081.1,Tungurahua,Rural,Mujer,Bachillerato
+146,7,2,2,40,3.0,302.57,1395.6,El Oro,Rural,Mujer,Bachillerato
+147,1,1,2,19,2.0,198.72,919.65,Azuay,Urbana,Mujer,Educación básica
+148,9,2,2,29,3.0,283.15,1461.9,Guayas,Rural,Mujer,Bachillerato
+149,1,2,2,30,2.0,515.81,1076.4,Azuay,Rural,Mujer,Educación básica
+150,9,1,1,90,1.0,781.44,656.4,Guayas,Urbana,Hombre,Ninguno
+151,17,1,1,30,4.0,1712.84,747.75,Pichincha,Urbana,Hombre,Superior
+152,9,1,1,49,4.0,1494.92,830.4,Guayas,Urbana,Hombre,Superior
+153,13,1,2,42,2.0,518.82,681.9,Manabí,Urbana,Mujer,Educación básica
+154,9,1,1,38,2.0,307.25,985.35,Guayas,Urbana,Hombre,Educación básica
+155,13,1,2,40,2.0,551.23,1467.45,Manabí,Urbana,Mujer,Educación básica
+156,7,1,2,59,2.0,476.26,1503.15,El Oro,Urbana,Mujer,Educación básica
+157,17,2,1,44,2.0,262.39,1156.95,Pichincha,Rural,Hombre,Educación básica
+158,9,2,1,32,1.0,320.19,1512.45,Guayas,Rural,Hombre,Ninguno
+159,7,1,1,54,3.0,357.5,484.2,El Oro,Urbana,Hombre,Bachillerato
+160,17,2,1,85,2.0,726.01,1595.85,Pichincha,Rural,Hombre,Educación básica
+161,13,1,1,56,3.0,410.05,534.6,Manabí,Urbana,Hombre,Bachillerato
+162,9,1,1,54,2.0,564.47,871.95,Guayas,Urbana,Hombre,Educación básica
+163,9,1,1,24,3.0,1249.79,1516.05,Guayas,Urbana,Hombre,Bachillerato
+164,17,1,2,30,3.0,531.09,941.55,Pichincha,Urbana,Mujer,Bachillerato
+165,9,1,1,26,3.0,713.35,1868.7,Guayas,Urbana,Hombre,Bachillerato
+166,1,2,2,36,2.0,,928.65,Azuay,Rural,Mujer,Educación básica
+167,18,1,1,38,2.0,499.4,1253.1,Tungurahua,Urbana,Hombre,Educación básica
+168,1,1,2,49,3.0,713.27,1421.1,Azuay,Urbana,Mujer,Bachillerato
+169,7,1,1,48,2.0,877.49,526.65,El Oro,Urbana,Hombre,Educación básica
+170,9,1,2,33,3.0,326.72,632.55,Guayas,Urbana,Mujer,Bachillerato
+171,7,1,1,47,2.0,257.44,2277.15,El Oro,Urbana,Hombre,Educación básica
+172,9,2,2,30,3.0,219.22,2130.45,Guayas,Rural,Mujer,Bachillerato
+173,13,1,2,15,3.0,211.32,765.15,Manabí,Urbana,Mujer,Bachillerato
+174,18,2,2,45,1.0,170.92,1597.65,Tungurahua,Rural,Mujer,Ninguno
+175,18,1,2,48,4.0,1667.13,927.45,Tungurahua,Urbana,Mujer,Superior
+176,1,1,1,16,4.0,976.58,795.75,Azuay,Urbana,Hombre,Superior
+177,17,2,1,38,2.0,364.01,3399.15,Pichincha,Rural,Hombre,Educación básica
+178,7,2,2,23,2.0,197.31,1778.25,El Oro,Rural,Mujer,Educación básica
+179,17,1,1,33,4.0,1442.73,408.0,Pichincha,Urbana,Hombre,Superior
+180,9,1,1,31,4.0,1187.51,1941.3,Guayas,Urbana,Hombre,Superior
+181,17,2,1,17,3.0,507.2,2345.55,Pichincha,Rural,Hombre,Bachillerato
+182,17,1,1,56,2.0,535.88,813.45,Pichincha,Urbana,Hombre,Educación básica
+183,17,1,1,70,1.0,276.5,720.45,Pichincha,Urbana,Hombre,Ninguno
+184,18,1,2,55,3.0,371.04,1094.4,Tungurahua,Urbana,Mujer,Bachillerato
+185,9,1,2,18,3.0,328.26,1281.15,Guayas,Urbana,Mujer,Bachillerato
+186,13,1,1,88,2.0,476.33,747.3,Manabí,Urbana,Hombre,Educación básica
+187,17,1,2,38,2.0,223.29,820.2,Pichincha,Urbana,Mujer,Educación básica
+188,1,2,1,16,3.0,335.82,1138.05,Azuay,Rural,Hombre,Bachillerato
+189,13,1,2,28,2.0,1005.71,850.95,Manabí,Urbana,Mujer,Educación básica
+190,9,2,1,32,3.0,884.27,1857.45,Guayas,Rural,Hombre,Bachillerato
+191,7,1,1,20,2.0,584.91,1538.4,El Oro,Urbana,Hombre,Educación básica
+192,13,2,2,36,2.0,258.68,1611.45,Manabí,Rural,Mujer,Educación básica
+193,9,2,2,69,2.0,182.02,1455.6,Guayas,Rural,Mujer,Educación básica
+194,13,1,2,36,2.0,607.81,165.3,Manabí,Urbana,Mujer,Educación básica
+195,13,1,2,48,2.0,288.28,1170.3,Manabí,Urbana,Mujer,Educación básica
+196,9,2,2,37,1.0,,1109.55,Guayas,Rural,Mujer,Ninguno
+197,17,1,2,15,3.0,,1636.05,Pichincha,Urbana,Mujer,Bachillerato
+198,7,2,2,39,3.0,589.17,1305.75,El Oro,Rural,Mujer,Bachillerato
+199,9,2,1,27,2.0,203.32,1157.1,Guayas,Rural,Hombre,Educación básica
+200,9,2,2,63,3.0,368.54,2499.75,Guayas,Rural,Mujer,Bachillerato
+201,17,1,2,27,3.0,427.49,447.0,Pichincha,Urbana,Mujer,Bachillerato
+202,13,1,1,69,1.0,620.28,991.8,Manabí,Urbana,Hombre,Ninguno
+203,7,1,1,32,3.0,803.06,1865.25,El Oro,Urbana,Hombre,Bachillerato
+204,17,1,2,63,2.0,629.12,795.9,Pichincha,Urbana,Mujer,Educación básica
+205,17,2,1,21,3.0,569.33,860.1,Pichincha,Rural,Hombre,Bachillerato
+206,17,1,2,21,4.0,1208.42,609.75,Pichincha,Urbana,Mujer,Superior
+207,1,1,1,42,4.0,2296.42,549.0,Azuay,Urbana,Hombre,Superior
+208,7,1,2,40,3.0,971.32,672.3,El Oro,Urbana,Mujer,Bachillerato
+209,17,1,2,31,4.0,1226.35,285.0,Pichincha,Urbana,Mujer,Superior
+210,17,2,2,25,2.0,677.63,1103.25,Pichincha,Rural,Mujer,Educación básica
+211,7,2,2,15,2.0,187.5,2265.6,El Oro,Rural,Mujer,Educación básica
+212,13,1,1,19,2.0,566.67,657.9,Manabí,Urbana,Hombre,Educación básica
+213,9,1,1,35,4.0,1348.89,511.2,Guayas,Urbana,Hombre,Superior
+214,9,1,2,30,2.0,531.67,187.8,Guayas,Urbana,Mujer,Educación básica
+215,1,1,2,35,4.0,1057.71,869.7,Azuay,Urbana,Mujer,Superior
+216,9,1,2,15,3.0,1168.86,1271.55,Guayas,Urbana,Mujer,Bachillerato
+217,9,2,2,16,2.0,214.19,1845.3,Guayas,Rural,Mujer,Educación básica
+218,17,2,1,19,1.0,228.61,1600.05,Pichincha,Rural,Hombre,Ninguno
+219,13,1,2,53,2.0,444.15,924.15,Manabí,Urbana,Mujer,Educación básica
+220,7,1,1,17,1.0,442.9,636.75,El Oro,Urbana,Hombre,Ninguno
+221,9,1,1,52,3.0,,1456.95,Guayas,Urbana,Hombre,Bachillerato
+222,9,1,1,31,4.0,1060.04,1225.05,Guayas,Urbana,Hombre,Superior
+223,13,2,2,61,2.0,401.93,1728.0,Manabí,Rural,Mujer,Educación básica
+224,13,1,2,39,4.0,729.15,1588.2,Manabí,Urbana,Mujer,Superior
+225,9,1,1,34,4.0,1585.08,1176.15,Guayas,Urbana,Hombre,Superior
+226,9,2,1,23,3.0,678.66,1472.85,Guayas,Rural,Hombre,Bachillerato
+227,13,2,1,35,1.0,258.95,1356.45,Manabí,Rural,Hombre,Ninguno
+228,18,1,1,20,,213.02,399.6,Tungurahua,Urbana,Hombre,
+229,13,1,1,26,2.0,399.77,585.6,Manabí,Urbana,Hombre,Educación básica
+230,17,1,2,32,4.0,868.73,432.9,Pichincha,Urbana,Mujer,Superior
+231,1,1,1,31,3.0,482.07,211.8,Azuay,Urbana,Hombre,Bachillerato
+232,7,1,2,58,4.0,1777.1,237.9,El Oro,Urbana,Mujer,Superior
+233,17,1,2,28,1.0,238.58,2110.35,Pichincha,Urbana,Mujer,Ninguno
+234,13,2,1,55,4.0,345.9,1587.75,Manabí,Rural,Hombre,Superior
+235,9,1,1,37,3.0,1133.35,873.75,Guayas,Urbana,Hombre,Bachillerato
+236,9,1,1,36,3.0,584.27,444.15,Guayas,Urbana,Hombre,Bachillerato
+237,9,1,1,18,4.0,1070.9,613.05,Guayas,Urbana,Hombre,Superior
+238,13,1,2,33,3.0,477.46,589.65,Manabí,Urbana,Mujer,Bachillerato
+239,9,1,1,40,2.0,91.52,1164.9,Guayas,Urbana,Hombre,Educación básica
+240,9,2,1,37,3.0,357.56,549.9,Guayas,Rural,Hombre,Bachillerato
+241,17,2,1,39,,228.8,1401.9,Pichincha,Rural,Hombre,
+242,18,2,2,26,3.0,537.64,1056.0,Tungurahua,Rural,Mujer,Bachillerato
+243,18,1,2,32,2.0,,426.6,Tungurahua,Urbana,Mujer,Educación básica
+244,9,2,1,55,4.0,661.41,2453.25,Guayas,Rural,Hombre,Superior
+245,7,2,2,42,2.0,282.52,1465.65,El Oro,Rural,Mujer,Educación básica
+246,1,1,1,47,4.0,,1420.2,Azuay,Urbana,Hombre,Superior
+247,9,1,1,34,2.0,264.27,536.55,Guayas,Urbana,Hombre,Educación básica
+248,1,1,1,49,3.0,625.26,851.55,Azuay,Urbana,Hombre,Bachillerato
+249,1,1,1,45,2.0,397.32,749.7,Azuay,Urbana,Hombre,Educación básica
+250,9,2,1,50,3.0,437.55,886.35,Guayas,Rural,Hombre,Bachillerato
+251,18,1,1,90,2.0,,886.5,Tungurahua,Urbana,Hombre,Educación básica
+252,7,1,2,30,3.0,1511.44,809.7,El Oro,Urbana,Mujer,Bachillerato
+253,1,2,2,46,2.0,354.07,702.75,Azuay,Rural,Mujer,Educación básica
+254,17,1,2,43,3.0,1358.32,948.75,Pichincha,Urbana,Mujer,Bachillerato
+255,13,1,1,44,4.0,719.22,999.75,Manabí,Urbana,Hombre,Superior
+256,17,1,1,27,,,741.45,Pichincha,Urbana,Hombre,
+257,9,1,2,43,4.0,1251.88,1362.3,Guayas,Urbana,Mujer,Superior
+258,18,1,1,58,2.0,,1755.9,Tungurahua,Urbana,Hombre,Educación básica
+259,18,1,1,53,4.0,1636.73,786.9,Tungurahua,Urbana,Hombre,Superior
+260,13,1,2,24,2.0,577.3,881.25,Manabí,Urbana,Mujer,Educación básica
+261,18,1,2,60,3.0,988.65,688.8,Tungurahua,Urbana,Mujer,Bachillerato
+262,9,1,2,47,2.0,263.7,627.15,Guayas,Urbana,Mujer,Educación básica
+263,9,2,1,17,3.0,,841.8,Guayas,Rural,Hombre,Bachillerato
+264,17,2,1,15,3.0,642.88,1758.3,Pichincha,Rural,Hombre,Bachillerato
+265,13,1,2,33,2.0,246.21,715.8,Manabí,Urbana,Mujer,Educación básica
+266,7,1,2,65,1.0,218.96,1220.1,El Oro,Urbana,Mujer,Ninguno
+267,9,2,2,16,2.0,227.18,1322.4,Guayas,Rural,Mujer,Educación básica
+268,1,1,2,42,2.0,462.7,892.8,Azuay,Urbana,Mujer,Educación básica
+269,17,1,1,42,3.0,417.22,622.2,Pichincha,Urbana,Hombre,Bachillerato
+270,13,2,1,20,4.0,709.97,2740.65,Manabí,Rural,Hombre,Superior
+271,1,1,1,27,4.0,,735.15,Azuay,Urbana,Hombre,Superior
+272,18,2,1,58,2.0,257.29,1276.95,Tungurahua,Rural,Hombre,Educación básica
+273,18,1,2,64,1.0,263.23,1194.9,Tungurahua,Urbana,Mujer,Ninguno
+274,17,1,2,40,4.0,,798.45,Pichincha,Urbana,Mujer,Superior
+275,9,2,2,28,,1014.91,1521.9,Guayas,Rural,Mujer,
+276,13,1,2,41,3.0,555.19,777.15,Manabí,Urbana,Mujer,Bachillerato
+277,1,1,2,17,3.0,677.43,1196.25,Azuay,Urbana,Mujer,Bachillerato
+278,1,2,2,21,,245.45,944.4,Azuay,Rural,Mujer,
+279,9,2,1,34,3.0,388.62,2835.0,Guayas,Rural,Hombre,Bachillerato
+280,9,2,2,75,1.0,211.89,2259.45,Guayas,Rural,Mujer,Ninguno
+281,17,1,2,30,4.0,674.65,1403.55,Pichincha,Urbana,Mujer,Superior
+282,7,1,1,66,3.0,1040.79,750.6,El Oro,Urbana,Hombre,Bachillerato
+283,1,2,2,15,2.0,278.58,1014.15,Azuay,Rural,Mujer,Educación básica
+284,13,1,1,43,4.0,2004.74,609.3,Manabí,Urbana,Hombre,Superior
+285,17,2,2,54,3.0,399.36,1060.2,Pichincha,Rural,Mujer,Bachillerato
+286,17,2,2,15,2.0,650.44,1583.25,Pichincha,Rural,Mujer,Educación básica
+287,17,2,2,19,2.0,479.26,1812.0,Pichincha,Rural,Mujer,Educación básica
+288,18,1,1,39,2.0,668.9,1361.1,Tungurahua,Urbana,Hombre,Educación básica
+289,13,2,2,31,2.0,286.75,1499.4,Manabí,Rural,Mujer,Educación básica
+290,17,2,1,23,1.0,,610.5,Pichincha,Rural,Hombre,Ninguno
+291,9,1,2,17,4.0,1879.69,897.3,Guayas,Urbana,Mujer,Superior
+292,9,1,1,47,4.0,2241.57,1872.9,Guayas,Urbana,Hombre,Superior
+293,17,1,2,24,2.0,369.67,592.35,Pichincha,Urbana,Mujer,Educación básica
+294,9,1,2,15,4.0,1886.21,561.9,Guayas,Urbana,Mujer,Superior
+295,17,1,2,28,3.0,952.02,654.75,Pichincha,Urbana,Mujer,Bachillerato
+296,9,1,1,52,2.0,1128.05,497.55,Guayas,Urbana,Hombre,Educación básica
+297,1,2,1,34,2.0,347.71,2399.7,Azuay,Rural,Hombre,Educación básica
+298,7,2,2,30,4.0,462.66,1617.3,El Oro,Rural,Mujer,Superior
+299,9,2,2,19,3.0,347.48,1262.4,Guayas,Rural,Mujer,Bachillerato
+300,17,1,1,34,2.0,381.8,809.4,Pichincha,Urbana,Hombre,Educación básica
+301,17,1,1,17,2.0,302.92,1006.8,Pichincha,Urbana,Hombre,Educación básica
+302,9,2,1,49,3.0,274.37,2244.0,Guayas,Rural,Hombre,Bachillerato
+303,1,1,2,32,3.0,752.18,582.45,Azuay,Urbana,Mujer,Bachillerato
+304,13,2,1,19,2.0,382.78,1049.1,Manabí,Rural,Hombre,Educación básica
+305,7,1,2,50,4.0,1265.76,742.05,El Oro,Urbana,Mujer,Superior
+306,9,1,1,37,4.0,1308.55,856.2,Guayas,Urbana,Hombre,Superior
+307,13,1,1,34,2.0,340.48,1171.35,Manabí,Urbana,Hombre,Educación básica
+308,9,1,1,78,2.0,,856.5,Guayas,Urbana,Hombre,Educación básica
+309,9,1,2,26,2.0,258.39,1244.85,Guayas,Urbana,Mujer,Educación básica
+310,1,1,1,37,4.0,821.01,1428.6,Azuay,Urbana,Hombre,Superior
+311,7,2,1,33,2.0,592.94,765.45,El Oro,Rural,Hombre,Educación básica
+312,17,1,1,41,3.0,614.06,602.4,Pichincha,Urbana,Hombre,Bachillerato
+313,9,1,2,29,3.0,767.71,766.8,Guayas,Urbana,Mujer,Bachillerato
+314,17,1,2,32,2.0,673.52,1276.35,Pichincha,Urbana,Mujer,Educación básica
+315,17,2,1,27,4.0,542.31,1639.35,Pichincha,Rural,Hombre,Superior
+316,7,2,2,24,2.0,,2781.0,El Oro,Rural,Mujer,Educación básica
+317,9,1,2,59,3.0,1470.64,1507.8,Guayas,Urbana,Mujer,Bachillerato
+318,13,1,1,20,2.0,329.83,610.05,Manabí,Urbana,Hombre,Educación básica
+319,1,1,1,67,3.0,512.78,1530.3,Azuay,Urbana,Hombre,Bachillerato
+320,1,2,2,44,2.0,,1689.45,Azuay,Rural,Mujer,Educación básica
+321,17,2,2,44,2.0,381.81,3022.95,Pichincha,Rural,Mujer,Educación básica
+322,17,1,2,29,4.0,1373.41,422.7,Pichincha,Urbana,Mujer,Superior
+323,9,1,1,61,2.0,,587.7,Guayas,Urbana,Hombre,Educación básica
+324,17,1,2,54,4.0,1266.72,879.45,Pichincha,Urbana,Mujer,Superior
+325,9,1,1,32,3.0,321.75,509.25,Guayas,Urbana,Hombre,Bachillerato
+326,17,1,2,76,1.0,307.44,1017.9,Pichincha,Urbana,Mujer,Ninguno
+327,9,1,1,51,2.0,,1093.05,Guayas,Urbana,Hombre,Educación básica
+328,9,2,1,65,2.0,181.3,1939.05,Guayas,Rural,Hombre,Educación básica
+329,17,1,1,16,3.0,351.4,620.55,Pichincha,Urbana,Hombre,Bachillerato
+330,17,1,2,25,,480.76,785.1,Pichincha,Urbana,Mujer,
+331,9,2,1,31,3.0,523.07,1121.55,Guayas,Rural,Hombre,Bachillerato
+332,17,2,2,46,3.0,598.33,1425.3,Pichincha,Rural,Mujer,Bachillerato
+333,9,2,2,15,3.0,230.33,1730.7,Guayas,Rural,Mujer,Bachillerato
+334,13,2,2,24,1.0,199.68,1163.4,Manabí,Rural,Mujer,Ninguno
+335,17,2,2,15,2.0,353.34,3084.3,Pichincha,Rural,Mujer,Educación básica
+336,9,1,2,36,3.0,697.76,1118.4,Guayas,Urbana,Mujer,Bachillerato
+337,17,1,2,30,4.0,2018.66,547.2,Pichincha,Urbana,Mujer,Superior
+338,9,1,2,24,2.0,295.46,258.3,Guayas,Urbana,Mujer,Educación básica
+339,18,1,1,23,4.0,,498.45,Tungurahua,Urbana,Hombre,Superior
+340,18,1,2,37,3.0,501.55,1447.65,Tungurahua,Urbana,Mujer,Bachillerato
+341,17,1,1,53,2.0,380.17,1277.4,Pichincha,Urbana,Hombre,Educación básica
+342,17,1,2,15,4.0,540.44,1368.45,Pichincha,Urbana,Mujer,Superior
+343,7,1,2,25,,918.69,649.05,El Oro,Urbana,Mujer,
+344,13,1,1,78,1.0,,813.3,Manabí,Urbana,Hombre,Ninguno
+345,17,2,2,34,3.0,296.94,1089.15,Pichincha,Rural,Mujer,Bachillerato
+346,13,1,2,39,2.0,,736.05,Manabí,Urbana,Mujer,Educación básica
+347,13,2,1,23,2.0,303.89,2108.7,Manabí,Rural,Hombre,Educación básica
+348,7,1,2,42,2.0,790.38,1347.0,El Oro,Urbana,Mujer,Educación básica
+349,7,1,2,79,1.0,471.1,497.55,El Oro,Urbana,Mujer,Ninguno
+350,17,1,1,24,2.0,585.69,420.6,Pichincha,Urbana,Hombre,Educación básica
+351,7,1,2,35,,853.32,1813.95,El Oro,Urbana,Mujer,
+352,17,1,1,43,2.0,488.84,931.8,Pichincha,Urbana,Hombre,Educación básica
+353,1,1,2,22,4.0,914.62,1881.6,Azuay,Urbana,Mujer,Superior
+354,9,2,1,54,2.0,163.85,1723.35,Guayas,Rural,Hombre,Educación básica
+355,1,2,1,33,4.0,,1734.45,Azuay,Rural,Hombre,Superior
+356,13,2,1,17,2.0,322.92,959.7,Manabí,Rural,Hombre,Educación básica
+357,9,2,1,27,1.0,150.51,1955.4,Guayas,Rural,Hombre,Ninguno
+358,9,2,1,44,2.0,372.57,843.9,Guayas,Rural,Hombre,Educación básica
+359,9,2,1,29,,1169.15,1896.75,Guayas,Rural,Hombre,
+360,9,1,1,23,3.0,372.79,446.1,Guayas,Urbana,Hombre,Bachillerato
+361,13,1,1,36,3.0,,447.75,Manabí,Urbana,Hombre,Bachillerato
+362,7,2,1,35,,182.2,1195.95,El Oro,Rural,Hombre,
+363,17,1,2,68,2.0,533.03,1531.95,Pichincha,Urbana,Mujer,Educación básica
+364,17,2,2,59,2.0,355.76,1110.45,Pichincha,Rural,Mujer,Educación básica
+365,18,1,2,40,3.0,458.2,988.65,Tungurahua,Urbana,Mujer,Bachillerato
+366,9,2,1,25,2.0,496.74,1420.05,Guayas,Rural,Hombre,Educación básica
+367,17,1,2,37,4.0,917.01,565.2,Pichincha,Urbana,Mujer,Superior
+368,1,1,2,47,2.0,775.58,732.45,Azuay,Urbana,Mujer,Educación básica
+369,18,1,2,30,4.0,1908.67,936.6,Tungurahua,Urbana,Mujer,Superior
+370,7,1,2,30,2.0,359.04,258.45,El Oro,Urbana,Mujer,Educación básica
+371,9,1,2,32,2.0,468.68,788.25,Guayas,Urbana,Mujer,Educación básica
+372,1,1,1,49,3.0,749.63,735.9,Azuay,Urbana,Hombre,Bachillerato
+373,17,1,1,29,3.0,,1149.45,Pichincha,Urbana,Hombre,Bachillerato
+374,9,2,1,32,2.0,,872.4,Guayas,Rural,Hombre,Educación básica
+375,18,2,2,28,2.0,206.25,1776.3,Tungurahua,Rural,Mujer,Educación básica
+376,7,1,2,18,3.0,375.23,1240.8,El Oro,Urbana,Mujer,Bachillerato
+377,17,1,2,23,4.0,1281.7,1426.65,Pichincha,Urbana,Mujer,Superior
+378,9,2,1,51,2.0,144.37,1180.8,Guayas,Rural,Hombre,Educación básica
+379,9,1,2,21,2.0,595.21,802.5,Guayas,Urbana,Mujer,Educación básica
+380,13,2,2,68,3.0,289.92,733.05,Manabí,Rural,Mujer,Bachillerato
+381,1,2,2,36,4.0,644.47,1415.25,Azuay,Rural,Mujer,Superior
+382,13,2,2,16,2.0,337.75,688.05,Manabí,Rural,Mujer,Educación básica
+383,9,1,1,50,3.0,1189.56,630.3,Guayas,Urbana,Hombre,Bachillerato
+384,1,2,1,30,2.0,695.45,998.4,Azuay,Rural,Hombre,Educación básica
+385,9,1,2,52,3.0,622.98,830.7,Guayas,Urbana,Mujer,Bachillerato
+386,9,2,2,84,2.0,496.59,1815.75,Guayas,Rural,Mujer,Educación básica
+387,9,1,1,66,2.0,,862.95,Guayas,Urbana,Hombre,Educación básica
+388,18,1,2,29,2.0,301.18,1231.2,Tungurahua,Urbana,Mujer,Educación básica
+389,13,1,1,35,2.0,917.83,407.7,Manabí,Urbana,Hombre,Educación básica
+390,7,1,2,38,2.0,422.04,377.85,El Oro,Urbana,Mujer,Educación básica
+391,17,2,1,35,2.0,470.65,1458.75,Pichincha,Rural,Hombre,Educación básica
+392,9,1,2,39,4.0,1219.15,609.0,Guayas,Urbana,Mujer,Superior
+393,13,2,2,26,2.0,316.66,1701.75,Manabí,Rural,Mujer,Educación básica
+394,9,1,1,84,1.0,222.68,1495.5,Guayas,Urbana,Hombre,Ninguno
+395,13,2,2,38,4.0,,1566.75,Manabí,Rural,Mujer,Superior
+396,13,1,2,73,3.0,297.94,2316.3,Manabí,Urbana,Mujer,Bachillerato
+397,9,1,1,19,2.0,807.5,789.15,Guayas,Urbana,Hombre,Educación básica
+398,17,1,2,52,3.0,,1369.35,Pichincha,Urbana,Mujer,Bachillerato
+399,13,2,1,28,3.0,749.53,1772.55,Manabí,Rural,Hombre,Bachillerato
+400,13,1,1,22,2.0,304.53,300.9,Manabí,Urbana,Hombre,Educación básica
+401,7,1,1,39,3.0,606.53,611.1,El Oro,Urbana,Hombre,Bachillerato
+402,9,2,2,37,3.0,565.87,2707.35,Guayas,Rural,Mujer,Bachillerato
+403,9,1,2,42,4.0,1562.32,1140.3,Guayas,Urbana,Mujer,Superior
+404,1,2,2,45,3.0,276.67,1327.2,Azuay,Rural,Mujer,Bachillerato
+405,1,2,2,48,2.0,,1036.5,Azuay,Rural,Mujer,Educación básica
+406,13,2,1,15,2.0,453.81,862.8,Manabí,Rural,Hombre,Educación básica
+407,9,1,1,15,3.0,930.11,1410.75,Guayas,Urbana,Hombre,Bachillerato
+408,17,2,2,59,3.0,878.19,1126.5,Pichincha,Rural,Mujer,Bachillerato
+409,1,2,1,60,3.0,657.09,1287.3,Azuay,Rural,Hombre,Bachillerato
+410,17,1,2,21,1.0,235.94,949.35,Pichincha,Urbana,Mujer,Ninguno
+411,7,1,1,15,4.0,1717.41,1782.6,El Oro,Urbana,Hombre,Superior
+412,17,2,1,42,2.0,153.7,883.05,Pichincha,Rural,Hombre,Educación básica
+413,17,1,2,32,4.0,2228.71,1045.2,Pichincha,Urbana,Mujer,Superior
+414,13,1,2,39,3.0,,744.45,Manabí,Urbana,Mujer,Bachillerato
+415,9,2,1,15,2.0,240.12,1068.0,Guayas,Rural,Hombre,Educación básica
+416,1,2,2,43,2.0,176.0,1296.75,Azuay,Rural,Mujer,Educación básica
+417,17,1,1,61,,,579.75,Pichincha,Urbana,Hombre,
+418,13,1,2,59,4.0,1446.69,609.75,Manabí,Urbana,Mujer,Superior
+419,1,1,1,58,2.0,218.53,1382.4,Azuay,Urbana,Hombre,Educación básica
+420,13,1,2,26,3.0,801.0,668.1,Manabí,Urbana,Mujer,Bachillerato
+421,1,1,1,63,2.0,235.8,415.35,Azuay,Urbana,Hombre,Educación básica
+422,9,1,2,18,1.0,234.34,708.9,Guayas,Urbana,Mujer,Ninguno
+423,13,1,1,25,4.0,2053.67,759.15,Manabí,Urbana,Hombre,Superior
+424,17,2,1,16,2.0,288.31,1341.6,Pichincha,Rural,Hombre,Educación básica
+425,9,1,1,19,2.0,523.4,1246.35,Guayas,Urbana,Hombre,Educación básica
+426,9,2,2,15,2.0,378.28,1062.75,Guayas,Rural,Mujer,Educación básica
+427,9,2,2,28,3.0,,1109.25,Guayas,Rural,Mujer,Bachillerato
+428,1,2,1,25,2.0,389.77,1103.7,Azuay,Rural,Hombre,Educación básica
+429,18,1,2,30,1.0,401.32,460.5,Tungurahua,Urbana,Mujer,Ninguno
+430,17,2,1,27,2.0,274.38,1890.3,Pichincha,Rural,Hombre,Educación básica
+431,13,1,1,36,2.0,226.53,1352.4,Manabí,Urbana,Hombre,Educación básica
+432,1,1,1,90,,300.09,531.45,Azuay,Urbana,Hombre,
+433,1,1,2,20,2.0,,697.35,Azuay,Urbana,Mujer,Educación básica
+434,18,1,1,50,,882.88,958.8,Tungurahua,Urbana,Hombre,
+435,7,2,1,23,3.0,358.55,1393.65,El Oro,Rural,Hombre,Bachillerato
+436,7,1,2,15,2.0,200.84,847.95,El Oro,Urbana,Mujer,Educación básica
+437,17,2,1,21,2.0,,1300.05,Pichincha,Rural,Hombre,Educación básica
+438,9,1,2,15,2.0,616.93,1095.45,Guayas,Urbana,Mujer,Educación básica
+439,9,1,2,22,3.0,636.37,620.55,Guayas,Urbana,Mujer,Bachillerato
+440,9,1,1,15,2.0,252.09,641.25,Guayas,Urbana,Hombre,Educación básica
+441,17,1,2,42,4.0,604.26,690.15,Pichincha,Urbana,Mujer,Superior
+442,9,2,2,40,2.0,231.5,1497.45,Guayas,Rural,Mujer,Educación básica
+443,17,2,2,41,2.0,433.65,2496.45,Pichincha,Rural,Mujer,Educación básica
+444,9,1,2,20,3.0,731.47,641.25,Guayas,Urbana,Mujer,Bachillerato
+445,9,1,1,79,,,679.5,Guayas,Urbana,Hombre,
+446,7,1,2,15,2.0,815.12,408.45,El Oro,Urbana,Mujer,Educación básica
+447,17,2,1,63,1.0,308.82,1363.2,Pichincha,Rural,Hombre,Ninguno
+448,7,1,1,22,4.0,2218.6,459.0,El Oro,Urbana,Hombre,Superior
+449,13,1,1,54,3.0,1003.45,1332.75,Manabí,Urbana,Hombre,Bachillerato
+450,13,1,1,64,1.0,306.62,626.25,Manabí,Urbana,Hombre,Ninguno
+451,18,2,1,42,3.0,568.41,766.8,Tungurahua,Rural,Hombre,Bachillerato
+452,1,1,1,34,3.0,880.52,677.85,Azuay,Urbana,Hombre,Bachillerato
+453,7,1,1,15,,781.8,837.6,El Oro,Urbana,Hombre,
+454,13,1,1,42,2.0,387.57,863.25,Manabí,Urbana,Hombre,Educación básica
+455,9,1,1,22,3.0,,558.3,Guayas,Urbana,Hombre,Bachillerato
+456,7,2,1,36,2.0,740.25,1474.65,El Oro,Rural,Hombre,Educación básica
+457,17,1,1,16,2.0,642.66,954.75,Pichincha,Urbana,Hombre,Educación básica
+458,17,1,1,18,2.0,276.79,607.2,Pichincha,Urbana,Hombre,Educación básica
+459,9,1,1,33,3.0,304.9,886.05,Guayas,Urbana,Hombre,Bachillerato
+460,1,1,1,28,1.0,265.56,1993.95,Azuay,Urbana,Hombre,Ninguno
+461,17,2,2,31,2.0,,1236.0,Pichincha,Rural,Mujer,Educación básica
+462,13,1,1,29,2.0,307.21,1302.0,Manabí,Urbana,Hombre,Educación básica
+463,18,1,2,68,2.0,659.66,1106.4,Tungurahua,Urbana,Mujer,Educación básica
+464,9,2,1,15,3.0,,1239.3,Guayas,Rural,Hombre,Bachillerato
+465,9,1,2,32,1.0,216.41,1169.55,Guayas,Urbana,Mujer,Ninguno
+466,7,1,2,29,1.0,,1019.55,El Oro,Urbana,Mujer,Ninguno
+467,9,1,1,36,2.0,569.06,430.5,Guayas,Urbana,Hombre,Educación básica
+468,13,1,2,21,2.0,306.81,1000.8,Manabí,Urbana,Mujer,Educación básica
+469,1,1,2,28,3.0,463.48,504.75,Azuay,Urbana,Mujer,Bachillerato
+470,9,1,1,15,4.0,1252.11,868.05,Guayas,Urbana,Hombre,Superior
+471,9,1,1,37,3.0,,1094.85,Guayas,Urbana,Hombre,Bachillerato
+472,13,2,1,18,2.0,132.24,1158.9,Manabí,Rural,Hombre,Educación básica
+473,7,1,1,42,2.0,685.57,626.1,El Oro,Urbana,Hombre,Educación básica
+474,17,2,2,53,3.0,,2224.65,Pichincha,Rural,Mujer,Bachillerato
+475,9,2,2,47,3.0,800.99,1145.4,Guayas,Rural,Mujer,Bachillerato
+476,17,2,2,37,4.0,695.6,1595.55,Pichincha,Rural,Mujer,Superior
+477,17,1,2,38,4.0,980.04,1540.2,Pichincha,Urbana,Mujer,Superior
+478,17,1,1,31,3.0,249.62,1190.7,Pichincha,Urbana,Hombre,Bachillerato
+479,9,2,2,15,4.0,439.66,1154.4,Guayas,Rural,Mujer,Superior
+480,17,1,2,28,2.0,564.5,862.2,Pichincha,Urbana,Mujer,Educación básica
+481,9,1,1,25,4.0,580.88,1227.6,Guayas,Urbana,Hombre,Superior
+482,9,1,2,34,3.0,388.02,1079.1,Guayas,Urbana,Mujer,Bachillerato
+483,7,1,2,26,3.0,889.15,864.6,El Oro,Urbana,Mujer,Bachillerato
+484,9,1,2,22,3.0,654.75,958.65,Guayas,Urbana,Mujer,Bachillerato
+485,1,1,1,15,3.0,875.99,817.5,Azuay,Urbana,Hombre,Bachillerato
+486,18,1,2,41,1.0,335.44,844.35,Tungurahua,Urbana,Mujer,Ninguno
+487,1,1,1,16,2.0,586.39,1323.15,Azuay,Urbana,Hombre,Educación básica
+488,9,1,2,43,3.0,841.67,999.0,Guayas,Urbana,Mujer,Bachillerato
+489,17,1,1,19,2.0,567.1,574.8,Pichincha,Urbana,Hombre,Educación básica
+490,7,1,1,55,3.0,,738.6,El Oro,Urbana,Hombre,Bachillerato
+491,13,2,2,38,2.0,259.14,1191.15,Manabí,Rural,Mujer,Educación básica
+492,13,1,2,65,2.0,400.14,524.85,Manabí,Urbana,Mujer,Educación básica
+493,17,1,2,40,4.0,1785.72,550.65,Pichincha,Urbana,Mujer,Superior
+494,13,2,1,55,3.0,616.6,1366.8,Manabí,Rural,Hombre,Bachillerato
+495,17,1,2,40,3.0,669.54,1235.1,Pichincha,Urbana,Mujer,Bachillerato
+496,17,2,2,16,3.0,279.88,1495.5,Pichincha,Rural,Mujer,Bachillerato
+497,13,1,2,35,1.0,292.18,1038.3,Manabí,Urbana,Mujer,Ninguno
+498,9,2,1,21,,397.99,1649.4,Guayas,Rural,Hombre,
+499,1,1,1,36,4.0,686.62,742.2,Azuay,Urbana,Hombre,Superior
+500,7,2,1,82,3.0,433.09,1937.1,El Oro,Rural,Hombre,Bachillerato
+501,17,1,1,22,3.0,189.15,486.3,Pichincha,Urbana,Hombre,Bachillerato
+502,9,1,1,19,3.0,524.1,706.2,Guayas,Urbana,Hombre,Bachillerato
+503,17,1,1,39,4.0,446.08,597.45,Pichincha,Urbana,Hombre,Superior
+504,9,1,2,25,4.0,1289.25,612.45,Guayas,Urbana,Mujer,Superior
+505,1,1,2,57,3.0,,475.8,Azuay,Urbana,Mujer,Bachillerato
+506,9,1,1,52,3.0,368.47,330.3,Guayas,Urbana,Hombre,Bachillerato
+507,9,2,1,60,4.0,,1224.6,Guayas,Rural,Hombre,Superior
+508,1,1,1,15,3.0,997.4,1781.25,Azuay,Urbana,Hombre,Bachillerato
+509,9,1,1,68,1.0,156.73,922.8,Guayas,Urbana,Hombre,Ninguno
+510,17,1,2,58,2.0,510.67,918.15,Pichincha,Urbana,Mujer,Educación básica
+511,9,1,1,17,3.0,426.57,1132.8,Guayas,Urbana,Hombre,Bachillerato
+512,9,2,2,18,2.0,175.34,1522.8,Guayas,Rural,Mujer,Educación básica
+513,18,2,1,29,4.0,,1025.25,Tungurahua,Rural,Hombre,Superior
+514,7,1,1,44,3.0,,1350.45,El Oro,Urbana,Hombre,Bachillerato
+515,13,1,1,28,2.0,758.63,1621.65,Manabí,Urbana,Hombre,Educación básica
+516,18,1,2,31,4.0,1478.6,748.65,Tungurahua,Urbana,Mujer,Superior
+517,9,1,2,16,3.0,317.78,1375.8,Guayas,Urbana,Mujer,Bachillerato
+518,13,2,2,17,3.0,458.51,1904.4,Manabí,Rural,Mujer,Bachillerato
+519,13,1,1,15,4.0,1390.69,594.45,Manabí,Urbana,Hombre,Superior
+520,1,2,2,31,3.0,176.63,1770.45,Azuay,Rural,Mujer,Bachillerato
+521,17,1,1,26,4.0,713.3,1083.9,Pichincha,Urbana,Hombre,Superior
+522,17,1,1,26,2.0,969.15,1146.15,Pichincha,Urbana,Hombre,Educación básica
+523,18,1,2,41,4.0,675.64,1033.8,Tungurahua,Urbana,Mujer,Superior
+524,13,1,2,19,,248.86,688.8,Manabí,Urbana,Mujer,
+525,9,2,2,25,3.0,284.99,1429.8,Guayas,Rural,Mujer,Bachillerato
+526,13,1,1,46,2.0,507.74,727.95,Manabí,Urbana,Hombre,Educación básica
+527,18,2,1,90,2.0,414.07,917.1,Tungurahua,Rural,Hombre,Educación básica
+528,18,1,2,15,2.0,,601.35,Tungurahua,Urbana,Mujer,Educación básica
+529,9,1,2,15,4.0,,965.85,Guayas,Urbana,Mujer,Superior
+530,18,1,2,79,3.0,370.62,584.7,Tungurahua,Urbana,Mujer,Bachillerato
+531,17,1,2,28,4.0,1156.74,702.6,Pichincha,Urbana,Mujer,Superior
+532,17,1,1,49,2.0,609.7,1309.2,Pichincha,Urbana,Hombre,Educación básica
+533,7,1,2,24,,654.93,741.3,El Oro,Urbana,Mujer,
+534,18,1,2,57,3.0,223.8,1650.3,Tungurahua,Urbana,Mujer,Bachillerato
+535,17,1,1,65,3.0,339.75,855.15,Pichincha,Urbana,Hombre,Bachillerato
+536,7,1,2,23,4.0,1350.75,1453.35,El Oro,Urbana,Mujer,Superior
+537,13,1,1,82,1.0,198.51,861.0,Manabí,Urbana,Hombre,Ninguno
+538,1,2,1,38,2.0,597.91,827.7,Azuay,Rural,Hombre,Educación básica
+539,17,1,1,56,3.0,845.23,357.3,Pichincha,Urbana,Hombre,Bachillerato
+540,13,2,1,15,2.0,612.33,1179.75,Manabí,Rural,Hombre,Educación básica
+541,13,2,1,15,,,1753.65,Manabí,Rural,Hombre,
+542,17,2,1,38,3.0,,2129.25,Pichincha,Rural,Hombre,Bachillerato
+543,17,1,2,23,2.0,546.97,552.3,Pichincha,Urbana,Mujer,Educación básica
+544,1,2,1,30,2.0,253.28,1194.9,Azuay,Rural,Hombre,Educación básica
+545,17,2,2,26,2.0,490.3,1629.0,Pichincha,Rural,Mujer,Educación básica
+546,13,2,1,45,4.0,929.73,1305.75,Manabí,Rural,Hombre,Superior
+547,7,1,2,49,2.0,305.91,956.55,El Oro,Urbana,Mujer,Educación básica
+548,9,1,2,52,4.0,1063.32,1470.0,Guayas,Urbana,Mujer,Superior
+549,9,2,2,15,2.0,505.8,1489.5,Guayas,Rural,Mujer,Educación básica
+550,17,1,1,15,4.0,293.5,1576.35,Pichincha,Urbana,Hombre,Superior
+551,17,1,1,17,2.0,665.15,509.85,Pichincha,Urbana,Hombre,Educación básica
+552,1,1,2,43,3.0,1077.61,1317.45,Azuay,Urbana,Mujer,Bachillerato
+553,9,1,2,47,4.0,1070.07,571.05,Guayas,Urbana,Mujer,Superior
+554,17,1,2,36,4.0,2590.63,741.45,Pichincha,Urbana,Mujer,Superior
+555,13,2,2,28,3.0,477.02,1997.4,Manabí,Rural,Mujer,Bachillerato
+556,17,1,2,15,4.0,894.34,1561.95,Pichincha,Urbana,Mujer,Superior
+557,13,1,2,43,2.0,1012.54,1567.5,Manabí,Urbana,Mujer,Educación básica
+558,9,2,2,63,3.0,909.12,1025.85,Guayas,Rural,Mujer,Bachillerato
+559,9,2,1,23,,,1822.95,Guayas,Rural,Hombre,
+560,9,1,2,37,2.0,625.25,1542.9,Guayas,Urbana,Mujer,Educación básica
+561,17,2,1,38,3.0,334.65,1358.85,Pichincha,Rural,Hombre,Bachillerato
+562,9,1,1,70,3.0,477.0,1195.05,Guayas,Urbana,Hombre,Bachillerato
+563,9,2,1,15,2.0,201.62,1654.5,Guayas,Rural,Hombre,Educación básica
+564,17,1,1,30,2.0,916.84,1011.45,Pichincha,Urbana,Hombre,Educación básica
+565,9,1,1,15,3.0,,1132.2,Guayas,Urbana,Hombre,Bachillerato
+566,9,1,2,21,3.0,1149.79,662.25,Guayas,Urbana,Mujer,Bachillerato
+567,18,1,2,17,3.0,735.08,1112.1,Tungurahua,Urbana,Mujer,Bachillerato
+568,13,1,1,42,4.0,2704.96,1133.55,Manabí,Urbana,Hombre,Superior
+569,13,2,1,36,2.0,,1830.3,Manabí,Rural,Hombre,Educación básica
+570,18,2,1,21,2.0,282.45,1272.0,Tungurahua,Rural,Hombre,Educación básica
+571,17,2,2,49,2.0,200.05,1926.0,Pichincha,Rural,Mujer,Educación básica
+572,18,1,1,90,2.0,461.88,1546.2,Tungurahua,Urbana,Hombre,Educación básica
+573,13,1,1,23,3.0,711.75,940.5,Manabí,Urbana,Hombre,Bachillerato
+574,13,1,2,27,4.0,922.17,934.65,Manabí,Urbana,Mujer,Superior
+575,9,1,2,18,4.0,1902.67,819.15,Guayas,Urbana,Mujer,Superior
+576,9,1,1,47,4.0,1246.44,938.85,Guayas,Urbana,Hombre,Superior
+577,13,1,1,31,4.0,767.1,387.3,Manabí,Urbana,Hombre,Superior
+578,1,2,2,62,1.0,185.1,2014.2,Azuay,Rural,Mujer,Ninguno
+579,7,1,1,63,2.0,212.14,685.2,El Oro,Urbana,Hombre,Educación básica
+580,17,1,1,15,4.0,1477.73,414.75,Pichincha,Urbana,Hombre,Superior
+581,13,2,1,90,2.0,88.67,357.0,Manabí,Rural,Hombre,Educación básica
+582,1,1,1,55,2.0,607.64,1072.05,Azuay,Urbana,Hombre,Educación básica
+583,7,1,1,26,3.0,722.16,1245.6,El Oro,Urbana,Hombre,Bachillerato
+584,13,2,2,61,2.0,294.24,1045.65,Manabí,Rural,Mujer,Educación básica
+585,9,1,2,18,2.0,269.98,690.3,Guayas,Urbana,Mujer,Educación básica
+586,13,1,2,15,3.0,331.1,227.55,Manabí,Urbana,Mujer,Bachillerato
+587,7,1,1,26,2.0,,1208.4,El Oro,Urbana,Hombre,Educación básica
+588,17,2,2,15,3.0,212.79,1464.45,Pichincha,Rural,Mujer,Bachillerato
+589,9,1,2,37,2.0,302.26,1117.35,Guayas,Urbana,Mujer,Educación básica
+590,9,1,2,26,2.0,493.98,991.05,Guayas,Urbana,Mujer,Educación básica
+591,9,1,2,17,2.0,595.33,347.4,Guayas,Urbana,Mujer,Educación básica
+592,13,1,2,34,2.0,725.62,135.6,Manabí,Urbana,Mujer,Educación básica
+593,18,2,2,20,2.0,,810.3,Tungurahua,Rural,Mujer,Educación básica
+594,7,1,2,15,4.0,1541.16,780.9,El Oro,Urbana,Mujer,Superior
+595,7,2,1,19,2.0,489.44,2023.95,El Oro,Rural,Hombre,Educación básica
+596,7,2,1,29,3.0,334.02,2195.1,El Oro,Rural,Hombre,Bachillerato
+597,17,1,2,41,4.0,2747.88,517.2,Pichincha,Urbana,Mujer,Superior
+598,9,1,2,18,2.0,657.5,1109.25,Guayas,Urbana,Mujer,Educación básica
+599,18,1,1,37,3.0,782.27,1045.05,Tungurahua,Urbana,Hombre,Bachillerato
+600,1,1,2,40,2.0,462.29,1216.65,Azuay,Urbana,Mujer,Educación básica
+601,13,1,2,42,2.0,394.46,1030.95,Manabí,Urbana,Mujer,Educación básica
+602,17,2,2,36,3.0,389.48,1198.8,Pichincha,Rural,Mujer,Bachillerato
+603,9,1,1,26,3.0,739.34,723.75,Guayas,Urbana,Hombre,Bachillerato
+604,9,2,1,21,3.0,563.76,1085.4,Guayas,Rural,Hombre,Bachillerato
+605,17,2,1,15,3.0,1147.15,1008.75,Pichincha,Rural,Hombre,Bachillerato
+606,9,1,2,54,3.0,,742.8,Guayas,Urbana,Mujer,Bachillerato
+607,17,1,1,68,3.0,,968.1,Pichincha,Urbana,Hombre,Bachillerato
+608,9,1,2,45,2.0,477.33,1225.2,Guayas,Urbana,Mujer,Educación básica
+609,13,1,1,29,2.0,887.56,1791.6,Manabí,Urbana,Hombre,Educación básica
+610,13,1,1,26,3.0,984.11,1365.6,Manabí,Urbana,Hombre,Bachillerato
+611,17,1,1,60,3.0,505.07,1090.5,Pichincha,Urbana,Hombre,Bachillerato
+612,1,1,2,50,3.0,368.93,378.6,Azuay,Urbana,Mujer,Bachillerato
+613,17,2,2,50,3.0,528.29,405.3,Pichincha,Rural,Mujer,Bachillerato
+614,13,1,1,47,4.0,1327.26,960.45,Manabí,Urbana,Hombre,Superior
+615,17,1,2,20,4.0,1179.86,1133.25,Pichincha,Urbana,Mujer,Superior
+616,13,1,1,46,4.0,724.09,539.85,Manabí,Urbana,Hombre,Superior
+617,9,1,1,49,3.0,1061.34,1446.45,Guayas,Urbana,Hombre,Bachillerato
+618,17,1,2,19,3.0,854.12,820.65,Pichincha,Urbana,Mujer,Bachillerato
+619,9,1,2,43,2.0,398.77,1163.1,Guayas,Urbana,Mujer,Educación básica
+620,1,2,1,15,3.0,238.61,1157.85,Azuay,Rural,Hombre,Bachillerato
+621,17,1,1,51,4.0,3229.66,1249.95,Pichincha,Urbana,Hombre,Superior
+622,17,1,1,33,4.0,1916.75,688.5,Pichincha,Urbana,Hombre,Superior
+623,17,1,2,15,2.0,668.53,1189.65,Pichincha,Urbana,Mujer,Educación básica
+624,9,1,1,53,3.0,592.41,400.5,Guayas,Urbana,Hombre,Bachillerato
+625,17,1,1,49,4.0,886.44,1043.55,Pichincha,Urbana,Hombre,Superior
+626,17,1,2,35,,502.77,483.9,Pichincha,Urbana,Mujer,
+627,9,1,1,35,3.0,1534.99,959.4,Guayas,Urbana,Hombre,Bachillerato
+628,17,1,2,49,2.0,284.33,714.9,Pichincha,Urbana,Mujer,Educación básica
+629,18,1,1,42,2.0,287.44,1340.1,Tungurahua,Urbana,Hombre,Educación básica
+630,9,1,2,58,3.0,622.22,826.2,Guayas,Urbana,Mujer,Bachillerato
+631,9,1,2,57,4.0,2756.18,1439.85,Guayas,Urbana,Mujer,Superior
+632,13,2,1,54,3.0,196.64,1064.1,Manabí,Rural,Hombre,Bachillerato
+633,17,1,2,61,2.0,678.93,1444.95,Pichincha,Urbana,Mujer,Educación básica
+634,13,1,1,17,3.0,337.44,1490.4,Manabí,Urbana,Hombre,Bachillerato
+635,18,1,2,40,,330.75,1053.0,Tungurahua,Urbana,Mujer,
+636,18,1,1,33,3.0,789.91,531.6,Tungurahua,Urbana,Hombre,Bachillerato
+637,17,2,2,22,3.0,463.36,624.0,Pichincha,Rural,Mujer,Bachillerato
+638,17,1,2,27,3.0,509.22,469.8,Pichincha,Urbana,Mujer,Bachillerato
+639,7,1,2,38,,417.38,918.9,El Oro,Urbana,Mujer,
+640,9,2,1,18,3.0,235.58,1297.05,Guayas,Rural,Hombre,Bachillerato
+641,17,2,2,47,,927.08,1017.45,Pichincha,Rural,Mujer,
+642,9,1,1,26,4.0,1540.09,929.1,Guayas,Urbana,Hombre,Superior
+643,9,1,1,15,1.0,178.98,504.75,Guayas,Urbana,Hombre,Ninguno
+644,1,1,2,33,1.0,482.91,1545.0,Azuay,Urbana,Mujer,Ninguno
+645,9,1,2,64,3.0,1088.6,1045.65,Guayas,Urbana,Mujer,Bachillerato
+646,13,1,2,42,3.0,496.82,881.1,Manabí,Urbana,Mujer,Bachillerato
+647,18,1,2,27,4.0,1322.87,992.4,Tungurahua,Urbana,Mujer,Superior
+648,9,1,2,15,2.0,628.29,537.75,Guayas,Urbana,Mujer,Educación básica
+649,17,1,2,29,2.0,377.58,1109.55,Pichincha,Urbana,Mujer,Educación básica
+650,7,2,2,18,3.0,933.41,1926.6,El Oro,Rural,Mujer,Bachillerato
+651,17,1,2,23,2.0,245.03,943.65,Pichincha,Urbana,Mujer,Educación básica
+652,18,1,1,21,4.0,468.87,971.55,Tungurahua,Urbana,Hombre,Superior
+653,9,1,2,82,2.0,961.92,1498.2,Guayas,Urbana,Mujer,Educación básica
+654,9,1,2,19,4.0,889.52,934.5,Guayas,Urbana,Mujer,Superior
+655,17,1,1,31,2.0,681.13,1748.4,Pichincha,Urbana,Hombre,Educación básica
+656,9,1,1,19,2.0,,884.85,Guayas,Urbana,Hombre,Educación básica
+657,18,1,2,47,4.0,1075.65,733.5,Tungurahua,Urbana,Mujer,Superior
+658,17,2,1,47,2.0,352.88,1375.35,Pichincha,Rural,Hombre,Educación básica
+659,18,2,2,28,3.0,482.41,1336.65,Tungurahua,Rural,Mujer,Bachillerato
+660,17,1,2,45,4.0,3652.91,794.4,Pichincha,Urbana,Mujer,Superior
+661,13,1,1,53,2.0,344.04,743.7,Manabí,Urbana,Hombre,Educación básica
+662,13,1,2,22,4.0,723.87,1108.5,Manabí,Urbana,Mujer,Superior
+663,13,1,2,30,3.0,809.75,1032.9,Manabí,Urbana,Mujer,Bachillerato
+664,9,1,1,33,2.0,,889.5,Guayas,Urbana,Hombre,Educación básica
+665,18,1,1,41,3.0,626.24,706.35,Tungurahua,Urbana,Hombre,Bachillerato
+666,1,1,2,15,3.0,655.72,1556.7,Azuay,Urbana,Mujer,Bachillerato
+667,9,1,2,15,2.0,963.07,879.3,Guayas,Urbana,Mujer,Educación básica
+668,18,2,1,29,3.0,1255.46,1647.0,Tungurahua,Rural,Hombre,Bachillerato
+669,18,1,1,33,4.0,1306.35,1268.4,Tungurahua,Urbana,Hombre,Superior
+670,9,1,2,30,2.0,477.95,823.05,Guayas,Urbana,Mujer,Educación básica
+671,18,1,2,16,2.0,,1891.65,Tungurahua,Urbana,Mujer,Educación básica
+672,17,1,1,54,3.0,948.7,1004.55,Pichincha,Urbana,Hombre,Bachillerato
+673,17,1,2,21,2.0,391.05,601.8,Pichincha,Urbana,Mujer,Educación básica
+674,13,1,1,74,2.0,739.79,1291.35,Manabí,Urbana,Hombre,Educación básica
+675,9,1,2,15,3.0,926.98,705.15,Guayas,Urbana,Mujer,Bachillerato
+676,1,2,1,23,4.0,2139.83,1704.45,Azuay,Rural,Hombre,Superior
+677,9,1,1,22,4.0,1060.92,668.55,Guayas,Urbana,Hombre,Superior
+678,9,1,2,46,2.0,299.42,947.85,Guayas,Urbana,Mujer,Educación básica
+679,1,1,1,59,4.0,622.71,481.2,Azuay,Urbana,Hombre,Superior
+680,1,2,1,33,3.0,269.47,1705.95,Azuay,Rural,Hombre,Bachillerato
+681,9,1,2,41,2.0,,858.3,Guayas,Urbana,Mujer,Educación básica
+682,9,1,2,20,2.0,304.17,782.85,Guayas,Urbana,Mujer,Educación básica
+683,17,1,2,29,3.0,,602.1,Pichincha,Urbana,Mujer,Bachillerato
+684,13,2,2,46,2.0,514.64,1875.0,Manabí,Rural,Mujer,Educación básica
+685,13,1,2,33,3.0,688.16,1597.05,Manabí,Urbana,Mujer,Bachillerato
+686,17,2,2,15,3.0,298.16,1174.5,Pichincha,Rural,Mujer,Bachillerato
+687,17,2,2,86,2.0,433.38,1431.0,Pichincha,Rural,Mujer,Educación básica
+688,9,2,1,70,2.0,437.89,1132.05,Guayas,Rural,Hombre,Educación básica
+689,13,1,2,59,3.0,249.27,1004.4,Manabí,Urbana,Mujer,Bachillerato
+690,18,1,1,31,2.0,,1412.7,Tungurahua,Urbana,Hombre,Educación básica
+691,1,1,1,69,1.0,175.32,1236.9,Azuay,Urbana,Hombre,Ninguno
+692,13,1,1,65,,641.87,451.05,Manabí,Urbana,Hombre,
+693,17,1,1,74,1.0,217.1,842.25,Pichincha,Urbana,Hombre,Ninguno
+694,9,2,2,49,2.0,252.1,1377.15,Guayas,Rural,Mujer,Educación básica
+695,17,2,2,24,3.0,,1785.6,Pichincha,Rural,Mujer,Bachillerato
+696,17,2,1,43,2.0,203.3,654.15,Pichincha,Rural,Hombre,Educación básica
+697,17,1,1,70,1.0,,1120.2,Pichincha,Urbana,Hombre,Ninguno
+698,13,1,2,23,2.0,477.89,513.45,Manabí,Urbana,Mujer,Educación básica
+699,17,1,2,38,2.0,737.72,430.8,Pichincha,Urbana,Mujer,Educación básica
+700,17,1,1,42,4.0,1379.67,634.05,Pichincha,Urbana,Hombre,Superior
+701,9,2,2,30,2.0,,1113.9,Guayas,Rural,Mujer,Educación básica
+702,1,1,1,20,2.0,269.64,1252.35,Azuay,Urbana,Hombre,Educación básica
+703,18,1,2,41,4.0,,538.65,Tungurahua,Urbana,Mujer,Superior
+704,9,1,1,44,3.0,495.35,990.15,Guayas,Urbana,Hombre,Bachillerato
+705,9,1,1,40,4.0,1953.84,721.65,Guayas,Urbana,Hombre,Superior
+706,9,1,2,32,1.0,355.28,844.2,Guayas,Urbana,Mujer,Ninguno
+707,9,2,1,19,4.0,747.69,1499.55,Guayas,Rural,Hombre,Superior
+708,13,1,1,17,4.0,797.24,1087.5,Manabí,Urbana,Hombre,Superior
+709,9,1,2,15,,,1480.95,Guayas,Urbana,Mujer,
+710,9,1,2,51,4.0,383.45,853.95,Guayas,Urbana,Mujer,Superior
+711,1,1,2,15,2.0,325.59,965.7,Azuay,Urbana,Mujer,Educación básica
+712,18,1,2,23,3.0,657.65,1605.6,Tungurahua,Urbana,Mujer,Bachillerato
+713,1,2,1,19,4.0,1227.57,1302.0,Azuay,Rural,Hombre,Superior
+714,17,1,1,33,2.0,431.59,1400.25,Pichincha,Urbana,Hombre,Educación básica
+715,1,2,1,44,3.0,298.89,1494.3,Azuay,Rural,Hombre,Bachillerato
+716,9,2,2,36,2.0,123.68,1476.75,Guayas,Rural,Mujer,Educación básica
+717,17,2,2,39,3.0,389.14,1166.4,Pichincha,Rural,Mujer,Bachillerato
+718,13,1,1,34,3.0,535.25,712.05,Manabí,Urbana,Hombre,Bachillerato
+719,17,1,2,37,2.0,889.36,801.75,Pichincha,Urbana,Mujer,Educación básica
+720,1,1,1,41,3.0,506.09,756.9,Azuay,Urbana,Hombre,Bachillerato
+721,17,1,2,32,2.0,414.99,558.6,Pichincha,Urbana,Mujer,Educación básica
+722,13,1,2,15,2.0,554.81,1363.8,Manabí,Urbana,Mujer,Educación básica
+723,18,2,2,42,3.0,375.51,1949.1,Tungurahua,Rural,Mujer,Bachillerato
+724,18,1,1,32,2.0,865.87,659.1,Tungurahua,Urbana,Hombre,Educación básica
+725,17,1,2,16,2.0,491.8,1758.9,Pichincha,Urbana,Mujer,Educación básica
+726,17,2,2,44,2.0,,1623.9,Pichincha,Rural,Mujer,Educación básica
+727,18,1,1,43,1.0,131.73,1403.25,Tungurahua,Urbana,Hombre,Ninguno
+728,17,1,2,57,2.0,,883.8,Pichincha,Urbana,Mujer,Educación básica
+729,13,1,1,20,4.0,1386.23,847.95,Manabí,Urbana,Hombre,Superior
+730,13,1,2,15,4.0,,380.85,Manabí,Urbana,Mujer,Superior
+731,13,1,2,30,4.0,761.5,597.6,Manabí,Urbana,Mujer,Superior
+732,13,1,1,44,3.0,387.17,852.75,Manabí,Urbana,Hombre,Bachillerato
+733,13,2,2,21,2.0,266.98,832.8,Manabí,Rural,Mujer,Educación básica
+734,1,1,2,15,,1891.65,335.55,Azuay,Urbana,Mujer,
+735,7,2,1,19,2.0,193.63,1087.65,El Oro,Rural,Hombre,Educación básica
+736,9,1,2,54,4.0,933.49,293.25,Guayas,Urbana,Mujer,Superior
+737,9,1,1,26,3.0,259.41,989.7,Guayas,Urbana,Hombre,Bachillerato
+738,13,1,2,30,3.0,849.82,724.5,Manabí,Urbana,Mujer,Bachillerato
+739,18,1,2,19,1.0,144.86,1713.15,Tungurahua,Urbana,Mujer,Ninguno
+740,9,1,2,33,2.0,465.28,1365.45,Guayas,Urbana,Mujer,Educación básica
+741,17,1,2,52,4.0,935.46,800.4,Pichincha,Urbana,Mujer,Superior
+742,9,2,2,19,2.0,713.22,821.4,Guayas,Rural,Mujer,Educación básica
+743,17,1,2,15,2.0,265.63,914.1,Pichincha,Urbana,Mujer,Educación básica
+744,1,1,1,15,4.0,800.75,1140.3,Azuay,Urbana,Hombre,Superior
+745,13,1,1,44,2.0,563.78,1348.95,Manabí,Urbana,Hombre,Educación básica
+746,13,1,1,16,2.0,703.19,1190.55,Manabí,Urbana,Hombre,Educación básica
+747,17,2,2,28,2.0,280.87,1536.75,Pichincha,Rural,Mujer,Educación básica
+748,1,1,1,22,4.0,1652.01,1112.85,Azuay,Urbana,Hombre,Superior
+749,13,1,1,52,2.0,,1472.55,Manabí,Urbana,Hombre,Educación básica
+750,17,1,1,19,4.0,1210.13,1192.35,Pichincha,Urbana,Hombre,Superior
+751,13,2,1,59,3.0,309.62,1440.9,Manabí,Rural,Hombre,Bachillerato
+752,7,2,1,34,2.0,561.43,1368.45,El Oro,Rural,Hombre,Educación básica
+753,17,2,2,45,3.0,316.69,1537.95,Pichincha,Rural,Mujer,Bachillerato
+754,9,1,1,58,4.0,1339.88,902.4,Guayas,Urbana,Hombre,Superior
+755,1,1,2,38,2.0,285.24,692.85,Azuay,Urbana,Mujer,Educación básica
+756,1,1,2,22,4.0,2518.73,616.95,Azuay,Urbana,Mujer,Superior
+757,17,1,1,58,3.0,1253.35,1568.25,Pichincha,Urbana,Hombre,Bachillerato
+758,17,1,1,15,4.0,1370.86,407.85,Pichincha,Urbana,Hombre,Superior
+759,17,1,2,80,2.0,334.55,1386.9,Pichincha,Urbana,Mujer,Educación básica
+760,17,1,2,38,4.0,2330.62,529.05,Pichincha,Urbana,Mujer,Superior
+761,17,2,1,66,2.0,200.66,1555.95,Pichincha,Rural,Hombre,Educación básica
+762,18,2,1,29,2.0,430.02,1427.7,Tungurahua,Rural,Hombre,Educación básica
+763,13,2,2,25,2.0,400.43,2960.85,Manabí,Rural,Mujer,Educación básica
+764,13,1,1,17,4.0,1331.16,2100.9,Manabí,Urbana,Hombre,Superior
+765,18,1,2,35,4.0,,483.3,Tungurahua,Urbana,Mujer,Superior
+766,9,2,1,29,3.0,,1758.9,Guayas,Rural,Hombre,Bachillerato
+767,9,1,2,46,2.0,169.35,822.3,Guayas,Urbana,Mujer,Educación básica
+768,18,1,2,56,2.0,204.54,2237.55,Tungurahua,Urbana,Mujer,Educación básica
+769,1,1,1,23,4.0,991.6,957.3,Azuay,Urbana,Hombre,Superior
+770,13,1,2,31,3.0,398.62,786.3,Manabí,Urbana,Mujer,Bachillerato
+771,18,2,2,33,4.0,787.42,1699.35,Tungurahua,Rural,Mujer,Superior
+772,17,2,2,16,4.0,557.52,641.7,Pichincha,Rural,Mujer,Superior
+773,13,1,2,49,2.0,322.95,785.1,Manabí,Urbana,Mujer,Educación básica
+774,9,1,1,16,2.0,827.84,1660.2,Guayas,Urbana,Hombre,Educación básica
+775,9,1,1,15,4.0,939.39,1592.25,Guayas,Urbana,Hombre,Superior
+776,13,2,1,35,3.0,311.99,2214.6,Manabí,Rural,Hombre,Bachillerato
+777,17,2,2,28,2.0,529.41,650.4,Pichincha,Rural,Mujer,Educación básica
+778,13,2,2,27,3.0,295.59,625.05,Manabí,Rural,Mujer,Bachillerato
+779,17,1,1,55,,402.12,1011.3,Pichincha,Urbana,Hombre,
+780,18,1,1,18,4.0,1748.74,1221.3,Tungurahua,Urbana,Hombre,Superior
+781,13,2,1,64,2.0,652.4,1107.9,Manabí,Rural,Hombre,Educación básica
+782,17,2,1,23,3.0,509.42,560.25,Pichincha,Rural,Hombre,Bachillerato
+783,17,1,2,63,1.0,,1225.65,Pichincha,Urbana,Mujer,Ninguno
+784,13,2,1,18,2.0,,785.7,Manabí,Rural,Hombre,Educación básica
+785,9,1,1,25,2.0,368.48,941.85,Guayas,Urbana,Hombre,Educación básica
+786,17,1,1,90,1.0,492.98,1502.85,Pichincha,Urbana,Hombre,Ninguno
+787,17,2,2,50,3.0,883.98,1346.55,Pichincha,Rural,Mujer,Bachillerato
+788,18,1,1,15,1.0,374.96,797.25,Tungurahua,Urbana,Hombre,Ninguno
+789,1,1,1,18,4.0,1695.48,1493.85,Azuay,Urbana,Hombre,Superior
+790,9,1,2,40,3.0,745.73,763.2,Guayas,Urbana,Mujer,Bachillerato
+791,1,1,2,51,3.0,458.7,1203.3,Azuay,Urbana,Mujer,Bachillerato
+792,9,1,2,43,2.0,,832.65,Guayas,Urbana,Mujer,Educación básica
+793,9,2,1,23,3.0,350.13,1238.4,Guayas,Rural,Hombre,Bachillerato
+794,7,2,2,19,1.0,214.22,1577.1,El Oro,Rural,Mujer,Ninguno
+795,18,1,2,37,2.0,281.57,452.1,Tungurahua,Urbana,Mujer,Educación básica
+796,17,1,2,50,2.0,230.56,1926.3,Pichincha,Urbana,Mujer,Educación básica
+797,9,2,2,37,3.0,1019.33,1732.8,Guayas,Rural,Mujer,Bachillerato
+798,17,2,1,31,2.0,,1266.45,Pichincha,Rural,Hombre,Educación básica
+799,9,1,1,15,2.0,1019.1,497.25,Guayas,Urbana,Hombre,Educación básica
+800,9,2,2,57,2.0,594.47,1627.5,Guayas,Rural,Mujer,Educación básica
+801,17,2,2,15,,223.09,1893.45,Pichincha,Rural,Mujer,
+802,13,1,2,15,2.0,,985.8,Manabí,Urbana,Mujer,Educación básica
+803,17,1,1,60,3.0,340.51,1315.35,Pichincha,Urbana,Hombre,Bachillerato
+804,9,1,2,35,2.0,406.62,703.5,Guayas,Urbana,Mujer,Educación básica
+805,7,1,1,15,2.0,572.05,860.4,El Oro,Urbana,Hombre,Educación básica
+806,9,1,2,15,3.0,446.47,645.45,Guayas,Urbana,Mujer,Bachillerato
+807,17,1,2,65,3.0,332.98,417.3,Pichincha,Urbana,Mujer,Bachillerato
+808,17,2,1,65,1.0,184.54,1665.75,Pichincha,Rural,Hombre,Ninguno
+809,17,2,1,49,2.0,269.65,2306.85,Pichincha,Rural,Hombre,Educación básica
+810,18,2,2,26,2.0,528.94,2082.45,Tungurahua,Rural,Mujer,Educación básica
+811,9,1,2,35,3.0,447.26,1070.25,Guayas,Urbana,Mujer,Bachillerato
+812,17,2,1,21,3.0,1161.85,1953.75,Pichincha,Rural,Hombre,Bachillerato
+813,18,1,1,19,2.0,239.67,319.65,Tungurahua,Urbana,Hombre,Educación básica
+814,9,1,1,58,4.0,,341.85,Guayas,Urbana,Hombre,Superior
+815,1,1,2,42,2.0,667.75,567.45,Azuay,Urbana,Mujer,Educación básica
+816,7,1,1,31,1.0,463.59,913.8,El Oro,Urbana,Hombre,Ninguno
+817,17,2,2,39,3.0,347.93,1901.4,Pichincha,Rural,Mujer,Bachillerato
+818,17,1,1,21,2.0,,718.8,Pichincha,Urbana,Hombre,Educación básica
+819,9,1,1,15,3.0,606.86,1259.85,Guayas,Urbana,Hombre,Bachillerato
+820,18,1,2,43,2.0,802.97,1195.95,Tungurahua,Urbana,Mujer,Educación básica
+821,9,2,1,26,3.0,246.68,1240.2,Guayas,Rural,Hombre,Bachillerato
+822,17,1,2,52,4.0,1082.64,252.45,Pichincha,Urbana,Mujer,Superior
+823,7,2,2,51,2.0,647.34,1412.1,El Oro,Rural,Mujer,Educación básica
+824,17,2,2,73,2.0,302.96,2749.95,Pichincha,Rural,Mujer,Educación básica
+825,1,1,2,15,3.0,832.77,576.9,Azuay,Urbana,Mujer,Bachillerato
+826,13,2,2,36,1.0,168.94,1483.35,Manabí,Rural,Mujer,Ninguno
+827,9,1,2,45,4.0,1197.99,765.45,Guayas,Urbana,Mujer,Superior
+828,13,2,2,36,2.0,651.83,2829.0,Manabí,Rural,Mujer,Educación básica
+829,17,1,2,47,4.0,1086.91,804.6,Pichincha,Urbana,Mujer,Superior
+830,9,1,2,32,2.0,426.08,1011.3,Guayas,Urbana,Mujer,Educación básica
+831,18,1,1,44,2.0,932.34,643.35,Tungurahua,Urbana,Hombre,Educación básica
+832,9,1,2,31,2.0,314.28,896.25,Guayas,Urbana,Mujer,Educación básica
+833,9,2,2,36,3.0,514.89,1807.05,Guayas,Rural,Mujer,Bachillerato
+834,7,1,2,35,4.0,,777.6,El Oro,Urbana,Mujer,Superior
+835,1,1,1,43,4.0,475.22,1357.65,Azuay,Urbana,Hombre,Superior
+836,1,1,1,18,3.0,495.9,1099.5,Azuay,Urbana,Hombre,Bachillerato
+837,17,1,1,15,3.0,461.76,782.7,Pichincha,Urbana,Hombre,Bachillerato
+838,1,1,1,16,3.0,479.32,1582.2,Azuay,Urbana,Hombre,Bachillerato
+839,13,1,2,30,3.0,267.84,895.65,Manabí,Urbana,Mujer,Bachillerato
+840,13,2,1,53,2.0,250.5,1071.3,Manabí,Rural,Hombre,Educación básica
+841,13,2,2,45,2.0,340.7,501.3,Manabí,Rural,Mujer,Educación básica
+842,9,1,2,15,4.0,,947.1,Guayas,Urbana,Mujer,Superior
+843,1,1,2,19,2.0,489.72,530.4,Azuay,Urbana,Mujer,Educación básica
+844,7,1,2,28,4.0,664.0,967.65,El Oro,Urbana,Mujer,Superior
+845,13,2,1,49,2.0,289.25,1418.85,Manabí,Rural,Hombre,Educación básica
+846,17,1,2,37,3.0,,721.05,Pichincha,Urbana,Mujer,Bachillerato
+847,9,2,1,23,3.0,347.07,1822.65,Guayas,Rural,Hombre,Bachillerato
+848,9,2,2,40,1.0,267.82,884.25,Guayas,Rural,Mujer,Ninguno
+849,17,2,2,24,2.0,392.08,920.1,Pichincha,Rural,Mujer,Educación básica
+850,1,1,2,36,2.0,382.49,978.6,Azuay,Urbana,Mujer,Educación básica
+851,13,1,1,26,4.0,776.22,872.85,Manabí,Urbana,Hombre,Superior
+852,18,1,2,17,2.0,197.13,755.55,Tungurahua,Urbana,Mujer,Educación básica
+853,9,1,2,42,2.0,509.53,2455.8,Guayas,Urbana,Mujer,Educación básica
+854,9,1,1,61,2.0,434.18,1168.05,Guayas,Urbana,Hombre,Educación básica
+855,9,1,2,46,3.0,508.63,991.5,Guayas,Urbana,Mujer,Bachillerato
+856,13,1,2,16,2.0,641.37,1103.7,Manabí,Urbana,Mujer,Educación básica
+857,17,1,2,29,,905.25,1193.7,Pichincha,Urbana,Mujer,
+858,17,2,2,47,3.0,620.41,2390.55,Pichincha,Rural,Mujer,Bachillerato
+859,9,1,1,40,3.0,772.67,1281.45,Guayas,Urbana,Hombre,Bachillerato
+860,9,2,2,28,2.0,,1381.2,Guayas,Rural,Mujer,Educación básica
+861,13,1,1,25,2.0,455.43,1308.9,Manabí,Urbana,Hombre,Educación básica
+862,13,1,2,15,3.0,1530.47,789.0,Manabí,Urbana,Mujer,Bachillerato
+863,1,1,2,51,2.0,,403.2,Azuay,Urbana,Mujer,Educación básica
+864,13,2,1,38,2.0,345.99,815.4,Manabí,Rural,Hombre,Educación básica
+865,17,2,1,15,3.0,258.39,1478.55,Pichincha,Rural,Hombre,Bachillerato
+866,7,1,2,31,4.0,2321.7,746.1,El Oro,Urbana,Mujer,Superior
+867,17,2,2,59,2.0,,1447.5,Pichincha,Rural,Mujer,Educación básica
+868,7,1,2,23,4.0,,1557.15,El Oro,Urbana,Mujer,Superior
+869,1,1,1,15,3.0,438.71,916.8,Azuay,Urbana,Hombre,Bachillerato
+870,13,1,1,20,4.0,1113.94,588.0,Manabí,Urbana,Hombre,Superior
+871,17,1,2,20,4.0,,553.5,Pichincha,Urbana,Mujer,Superior
+872,13,1,2,66,2.0,334.24,1007.55,Manabí,Urbana,Mujer,Educación básica
+873,13,1,1,72,2.0,,1179.0,Manabí,Urbana,Hombre,Educación básica
+874,1,1,1,41,3.0,,272.1,Azuay,Urbana,Hombre,Bachillerato
+875,13,1,2,15,1.0,498.73,891.3,Manabí,Urbana,Mujer,Ninguno
+876,9,1,1,27,3.0,489.11,942.3,Guayas,Urbana,Hombre,Bachillerato
+877,1,1,1,57,3.0,1418.56,455.85,Azuay,Urbana,Hombre,Bachillerato
+878,17,2,2,26,3.0,412.12,957.0,Pichincha,Rural,Mujer,Bachillerato
+879,7,1,2,73,1.0,,758.7,El Oro,Urbana,Mujer,Ninguno
+880,9,1,2,52,4.0,2037.6,1410.15,Guayas,Urbana,Mujer,Superior
+881,9,1,2,77,1.0,368.71,978.3,Guayas,Urbana,Mujer,Ninguno
+882,13,2,1,15,2.0,,1144.65,Manabí,Rural,Hombre,Educación básica
+883,17,1,2,40,1.0,222.64,857.85,Pichincha,Urbana,Mujer,Ninguno
+884,17,1,1,76,1.0,424.69,683.4,Pichincha,Urbana,Hombre,Ninguno
+885,7,2,1,30,4.0,993.08,1364.1,El Oro,Rural,Hombre,Superior
+886,9,1,2,56,2.0,364.22,1079.7,Guayas,Urbana,Mujer,Educación básica
+887,9,2,2,46,2.0,1167.27,1502.7,Guayas,Rural,Mujer,Educación básica
+888,9,2,2,15,2.0,273.26,2356.95,Guayas,Rural,Mujer,Educación básica
+889,17,1,2,17,3.0,1063.98,733.35,Pichincha,Urbana,Mujer,Bachillerato
+890,13,1,1,20,4.0,1710.72,1291.05,Manabí,Urbana,Hombre,Superior
+891,9,1,2,29,2.0,568.12,2076.15,Guayas,Urbana,Mujer,Educación básica
+892,13,1,1,41,4.0,830.56,478.2,Manabí,Urbana,Hombre,Superior
+893,9,2,2,30,2.0,,1301.85,Guayas,Rural,Mujer,Educación básica
+894,17,2,2,28,3.0,417.27,417.0,Pichincha,Rural,Mujer,Bachillerato
+895,17,1,2,55,4.0,674.21,764.1,Pichincha,Urbana,Mujer,Superior
+896,17,2,2,88,1.0,150.05,1326.3,Pichincha,Rural,Mujer,Ninguno
+897,18,1,1,15,2.0,321.68,781.8,Tungurahua,Urbana,Hombre,Educación básica
+898,13,2,2,76,2.0,191.0,997.2,Manabí,Rural,Mujer,Educación básica
+899,13,1,1,34,4.0,1270.72,922.65,Manabí,Urbana,Hombre,Superior
+900,17,1,2,34,4.0,800.97,927.0,Pichincha,Urbana,Mujer,Superior
+901,13,2,2,79,3.0,619.21,899.85,Manabí,Rural,Mujer,Bachillerato
+902,18,1,1,36,3.0,984.35,1289.4,Tungurahua,Urbana,Hombre,Bachillerato
+903,9,2,2,44,2.0,,733.8,Guayas,Rural,Mujer,Educación básica
+904,9,1,1,50,2.0,1287.42,725.7,Guayas,Urbana,Hombre,Educación básica
+905,1,2,2,15,2.0,412.6,937.8,Azuay,Rural,Mujer,Educación básica
+906,18,1,1,15,3.0,1238.67,498.75,Tungurahua,Urbana,Hombre,Bachillerato
+907,1,1,2,38,2.0,666.17,656.85,Azuay,Urbana,Mujer,Educación básica
+908,17,1,1,16,3.0,576.42,979.65,Pichincha,Urbana,Hombre,Bachillerato
+909,9,2,1,36,2.0,234.21,1666.95,Guayas,Rural,Hombre,Educación básica
+910,18,1,2,18,2.0,308.76,1523.55,Tungurahua,Urbana,Mujer,Educación básica
+911,7,1,1,19,3.0,459.06,986.7,El Oro,Urbana,Hombre,Bachillerato
+912,9,2,2,21,3.0,844.9,1308.0,Guayas,Rural,Mujer,Bachillerato
+913,17,2,2,75,2.0,275.86,1740.0,Pichincha,Rural,Mujer,Educación básica
+914,9,1,2,45,2.0,599.46,1011.15,Guayas,Urbana,Mujer,Educación básica
+915,9,1,2,17,2.0,282.96,841.65,Guayas,Urbana,Mujer,Educación básica
+916,7,1,2,90,3.0,,686.85,El Oro,Urbana,Mujer,Bachillerato
+917,7,2,1,26,2.0,476.6,1959.3,El Oro,Rural,Hombre,Educación básica
+918,17,2,1,15,3.0,943.09,1137.45,Pichincha,Rural,Hombre,Bachillerato
+919,13,1,1,50,3.0,,304.5,Manabí,Urbana,Hombre,Bachillerato
+920,17,1,1,37,4.0,1003.02,1139.7,Pichincha,Urbana,Hombre,Superior
+921,9,1,2,37,4.0,1526.66,1233.6,Guayas,Urbana,Mujer,Superior
+922,9,1,2,72,1.0,154.03,547.2,Guayas,Urbana,Mujer,Ninguno
+923,17,2,2,56,2.0,482.79,825.75,Pichincha,Rural,Mujer,Educación básica
+924,17,2,2,42,1.0,,633.75,Pichincha,Rural,Mujer,Ninguno
+925,13,1,1,23,3.0,721.4,895.8,Manabí,Urbana,Hombre,Bachillerato
+926,13,2,1,66,2.0,120.94,1703.55,Manabí,Rural,Hombre,Educación básica
+927,1,2,1,16,3.0,420.11,1254.15,Azuay,Rural,Hombre,Bachillerato
+928,9,1,1,21,3.0,559.29,1110.9,Guayas,Urbana,Hombre,Bachillerato
+929,13,1,2,31,3.0,531.03,601.05,Manabí,Urbana,Mujer,Bachillerato
+930,9,1,2,42,2.0,719.45,948.0,Guayas,Urbana,Mujer,Educación básica
+931,9,2,2,45,2.0,635.91,637.8,Guayas,Rural,Mujer,Educación básica
+932,17,1,1,30,3.0,468.46,811.8,Pichincha,Urbana,Hombre,Bachillerato
+933,9,2,1,24,2.0,295.11,1414.35,Guayas,Rural,Hombre,Educación básica
+934,17,1,1,44,4.0,,944.25,Pichincha,Urbana,Hombre,Superior
+935,7,1,1,41,2.0,,1227.3,El Oro,Urbana,Hombre,Educación básica
+936,17,2,2,29,3.0,475.31,2218.05,Pichincha,Rural,Mujer,Bachillerato
+937,9,2,2,15,2.0,173.83,1278.6,Guayas,Rural,Mujer,Educación básica
+938,17,1,1,34,3.0,575.92,688.35,Pichincha,Urbana,Hombre,Bachillerato
+939,9,1,1,42,2.0,706.03,932.4,Guayas,Urbana,Hombre,Educación básica
+940,9,2,2,32,2.0,187.81,789.3,Guayas,Rural,Mujer,Educación básica
+941,13,1,2,41,3.0,1073.91,907.5,Manabí,Urbana,Mujer,Bachillerato
+942,18,2,1,23,3.0,,1246.35,Tungurahua,Rural,Hombre,Bachillerato
+943,13,1,1,40,2.0,387.62,763.5,Manabí,Urbana,Hombre,Educación básica
+944,1,1,2,45,,512.03,842.55,Azuay,Urbana,Mujer,
+945,1,1,1,30,2.0,,776.7,Azuay,Urbana,Hombre,Educación básica
+946,7,1,2,34,4.0,1100.92,959.25,El Oro,Urbana,Mujer,Superior
+947,9,1,1,15,4.0,763.38,648.75,Guayas,Urbana,Hombre,Superior
+948,7,1,2,29,4.0,982.07,1048.65,El Oro,Urbana,Mujer,Superior
+949,18,2,2,16,3.0,620.1,965.7,Tungurahua,Rural,Mujer,Bachillerato
+950,9,2,2,28,4.0,,2106.45,Guayas,Rural,Mujer,Superior
+951,9,2,1,40,3.0,229.34,1055.85,Guayas,Rural,Hombre,Bachillerato
+952,7,1,2,67,3.0,559.5,678.15,El Oro,Urbana,Mujer,Bachillerato
+953,9,2,1,54,3.0,558.63,1579.5,Guayas,Rural,Hombre,Bachillerato
+954,13,1,2,42,4.0,1013.09,763.05,Manabí,Urbana,Mujer,Superior
+955,9,2,2,31,3.0,,2061.15,Guayas,Rural,Mujer,Bachillerato
+956,1,1,2,24,4.0,3375.61,754.05,Azuay,Urbana,Mujer,Superior
+957,17,1,2,37,2.0,,658.8,Pichincha,Urbana,Mujer,Educación básica
+958,18,1,2,38,4.0,702.67,585.3,Tungurahua,Urbana,Mujer,Superior
+959,9,1,1,49,3.0,1788.24,510.6,Guayas,Urbana,Hombre,Bachillerato
+960,9,2,2,20,,368.66,1418.55,Guayas,Rural,Mujer,
+961,17,2,2,23,3.0,375.32,1089.3,Pichincha,Rural,Mujer,Bachillerato
+962,9,1,2,15,2.0,594.1,1080.6,Guayas,Urbana,Mujer,Educación básica
+963,1,1,2,48,4.0,,680.4,Azuay,Urbana,Mujer,Superior
+964,1,1,2,32,2.0,457.7,1120.8,Azuay,Urbana,Mujer,Educación básica
+965,18,2,1,28,2.0,,2146.95,Tungurahua,Rural,Hombre,Educación básica
+966,17,2,2,66,3.0,,804.9,Pichincha,Rural,Mujer,Bachillerato
+967,9,2,1,23,3.0,433.59,1611.75,Guayas,Rural,Hombre,Bachillerato
+968,7,2,1,81,2.0,,779.85,El Oro,Rural,Hombre,Educación básica
+969,17,2,2,67,2.0,,1221.45,Pichincha,Rural,Mujer,Educación básica
+970,9,1,1,25,4.0,,1235.7,Guayas,Urbana,Hombre,Superior
+971,9,2,2,19,2.0,228.65,1578.45,Guayas,Rural,Mujer,Educación básica
+972,17,1,1,46,4.0,911.04,960.9,Pichincha,Urbana,Hombre,Superior
+973,17,1,1,22,2.0,485.51,1658.25,Pichincha,Urbana,Hombre,Educación básica
+974,1,1,1,30,3.0,566.87,661.65,Azuay,Urbana,Hombre,Bachillerato
+975,13,1,1,30,4.0,2033.42,938.25,Manabí,Urbana,Hombre,Superior
+976,9,2,1,20,3.0,437.21,1375.5,Guayas,Rural,Hombre,Bachillerato
+977,18,1,2,71,3.0,946.33,1001.55,Tungurahua,Urbana,Mujer,Bachillerato
+978,9,1,2,27,2.0,427.79,575.55,Guayas,Urbana,Mujer,Educación básica
+979,9,2,2,18,1.0,222.43,1263.15,Guayas,Rural,Mujer,Ninguno
+980,13,2,2,52,2.0,356.37,1808.4,Manabí,Rural,Mujer,Educación básica
+981,17,1,2,59,3.0,323.61,1170.9,Pichincha,Urbana,Mujer,Bachillerato
+982,13,2,2,38,3.0,747.75,402.0,Manabí,Rural,Mujer,Bachillerato
+983,13,1,1,40,4.0,916.88,1554.3,Manabí,Urbana,Hombre,Superior
+984,7,1,2,36,4.0,851.84,1201.8,El Oro,Urbana,Mujer,Superior
+985,9,1,1,31,3.0,395.52,953.7,Guayas,Urbana,Hombre,Bachillerato
+986,17,1,1,29,2.0,368.05,1412.25,Pichincha,Urbana,Hombre,Educación básica
+987,7,1,2,47,2.0,310.91,820.05,El Oro,Urbana,Mujer,Educación básica
+988,18,1,2,33,3.0,429.21,796.2,Tungurahua,Urbana,Mujer,Bachillerato
+989,18,2,1,30,4.0,1171.79,1351.8,Tungurahua,Rural,Hombre,Superior
+990,13,1,1,43,3.0,515.59,883.35,Manabí,Urbana,Hombre,Bachillerato
+991,9,1,1,21,4.0,,917.7,Guayas,Urbana,Hombre,Superior
+992,18,1,1,18,4.0,,603.3,Tungurahua,Urbana,Hombre,Superior
+993,17,1,2,15,4.0,,503.7,Pichincha,Urbana,Mujer,Superior
+994,17,2,1,31,2.0,341.45,1692.3,Pichincha,Rural,Hombre,Educación básica
+995,7,1,2,42,4.0,,896.55,El Oro,Urbana,Mujer,Superior
+996,13,2,2,46,2.0,164.2,984.15,Manabí,Rural,Mujer,Educación básica
+997,17,1,2,38,3.0,500.79,1070.4,Pichincha,Urbana,Mujer,Bachillerato
+998,9,2,2,49,2.0,312.23,535.95,Guayas,Rural,Mujer,Educación básica
+999,9,1,1,24,4.0,,450.15,Guayas,Urbana,Hombre,Superior
+1000,9,2,1,45,2.0,234.61,1538.7,Guayas,Rural,Hombre,Educación básica
+1001,17,1,1,48,4.0,,1185.0,Pichincha,Urbana,Hombre,Superior
+1002,1,1,2,37,2.0,604.23,988.35,Azuay,Urbana,Mujer,Educación básica
+1003,17,1,2,21,3.0,596.27,795.15,Pichincha,Urbana,Mujer,Bachillerato
+1004,13,1,1,34,4.0,2450.27,880.95,Manabí,Urbana,Hombre,Superior
+1005,17,1,1,27,4.0,2665.33,1432.05,Pichincha,Urbana,Hombre,Superior
+1006,7,1,1,15,1.0,394.56,1165.2,El Oro,Urbana,Hombre,Ninguno
+1007,18,2,2,79,3.0,484.67,2107.95,Tungurahua,Rural,Mujer,Bachillerato
+1008,7,1,2,20,3.0,924.67,357.45,El Oro,Urbana,Mujer,Bachillerato
+1009,17,1,2,36,1.0,241.32,1097.4,Pichincha,Urbana,Mujer,Ninguno
+1010,1,1,2,37,3.0,495.12,517.05,Azuay,Urbana,Mujer,Bachillerato
+1011,17,1,2,25,2.0,,806.25,Pichincha,Urbana,Mujer,Educación básica
+1012,9,1,1,24,3.0,,675.9,Guayas,Urbana,Hombre,Bachillerato
+1013,9,1,1,18,3.0,703.11,970.35,Guayas,Urbana,Hombre,Bachillerato
+1014,17,1,2,28,3.0,836.91,1075.2,Pichincha,Urbana,Mujer,Bachillerato
+1015,9,1,1,15,3.0,854.71,390.6,Guayas,Urbana,Hombre,Bachillerato
+1016,13,1,2,50,3.0,285.23,558.45,Manabí,Urbana,Mujer,Bachillerato
+1017,13,1,1,48,2.0,440.72,914.25,Manabí,Urbana,Hombre,Educación básica
+1018,1,2,2,37,3.0,,2147.25,Azuay,Rural,Mujer,Bachillerato
+1019,13,2,2,15,3.0,245.76,2111.55,Manabí,Rural,Mujer,Bachillerato
+1020,18,1,2,33,3.0,392.56,475.2,Tungurahua,Urbana,Mujer,Bachillerato
+1021,9,1,1,38,4.0,1084.16,575.25,Guayas,Urbana,Hombre,Superior
+1022,17,1,1,46,4.0,677.09,927.75,Pichincha,Urbana,Hombre,Superior
+1023,9,1,1,22,2.0,272.43,805.95,Guayas,Urbana,Hombre,Educación básica
+1024,13,2,1,70,1.0,131.91,1057.35,Manabí,Rural,Hombre,Ninguno
+1025,9,1,1,67,2.0,486.9,859.5,Guayas,Urbana,Hombre,Educación básica
+1026,7,2,1,16,1.0,194.8,1478.1,El Oro,Rural,Hombre,Ninguno
+1027,13,1,1,16,2.0,,683.4,Manabí,Urbana,Hombre,Educación básica
+1028,1,2,1,90,2.0,166.26,2072.7,Azuay,Rural,Hombre,Educación básica
+1029,18,2,2,35,3.0,394.59,880.65,Tungurahua,Rural,Mujer,Bachillerato
+1030,17,1,1,27,1.0,136.17,650.25,Pichincha,Urbana,Hombre,Ninguno
+1031,9,2,1,35,2.0,322.86,2805.6,Guayas,Rural,Hombre,Educación básica
+1032,13,2,1,18,2.0,225.59,993.6,Manabí,Rural,Hombre,Educación básica
+1033,1,1,1,18,2.0,481.08,410.85,Azuay,Urbana,Hombre,Educación básica
+1034,13,1,2,36,1.0,539.93,228.75,Manabí,Urbana,Mujer,Ninguno
+1035,17,2,2,24,2.0,629.23,776.55,Pichincha,Rural,Mujer,Educación básica
+1036,17,2,2,31,2.0,143.74,1357.2,Pichincha,Rural,Mujer,Educación básica
+1037,7,2,2,51,1.0,,1272.15,El Oro,Rural,Mujer,Ninguno
+1038,7,1,2,18,3.0,747.18,1044.75,El Oro,Urbana,Mujer,Bachillerato
+1039,13,2,2,15,,,1367.1,Manabí,Rural,Mujer,
+1040,9,2,1,17,2.0,439.02,1890.0,Guayas,Rural,Hombre,Educación básica
+1041,18,2,2,49,,,1987.05,Tungurahua,Rural,Mujer,
+1042,13,2,1,33,3.0,514.07,1797.45,Manabí,Rural,Hombre,Bachillerato
+1043,13,2,2,18,2.0,312.16,573.15,Manabí,Rural,Mujer,Educación básica
+1044,17,2,1,43,2.0,,1455.15,Pichincha,Rural,Hombre,Educación básica
+1045,17,1,1,59,3.0,1112.6,1110.0,Pichincha,Urbana,Hombre,Bachillerato
+1046,9,1,2,46,4.0,1135.52,487.8,Guayas,Urbana,Mujer,Superior
+1047,13,1,2,20,2.0,513.04,1523.7,Manabí,Urbana,Mujer,Educación básica
+1048,1,1,2,83,1.0,199.84,431.55,Azuay,Urbana,Mujer,Ninguno
+1049,18,1,2,22,2.0,356.81,698.7,Tungurahua,Urbana,Mujer,Educación básica
+1050,17,1,2,27,2.0,486.02,835.95,Pichincha,Urbana,Mujer,Educación básica
+1051,1,1,1,16,4.0,,523.5,Azuay,Urbana,Hombre,Superior
+1052,9,2,2,60,2.0,183.88,1519.8,Guayas,Rural,Mujer,Educación básica
+1053,17,1,2,36,2.0,384.83,850.95,Pichincha,Urbana,Mujer,Educación básica
+1054,13,2,1,51,2.0,227.06,735.15,Manabí,Rural,Hombre,Educación básica
+1055,9,1,1,18,2.0,412.65,587.7,Guayas,Urbana,Hombre,Educación básica
+1056,9,1,2,15,4.0,680.48,666.6,Guayas,Urbana,Mujer,Superior
+1057,13,1,1,44,4.0,2358.35,713.7,Manabí,Urbana,Hombre,Superior
+1058,13,2,1,50,2.0,121.23,2163.6,Manabí,Rural,Hombre,Educación básica
+1059,7,1,2,45,3.0,826.35,512.25,El Oro,Urbana,Mujer,Bachillerato
+1060,9,2,2,16,2.0,558.29,1523.7,Guayas,Rural,Mujer,Educación básica
+1061,17,2,2,61,1.0,586.89,1160.85,Pichincha,Rural,Mujer,Ninguno
+1062,17,1,2,43,4.0,1176.68,1039.05,Pichincha,Urbana,Mujer,Superior
+1063,13,2,2,35,2.0,231.97,1492.2,Manabí,Rural,Mujer,Educación básica
+1064,17,1,1,22,3.0,742.8,712.65,Pichincha,Urbana,Hombre,Bachillerato
+1065,13,1,2,21,3.0,1081.71,1649.4,Manabí,Urbana,Mujer,Bachillerato
+1066,17,2,2,50,2.0,,1536.9,Pichincha,Rural,Mujer,Educación básica
+1067,9,1,2,49,4.0,1297.08,1044.6,Guayas,Urbana,Mujer,Superior
+1068,1,1,1,37,4.0,1268.9,657.15,Azuay,Urbana,Hombre,Superior
+1069,1,2,1,23,3.0,334.57,1403.4,Azuay,Rural,Hombre,Bachillerato
+1070,13,1,1,50,3.0,1395.29,1189.95,Manabí,Urbana,Hombre,Bachillerato
+1071,1,1,1,90,2.0,462.6,1194.3,Azuay,Urbana,Hombre,Educación básica
+1072,17,1,2,34,2.0,934.19,447.75,Pichincha,Urbana,Mujer,Educación básica
+1073,7,1,2,38,4.0,1581.82,560.7,El Oro,Urbana,Mujer,Superior
+1074,17,1,2,40,,1298.45,1216.5,Pichincha,Urbana,Mujer,
+1075,9,2,2,28,2.0,164.71,1277.25,Guayas,Rural,Mujer,Educación básica
+1076,1,1,2,38,3.0,649.4,1512.9,Azuay,Urbana,Mujer,Bachillerato
+1077,9,1,2,23,4.0,625.98,1245.75,Guayas,Urbana,Mujer,Superior
+1078,1,1,1,28,3.0,722.59,552.45,Azuay,Urbana,Hombre,Bachillerato
+1079,7,1,1,53,3.0,1172.2,760.2,El Oro,Urbana,Hombre,Bachillerato
+1080,7,1,2,57,4.0,1840.79,1046.4,El Oro,Urbana,Mujer,Superior
+1081,18,1,2,70,3.0,,653.4,Tungurahua,Urbana,Mujer,Bachillerato
+1082,9,1,1,22,2.0,1083.41,873.0,Guayas,Urbana,Hombre,Educación básica
+1083,13,2,2,23,2.0,122.59,1163.7,Manabí,Rural,Mujer,Educación básica
+1084,1,1,1,23,4.0,955.68,666.0,Azuay,Urbana,Hombre,Superior
+1085,1,1,2,34,2.0,,680.1,Azuay,Urbana,Mujer,Educación básica
+1086,13,1,2,15,4.0,1983.34,1078.8,Manabí,Urbana,Mujer,Superior
+1087,9,1,1,23,4.0,522.82,1073.1,Guayas,Urbana,Hombre,Superior
+1088,9,2,1,23,2.0,,924.9,Guayas,Rural,Hombre,Educación básica
+1089,7,1,2,42,3.0,640.11,863.4,El Oro,Urbana,Mujer,Bachillerato
+1090,17,1,1,32,,778.59,553.35,Pichincha,Urbana,Hombre,
+1091,18,2,1,19,,1093.34,987.15,Tungurahua,Rural,Hombre,
+1092,9,1,1,45,4.0,1182.12,1673.1,Guayas,Urbana,Hombre,Superior
+1093,9,1,1,51,1.0,201.96,697.35,Guayas,Urbana,Hombre,Ninguno
+1094,9,1,2,33,4.0,1174.42,447.0,Guayas,Urbana,Mujer,Superior
+1095,7,1,2,45,3.0,1042.68,707.1,El Oro,Urbana,Mujer,Bachillerato
+1096,9,1,2,29,2.0,278.89,451.65,Guayas,Urbana,Mujer,Educación básica
+1097,17,1,2,48,2.0,356.69,253.2,Pichincha,Urbana,Mujer,Educación básica
+1098,1,1,2,37,4.0,1210.06,1299.9,Azuay,Urbana,Mujer,Superior
+1099,17,1,1,25,2.0,1344.94,1181.55,Pichincha,Urbana,Hombre,Educación básica
+1100,1,1,2,48,4.0,483.4,359.25,Azuay,Urbana,Mujer,Superior
+1101,13,1,2,17,3.0,842.13,687.3,Manabí,Urbana,Mujer,Bachillerato
+1102,17,2,2,54,3.0,476.38,1075.2,Pichincha,Rural,Mujer,Bachillerato
+1103,9,2,2,31,2.0,719.24,1355.25,Guayas,Rural,Mujer,Educación básica
+1104,17,1,2,49,4.0,1750.05,1387.8,Pichincha,Urbana,Mujer,Superior
+1105,17,2,1,15,4.0,912.94,1597.95,Pichincha,Rural,Hombre,Superior
+1106,13,1,2,29,1.0,340.93,791.4,Manabí,Urbana,Mujer,Ninguno
+1107,9,1,2,36,4.0,,605.25,Guayas,Urbana,Mujer,Superior
+1108,7,1,2,23,4.0,913.34,744.0,El Oro,Urbana,Mujer,Superior
+1109,13,1,2,26,4.0,1666.08,1155.9,Manabí,Urbana,Mujer,Superior
+1110,7,1,2,65,2.0,548.1,980.1,El Oro,Urbana,Mujer,Educación básica
+1111,17,2,1,29,2.0,172.14,1347.9,Pichincha,Rural,Hombre,Educación básica
+1112,17,1,1,76,2.0,,1156.8,Pichincha,Urbana,Hombre,Educación básica
+1113,9,2,1,60,3.0,926.93,1056.6,Guayas,Rural,Hombre,Bachillerato
+1114,13,2,2,32,2.0,383.89,555.75,Manabí,Rural,Mujer,Educación básica
+1115,17,2,1,36,2.0,464.68,2010.45,Pichincha,Rural,Hombre,Educación básica
+1116,9,1,1,29,3.0,988.38,1016.55,Guayas,Urbana,Hombre,Bachillerato
+1117,7,1,1,32,2.0,522.99,1051.35,El Oro,Urbana,Hombre,Educación básica
+1118,9,2,1,26,2.0,266.47,873.3,Guayas,Rural,Hombre,Educación básica
+1119,9,2,2,19,2.0,279.53,1658.55,Guayas,Rural,Mujer,Educación básica
+1120,13,1,1,24,4.0,1347.99,1103.4,Manabí,Urbana,Hombre,Superior
+1121,13,1,2,85,1.0,341.36,459.45,Manabí,Urbana,Mujer,Ninguno
+1122,1,2,1,29,2.0,430.95,1082.4,Azuay,Rural,Hombre,Educación básica
+1123,18,1,1,36,2.0,805.81,1177.95,Tungurahua,Urbana,Hombre,Educación básica
+1124,7,1,1,24,4.0,1440.1,1603.95,El Oro,Urbana,Hombre,Superior
+1125,9,2,2,39,4.0,1427.03,3741.45,Guayas,Rural,Mujer,Superior
+1126,1,1,1,50,3.0,394.64,343.95,Azuay,Urbana,Hombre,Bachillerato
+1127,9,1,1,22,2.0,1069.2,494.1,Guayas,Urbana,Hombre,Educación básica
+1128,18,2,2,46,3.0,,1174.05,Tungurahua,Rural,Mujer,Bachillerato
+1129,13,2,1,15,3.0,501.66,513.45,Manabí,Rural,Hombre,Bachillerato
+1130,9,1,1,90,1.0,442.71,675.6,Guayas,Urbana,Hombre,Ninguno
+1131,17,2,2,29,2.0,551.49,380.25,Pichincha,Rural,Mujer,Educación básica
+1132,18,1,1,24,4.0,1394.26,172.95,Tungurahua,Urbana,Hombre,Superior
+1133,13,2,2,19,3.0,480.65,1187.85,Manabí,Rural,Mujer,Bachillerato
+1134,17,1,2,19,3.0,,1011.0,Pichincha,Urbana,Mujer,Bachillerato
+1135,18,1,2,58,3.0,1367.18,1088.55,Tungurahua,Urbana,Mujer,Bachillerato
+1136,1,1,1,60,2.0,434.65,707.1,Azuay,Urbana,Hombre,Educación básica
+1137,13,1,1,15,3.0,,1035.9,Manabí,Urbana,Hombre,Bachillerato
+1138,13,1,1,90,1.0,176.49,1325.1,Manabí,Urbana,Hombre,Ninguno
+1139,13,1,1,46,4.0,1117.37,1006.65,Manabí,Urbana,Hombre,Superior
+1140,9,1,1,57,4.0,2139.48,636.3,Guayas,Urbana,Hombre,Superior
+1141,9,2,2,21,3.0,401.51,2518.65,Guayas,Rural,Mujer,Bachillerato
+1142,17,1,2,41,2.0,539.17,1312.5,Pichincha,Urbana,Mujer,Educación básica
+1143,17,1,1,46,4.0,1118.43,366.0,Pichincha,Urbana,Hombre,Superior
+1144,7,1,2,16,2.0,454.73,480.15,El Oro,Urbana,Mujer,Educación básica
+1145,17,2,1,22,1.0,,2275.5,Pichincha,Rural,Hombre,Ninguno
+1146,13,1,1,46,4.0,,1187.25,Manabí,Urbana,Hombre,Superior
+1147,9,1,2,34,4.0,1338.78,1224.75,Guayas,Urbana,Mujer,Superior
+1148,9,1,2,46,,1691.5,763.5,Guayas,Urbana,Mujer,
+1149,9,1,1,72,2.0,402.31,699.0,Guayas,Urbana,Hombre,Educación básica
+1150,17,2,1,24,2.0,260.12,1479.9,Pichincha,Rural,Hombre,Educación básica
+1151,9,2,2,26,2.0,133.48,1477.65,Guayas,Rural,Mujer,Educación básica
+1152,13,1,2,23,2.0,177.52,1185.15,Manabí,Urbana,Mujer,Educación básica
+1153,13,2,1,28,3.0,334.51,2112.45,Manabí,Rural,Hombre,Bachillerato
+1154,18,1,1,23,3.0,863.52,583.65,Tungurahua,Urbana,Hombre,Bachillerato
+1155,13,1,2,52,3.0,410.04,690.45,Manabí,Urbana,Mujer,Bachillerato
+1156,1,2,2,77,2.0,201.39,1420.95,Azuay,Rural,Mujer,Educación básica
+1157,9,2,1,36,2.0,324.56,3003.6,Guayas,Rural,Hombre,Educación básica
+1158,13,1,2,31,2.0,964.55,953.25,Manabí,Urbana,Mujer,Educación básica
+1159,1,1,2,51,2.0,,932.1,Azuay,Urbana,Mujer,Educación básica
+1160,9,2,1,17,2.0,177.06,1901.4,Guayas,Rural,Hombre,Educación básica
+1161,9,1,1,29,2.0,558.51,912.45,Guayas,Urbana,Hombre,Educación básica
+1162,7,1,2,46,1.0,241.5,1761.3,El Oro,Urbana,Mujer,Ninguno
+1163,1,1,1,20,3.0,,953.7,Azuay,Urbana,Hombre,Bachillerato
+1164,1,2,2,34,2.0,463.65,769.35,Azuay,Rural,Mujer,Educación básica
+1165,7,1,1,63,1.0,262.06,1671.6,El Oro,Urbana,Hombre,Ninguno
+1166,18,1,2,38,4.0,2255.22,830.1,Tungurahua,Urbana,Mujer,Superior
+1167,9,1,2,48,4.0,2811.58,559.8,Guayas,Urbana,Mujer,Superior
+1168,18,1,2,30,2.0,580.13,989.1,Tungurahua,Urbana,Mujer,Educación básica
+1169,1,1,1,27,4.0,527.27,1178.7,Azuay,Urbana,Hombre,Superior
+1170,13,1,1,23,4.0,649.21,1389.9,Manabí,Urbana,Hombre,Superior
+1171,13,1,2,46,4.0,,1983.6,Manabí,Urbana,Mujer,Superior
+1172,13,1,1,15,4.0,2649.19,467.4,Manabí,Urbana,Hombre,Superior
+1173,17,1,2,44,2.0,423.58,1260.9,Pichincha,Urbana,Mujer,Educación básica
+1174,9,1,1,23,1.0,278.48,730.95,Guayas,Urbana,Hombre,Ninguno
+1175,13,1,2,15,3.0,1049.98,854.85,Manabí,Urbana,Mujer,Bachillerato
+1176,7,2,1,56,3.0,763.5,944.4,El Oro,Rural,Hombre,Bachillerato
+1177,17,1,1,15,3.0,893.46,421.2,Pichincha,Urbana,Hombre,Bachillerato
+1178,13,1,1,59,4.0,,261.45,Manabí,Urbana,Hombre,Superior
+1179,1,1,1,29,3.0,666.26,746.1,Azuay,Urbana,Hombre,Bachillerato
+1180,9,1,2,40,1.0,,824.1,Guayas,Urbana,Mujer,Ninguno
+1181,7,1,1,26,2.0,425.23,929.25,El Oro,Urbana,Hombre,Educación básica
+1182,17,1,2,56,2.0,753.96,478.2,Pichincha,Urbana,Mujer,Educación básica
+1183,9,1,2,33,2.0,1124.31,1402.35,Guayas,Urbana,Mujer,Educación básica
+1184,13,1,2,48,1.0,174.23,620.1,Manabí,Urbana,Mujer,Ninguno
+1185,13,2,1,34,3.0,,369.75,Manabí,Rural,Hombre,Bachillerato
+1186,9,2,1,25,,657.45,1614.45,Guayas,Rural,Hombre,
+1187,18,2,1,23,2.0,343.34,2194.35,Tungurahua,Rural,Hombre,Educación básica
+1188,17,2,1,15,2.0,213.58,1235.7,Pichincha,Rural,Hombre,Educación básica
+1189,13,2,2,37,2.0,780.25,1069.05,Manabí,Rural,Mujer,Educación básica
+1190,7,2,2,15,2.0,206.08,2621.25,El Oro,Rural,Mujer,Educación básica
+1191,9,2,2,35,1.0,257.77,1330.05,Guayas,Rural,Mujer,Ninguno
+1192,9,1,1,26,2.0,631.29,762.45,Guayas,Urbana,Hombre,Educación básica
+1193,17,1,2,25,4.0,2186.3,1341.0,Pichincha,Urbana,Mujer,Superior
+1194,1,2,1,54,3.0,333.12,844.05,Azuay,Rural,Hombre,Bachillerato
+1195,7,2,1,53,1.0,206.08,1421.25,El Oro,Rural,Hombre,Ninguno
+1196,17,1,1,30,4.0,1290.14,583.95,Pichincha,Urbana,Hombre,Superior
+1197,9,1,2,77,2.0,250.77,338.4,Guayas,Urbana,Mujer,Educación básica
+1198,9,1,2,36,1.0,295.08,836.4,Guayas,Urbana,Mujer,Ninguno
+1199,1,1,2,15,2.0,441.07,798.0,Azuay,Urbana,Mujer,Educación básica
+1200,1,1,2,24,2.0,817.75,1363.65,Azuay,Urbana,Mujer,Educación básica
+1201,9,1,2,27,3.0,908.76,817.05,Guayas,Urbana,Mujer,Bachillerato
+1202,9,2,2,35,,391.75,1282.05,Guayas,Rural,Mujer,
+1203,18,1,2,28,3.0,552.87,735.0,Tungurahua,Urbana,Mujer,Bachillerato
+1204,13,2,2,15,3.0,408.04,1552.2,Manabí,Rural,Mujer,Bachillerato
+1205,9,1,1,41,3.0,361.76,1076.7,Guayas,Urbana,Hombre,Bachillerato
+1206,13,2,1,42,3.0,347.78,712.35,Manabí,Rural,Hombre,Bachillerato
+1207,1,1,2,44,4.0,1977.86,356.7,Azuay,Urbana,Mujer,Superior
+1208,17,1,1,59,3.0,809.26,833.25,Pichincha,Urbana,Hombre,Bachillerato
+1209,9,1,2,15,3.0,861.5,796.35,Guayas,Urbana,Mujer,Bachillerato
+1210,13,1,2,21,4.0,787.8,837.45,Manabí,Urbana,Mujer,Superior
+1211,18,2,2,39,2.0,415.8,1236.6,Tungurahua,Rural,Mujer,Educación básica
+1212,18,2,2,64,1.0,214.36,1454.85,Tungurahua,Rural,Mujer,Ninguno
+1213,13,1,2,39,4.0,1065.35,1198.2,Manabí,Urbana,Mujer,Superior
+1214,1,1,2,18,4.0,,782.55,Azuay,Urbana,Mujer,Superior
+1215,1,1,2,53,2.0,455.2,959.55,Azuay,Urbana,Mujer,Educación básica
+1216,9,2,1,44,1.0,,2541.9,Guayas,Rural,Hombre,Ninguno
+1217,1,1,1,45,4.0,3006.45,820.05,Azuay,Urbana,Hombre,Superior
+1218,9,2,2,61,2.0,276.29,916.5,Guayas,Rural,Mujer,Educación básica
+1219,17,1,1,67,1.0,383.71,746.1,Pichincha,Urbana,Hombre,Ninguno
+1220,9,2,2,45,3.0,165.27,1990.8,Guayas,Rural,Mujer,Bachillerato
+1221,9,1,2,26,3.0,1469.72,2244.15,Guayas,Urbana,Mujer,Bachillerato
+1222,17,1,2,30,2.0,411.47,855.75,Pichincha,Urbana,Mujer,Educación básica
+1223,17,1,2,45,2.0,235.98,563.55,Pichincha,Urbana,Mujer,Educación básica
+1224,9,1,1,35,4.0,767.37,579.45,Guayas,Urbana,Hombre,Superior
+1225,9,2,2,18,3.0,391.29,1914.45,Guayas,Rural,Mujer,Bachillerato
+1226,13,1,1,75,3.0,697.62,758.55,Manabí,Urbana,Hombre,Bachillerato
+1227,17,1,1,26,2.0,439.2,833.85,Pichincha,Urbana,Hombre,Educación básica
+1228,7,2,2,23,4.0,671.53,1741.65,El Oro,Rural,Mujer,Superior
+1229,17,1,1,69,2.0,453.38,1567.5,Pichincha,Urbana,Hombre,Educación básica
+1230,1,2,1,15,2.0,735.35,1313.25,Azuay,Rural,Hombre,Educación básica
+1231,13,1,1,27,4.0,1336.25,508.8,Manabí,Urbana,Hombre,Superior
+1232,18,2,2,66,1.0,136.26,570.15,Tungurahua,Rural,Mujer,Ninguno
+1233,7,2,2,15,3.0,247.97,665.7,El Oro,Rural,Mujer,Bachillerato
+1234,17,1,1,32,1.0,449.79,609.3,Pichincha,Urbana,Hombre,Ninguno
+1235,9,2,1,43,3.0,375.39,910.95,Guayas,Rural,Hombre,Bachillerato
+1236,9,2,1,23,3.0,,1927.65,Guayas,Rural,Hombre,Bachillerato
+1237,9,1,2,48,2.0,473.91,1495.5,Guayas,Urbana,Mujer,Educación básica
+1238,7,1,1,34,2.0,517.23,788.85,El Oro,Urbana,Hombre,Educación básica
+1239,9,2,1,20,3.0,,2262.15,Guayas,Rural,Hombre,Bachillerato
+1240,13,1,2,47,4.0,2190.99,760.2,Manabí,Urbana,Mujer,Superior
+1241,17,1,2,15,3.0,1149.62,678.6,Pichincha,Urbana,Mujer,Bachillerato
+1242,17,1,2,15,2.0,639.96,855.9,Pichincha,Urbana,Mujer,Educación básica
+1243,17,1,2,26,,1213.93,1137.3,Pichincha,Urbana,Mujer,
+1244,9,1,2,26,4.0,1978.18,726.0,Guayas,Urbana,Mujer,Superior
+1245,17,1,2,30,4.0,,998.55,Pichincha,Urbana,Mujer,Superior
+1246,17,1,2,40,2.0,583.69,198.0,Pichincha,Urbana,Mujer,Educación básica
+1247,9,2,1,18,3.0,327.31,1659.45,Guayas,Rural,Hombre,Bachillerato
+1248,1,1,1,15,4.0,1251.58,440.7,Azuay,Urbana,Hombre,Superior
+1249,9,1,2,17,4.0,1139.32,342.0,Guayas,Urbana,Mujer,Superior
+1250,17,1,1,48,2.0,,468.3,Pichincha,Urbana,Hombre,Educación básica
+1251,13,1,2,64,2.0,351.2,711.75,Manabí,Urbana,Mujer,Educación básica
+1252,7,1,1,19,2.0,349.69,682.05,El Oro,Urbana,Hombre,Educación básica
+1253,17,1,2,23,4.0,426.87,539.4,Pichincha,Urbana,Mujer,Superior
+1254,13,1,1,22,3.0,762.62,333.15,Manabí,Urbana,Hombre,Bachillerato
+1255,7,1,2,46,3.0,561.35,1307.4,El Oro,Urbana,Mujer,Bachillerato
+1256,17,1,1,29,2.0,630.44,966.75,Pichincha,Urbana,Hombre,Educación básica
+1257,9,1,1,34,2.0,479.38,783.3,Guayas,Urbana,Hombre,Educación básica
+1258,9,1,1,48,2.0,693.7,801.15,Guayas,Urbana,Hombre,Educación básica
+1259,13,2,2,45,1.0,88.34,2204.85,Manabí,Rural,Mujer,Ninguno
+1260,13,2,2,15,2.0,365.68,1491.45,Manabí,Rural,Mujer,Educación básica
+1261,18,1,2,47,3.0,,911.7,Tungurahua,Urbana,Mujer,Bachillerato
+1262,13,1,1,52,2.0,389.21,272.4,Manabí,Urbana,Hombre,Educación básica
+1263,9,1,2,29,3.0,792.1,1518.3,Guayas,Urbana,Mujer,Bachillerato
+1264,9,1,1,15,2.0,,580.5,Guayas,Urbana,Hombre,Educación básica
+1265,1,1,2,15,,623.8,918.45,Azuay,Urbana,Mujer,
+1266,9,1,2,40,4.0,938.45,1065.6,Guayas,Urbana,Mujer,Superior
+1267,17,2,1,21,2.0,322.42,1047.3,Pichincha,Rural,Hombre,Educación básica
+1268,9,1,1,55,3.0,246.86,550.2,Guayas,Urbana,Hombre,Bachillerato
+1269,17,1,2,30,3.0,426.13,855.0,Pichincha,Urbana,Mujer,Bachillerato
+1270,9,2,1,49,1.0,325.72,3109.35,Guayas,Rural,Hombre,Ninguno
+1271,13,1,2,60,2.0,307.08,569.55,Manabí,Urbana,Mujer,Educación básica
+1272,1,2,1,41,3.0,1160.43,1464.9,Azuay,Rural,Hombre,Bachillerato
+1273,7,1,2,51,3.0,716.4,472.8,El Oro,Urbana,Mujer,Bachillerato
+1274,9,1,2,33,4.0,973.83,997.35,Guayas,Urbana,Mujer,Superior
+1275,17,1,2,52,,,1225.35,Pichincha,Urbana,Mujer,
+1276,17,1,1,15,3.0,482.92,987.45,Pichincha,Urbana,Hombre,Bachillerato
+1277,9,1,2,44,2.0,389.92,293.25,Guayas,Urbana,Mujer,Educación básica
+1278,9,1,1,15,4.0,,656.4,Guayas,Urbana,Hombre,Superior
+1279,1,1,1,29,3.0,451.35,556.5,Azuay,Urbana,Hombre,Bachillerato
+1280,13,1,2,30,2.0,294.04,386.7,Manabí,Urbana,Mujer,Educación básica
+1281,18,2,2,49,2.0,340.04,1709.25,Tungurahua,Rural,Mujer,Educación básica
+1282,13,1,2,64,2.0,824.72,1116.6,Manabí,Urbana,Mujer,Educación básica
+1283,17,1,1,49,2.0,388.88,860.7,Pichincha,Urbana,Hombre,Educación básica
+1284,9,2,1,90,3.0,351.34,1317.3,Guayas,Rural,Hombre,Bachillerato
+1285,17,2,1,56,3.0,365.63,961.8,Pichincha,Rural,Hombre,Bachillerato
+1286,9,1,1,31,4.0,1968.34,1025.55,Guayas,Urbana,Hombre,Superior
+1287,17,2,2,17,1.0,268.2,1113.6,Pichincha,Rural,Mujer,Ninguno
+1288,9,1,1,70,2.0,440.15,487.95,Guayas,Urbana,Hombre,Educación básica
+1289,17,2,2,22,3.0,710.58,1909.2,Pichincha,Rural,Mujer,Bachillerato
+1290,9,1,2,43,3.0,931.95,377.1,Guayas,Urbana,Mujer,Bachillerato
+1291,9,1,2,35,3.0,,595.5,Guayas,Urbana,Mujer,Bachillerato
+1292,9,1,2,22,1.0,358.04,759.6,Guayas,Urbana,Mujer,Ninguno
+1293,9,2,1,37,3.0,447.65,906.0,Guayas,Rural,Hombre,Bachillerato
+1294,7,2,2,53,2.0,153.4,1503.9,El Oro,Rural,Mujer,Educación básica
+1295,13,1,1,59,,627.83,626.7,Manabí,Urbana,Hombre,
+1296,13,1,1,47,3.0,1907.02,933.75,Manabí,Urbana,Hombre,Bachillerato
+1297,9,2,2,43,2.0,386.49,2455.95,Guayas,Rural,Mujer,Educación básica
+1298,17,2,1,16,2.0,430.19,1555.5,Pichincha,Rural,Hombre,Educación básica
+1299,13,1,1,44,4.0,1400.88,1366.2,Manabí,Urbana,Hombre,Superior
+1300,18,1,2,58,3.0,863.55,390.6,Tungurahua,Urbana,Mujer,Bachillerato
+1301,17,1,1,36,4.0,1123.56,832.5,Pichincha,Urbana,Hombre,Superior
+1302,18,1,2,61,3.0,845.36,524.85,Tungurahua,Urbana,Mujer,Bachillerato
+1303,18,1,2,15,4.0,1055.84,1066.5,Tungurahua,Urbana,Mujer,Superior
+1304,17,1,2,26,3.0,634.3,1113.45,Pichincha,Urbana,Mujer,Bachillerato
+1305,18,1,1,36,1.0,,1153.35,Tungurahua,Urbana,Hombre,Ninguno
+1306,18,1,1,15,2.0,661.96,611.25,Tungurahua,Urbana,Hombre,Educación básica
+1307,9,1,1,45,3.0,456.38,709.95,Guayas,Urbana,Hombre,Bachillerato
+1308,7,1,2,39,4.0,425.72,225.45,El Oro,Urbana,Mujer,Superior
+1309,18,1,2,33,3.0,739.5,928.8,Tungurahua,Urbana,Mujer,Bachillerato
+1310,9,2,2,58,2.0,463.33,702.0,Guayas,Rural,Mujer,Educación básica
+1311,17,1,2,24,3.0,515.65,774.9,Pichincha,Urbana,Mujer,Bachillerato
+1312,18,1,2,16,2.0,308.75,935.25,Tungurahua,Urbana,Mujer,Educación básica
+1313,13,2,1,15,2.0,366.47,1054.35,Manabí,Rural,Hombre,Educación básica
+1314,9,1,1,16,3.0,326.43,969.45,Guayas,Urbana,Hombre,Bachillerato
+1315,13,1,2,34,2.0,602.64,1036.8,Manabí,Urbana,Mujer,Educación básica
+1316,17,2,1,17,2.0,717.25,2371.2,Pichincha,Rural,Hombre,Educación básica
+1317,7,2,1,62,1.0,138.12,1561.35,El Oro,Rural,Hombre,Ninguno
+1318,17,1,2,15,3.0,500.53,1599.75,Pichincha,Urbana,Mujer,Bachillerato
+1319,17,2,1,15,3.0,,668.7,Pichincha,Rural,Hombre,Bachillerato
+1320,18,1,2,49,4.0,994.66,650.25,Tungurahua,Urbana,Mujer,Superior
+1321,9,2,2,38,3.0,249.93,2441.85,Guayas,Rural,Mujer,Bachillerato
+1322,17,2,1,22,2.0,136.04,1078.5,Pichincha,Rural,Hombre,Educación básica
+1323,7,1,2,31,4.0,1101.87,688.05,El Oro,Urbana,Mujer,Superior
+1324,17,1,1,38,2.0,,511.95,Pichincha,Urbana,Hombre,Educación básica
+1325,18,1,1,43,2.0,908.0,929.25,Tungurahua,Urbana,Hombre,Educación básica
+1326,13,1,2,15,2.0,,1543.65,Manabí,Urbana,Mujer,Educación básica
+1327,7,1,2,43,3.0,252.41,902.55,El Oro,Urbana,Mujer,Bachillerato
+1328,18,1,1,17,3.0,244.01,1034.25,Tungurahua,Urbana,Hombre,Bachillerato
+1329,13,1,2,40,2.0,572.09,440.25,Manabí,Urbana,Mujer,Educación básica
+1330,9,1,1,23,2.0,322.76,1279.05,Guayas,Urbana,Hombre,Educación básica
+1331,17,2,2,75,2.0,268.61,972.9,Pichincha,Rural,Mujer,Educación básica
+1332,17,1,1,18,4.0,1363.12,1229.85,Pichincha,Urbana,Hombre,Superior
+1333,18,1,2,45,3.0,1018.38,314.4,Tungurahua,Urbana,Mujer,Bachillerato
+1334,13,1,2,29,4.0,889.5,408.75,Manabí,Urbana,Mujer,Superior
+1335,7,1,2,30,3.0,886.22,907.95,El Oro,Urbana,Mujer,Bachillerato
+1336,13,2,1,50,3.0,204.87,1823.4,Manabí,Rural,Hombre,Bachillerato
+1337,9,1,1,17,4.0,1290.41,1221.3,Guayas,Urbana,Hombre,Superior
+1338,9,1,2,79,2.0,559.59,1337.7,Guayas,Urbana,Mujer,Educación básica
+1339,1,1,1,77,1.0,,702.9,Azuay,Urbana,Hombre,Ninguno
+1340,9,1,1,54,3.0,,956.4,Guayas,Urbana,Hombre,Bachillerato
+1341,9,1,2,22,4.0,806.59,943.35,Guayas,Urbana,Mujer,Superior
+1342,1,1,1,59,3.0,729.01,553.95,Azuay,Urbana,Hombre,Bachillerato
+1343,9,1,2,34,4.0,853.44,833.4,Guayas,Urbana,Mujer,Superior
+1344,9,1,1,15,3.0,409.76,547.2,Guayas,Urbana,Hombre,Bachillerato
+1345,13,2,1,55,3.0,225.04,1618.2,Manabí,Rural,Hombre,Bachillerato
+1346,9,1,1,81,2.0,,576.9,Guayas,Urbana,Hombre,Educación básica
+1347,9,1,2,35,4.0,1087.58,1820.85,Guayas,Urbana,Mujer,Superior
+1348,7,1,1,39,2.0,433.62,843.45,El Oro,Urbana,Hombre,Educación básica
+1349,9,2,1,24,3.0,238.13,1319.55,Guayas,Rural,Hombre,Bachillerato
+1350,9,1,2,54,3.0,736.92,725.55,Guayas,Urbana,Mujer,Bachillerato
+1351,7,2,1,33,3.0,,1123.95,El Oro,Rural,Hombre,Bachillerato
+1352,9,1,2,45,2.0,553.1,668.1,Guayas,Urbana,Mujer,Educación básica
+1353,9,1,1,15,3.0,1019.17,676.65,Guayas,Urbana,Hombre,Bachillerato
+1354,9,2,1,26,3.0,,2217.15,Guayas,Rural,Hombre,Bachillerato
+1355,9,2,2,33,3.0,336.17,2095.2,Guayas,Rural,Mujer,Bachillerato
+1356,17,1,1,17,2.0,458.21,1257.45,Pichincha,Urbana,Hombre,Educación básica
+1357,9,2,1,15,2.0,519.13,1503.45,Guayas,Rural,Hombre,Educación básica
+1358,9,1,2,21,2.0,442.02,932.4,Guayas,Urbana,Mujer,Educación básica
+1359,17,1,2,31,1.0,94.53,1126.65,Pichincha,Urbana,Mujer,Ninguno
+1360,17,1,2,20,3.0,786.51,871.05,Pichincha,Urbana,Mujer,Bachillerato
+1361,17,1,1,23,4.0,1127.98,613.65,Pichincha,Urbana,Hombre,Superior
+1362,13,1,1,28,2.0,494.91,833.7,Manabí,Urbana,Hombre,Educación básica
+1363,1,2,1,38,2.0,544.73,536.4,Azuay,Rural,Hombre,Educación básica
+1364,17,2,2,26,4.0,727.46,1721.1,Pichincha,Rural,Mujer,Superior
+1365,13,1,2,20,3.0,486.83,1329.3,Manabí,Urbana,Mujer,Bachillerato
+1366,18,1,1,21,2.0,287.29,905.25,Tungurahua,Urbana,Hombre,Educación básica
+1367,7,1,2,73,3.0,,553.2,El Oro,Urbana,Mujer,Bachillerato
+1368,1,2,2,39,4.0,,1489.35,Azuay,Rural,Mujer,Superior
+1369,17,2,1,71,2.0,331.73,1699.65,Pichincha,Rural,Hombre,Educación básica
+1370,9,2,1,34,3.0,186.15,1414.65,Guayas,Rural,Hombre,Bachillerato
+1371,18,1,1,18,2.0,649.66,972.3,Tungurahua,Urbana,Hombre,Educación básica
+1372,17,1,2,29,2.0,,543.15,Pichincha,Urbana,Mujer,Educación básica
+1373,9,1,1,23,4.0,1257.23,567.75,Guayas,Urbana,Hombre,Superior
+1374,13,1,1,37,4.0,518.07,976.2,Manabí,Urbana,Hombre,Superior
+1375,9,2,1,23,2.0,327.0,2108.4,Guayas,Rural,Hombre,Educación básica
+1376,17,1,1,35,4.0,,982.65,Pichincha,Urbana,Hombre,Superior
+1377,13,1,1,36,3.0,1575.11,811.35,Manabí,Urbana,Hombre,Bachillerato
+1378,17,1,1,90,1.0,160.61,398.85,Pichincha,Urbana,Hombre,Ninguno
+1379,9,1,2,36,2.0,548.65,387.9,Guayas,Urbana,Mujer,Educación básica
+1380,1,1,2,60,2.0,,1949.4,Azuay,Urbana,Mujer,Educación básica
+1381,9,1,2,23,2.0,442.38,1145.4,Guayas,Urbana,Mujer,Educación básica
+1382,17,1,2,47,2.0,447.01,903.0,Pichincha,Urbana,Mujer,Educación básica
+1383,17,1,1,18,3.0,729.44,736.95,Pichincha,Urbana,Hombre,Bachillerato
+1384,9,1,1,32,4.0,1570.24,614.7,Guayas,Urbana,Hombre,Superior
+1385,9,1,1,37,2.0,927.84,881.7,Guayas,Urbana,Hombre,Educación básica
+1386,17,2,2,35,2.0,,1542.15,Pichincha,Rural,Mujer,Educación básica
+1387,9,2,2,74,3.0,,1195.2,Guayas,Rural,Mujer,Bachillerato
+1388,13,1,2,67,2.0,470.72,1273.65,Manabí,Urbana,Mujer,Educación básica
+1389,17,2,2,32,2.0,474.16,725.1,Pichincha,Rural,Mujer,Educación básica
+1390,13,1,1,15,3.0,,1266.6,Manabí,Urbana,Hombre,Bachillerato
+1391,1,1,2,39,3.0,515.14,774.0,Azuay,Urbana,Mujer,Bachillerato
+1392,13,1,2,25,3.0,798.57,1023.75,Manabí,Urbana,Mujer,Bachillerato
+1393,1,1,1,15,2.0,1001.42,1410.6,Azuay,Urbana,Hombre,Educación básica
+1394,9,1,2,15,2.0,603.69,700.95,Guayas,Urbana,Mujer,Educación básica
+1395,17,2,1,33,1.0,95.98,826.5,Pichincha,Rural,Hombre,Ninguno
+1396,17,2,2,15,2.0,184.34,2749.35,Pichincha,Rural,Mujer,Educación básica
+1397,7,2,1,47,2.0,444.29,1179.45,El Oro,Rural,Hombre,Educación básica
+1398,13,2,1,28,2.0,173.43,1363.05,Manabí,Rural,Hombre,Educación básica
+1399,13,1,1,25,3.0,612.26,1822.8,Manabí,Urbana,Hombre,Bachillerato
+1400,17,2,2,51,3.0,188.86,1951.2,Pichincha,Rural,Mujer,Bachillerato
+1401,13,1,1,42,3.0,619.37,1825.95,Manabí,Urbana,Hombre,Bachillerato
+1402,17,1,2,16,2.0,235.49,1029.3,Pichincha,Urbana,Mujer,Educación básica
+1403,17,1,2,30,4.0,1550.69,775.8,Pichincha,Urbana,Mujer,Superior
+1404,1,1,1,15,4.0,833.46,1158.0,Azuay,Urbana,Hombre,Superior
+1405,9,1,2,44,4.0,1182.44,790.8,Guayas,Urbana,Mujer,Superior
+1406,1,2,2,59,1.0,547.25,2180.55,Azuay,Rural,Mujer,Ninguno
+1407,9,1,2,29,4.0,2319.66,664.8,Guayas,Urbana,Mujer,Superior
+1408,9,1,2,28,2.0,349.09,499.2,Guayas,Urbana,Mujer,Educación básica
+1409,9,1,1,47,3.0,843.15,1312.35,Guayas,Urbana,Hombre,Bachillerato
+1410,9,1,2,28,4.0,,1202.1,Guayas,Urbana,Mujer,Superior
+1411,9,1,1,15,2.0,,574.8,Guayas,Urbana,Hombre,Educación básica
+1412,17,1,1,30,1.0,209.29,1032.0,Pichincha,Urbana,Hombre,Ninguno
+1413,1,1,1,15,1.0,284.29,261.15,Azuay,Urbana,Hombre,Ninguno
+1414,9,2,1,78,3.0,669.17,1224.9,Guayas,Rural,Hombre,Bachillerato
+1415,13,2,2,15,2.0,452.95,1199.55,Manabí,Rural,Mujer,Educación básica
+1416,7,1,2,15,4.0,1174.66,1050.9,El Oro,Urbana,Mujer,Superior
+1417,9,1,1,55,3.0,786.15,1394.25,Guayas,Urbana,Hombre,Bachillerato
+1418,9,1,1,21,3.0,1185.03,888.45,Guayas,Urbana,Hombre,Bachillerato
+1419,17,1,2,15,4.0,311.42,606.9,Pichincha,Urbana,Mujer,Superior
+1420,1,2,2,45,2.0,437.58,1485.3,Azuay,Rural,Mujer,Educación básica
+1421,1,1,1,52,3.0,,805.5,Azuay,Urbana,Hombre,Bachillerato
+1422,9,2,2,53,3.0,,1014.0,Guayas,Rural,Mujer,Bachillerato
+1423,17,1,1,20,4.0,2993.76,889.65,Pichincha,Urbana,Hombre,Superior
+1424,17,2,1,17,3.0,611.98,1841.7,Pichincha,Rural,Hombre,Bachillerato
+1425,9,2,2,15,3.0,526.11,1190.85,Guayas,Rural,Mujer,Bachillerato
+1426,18,2,1,48,2.0,332.97,538.2,Tungurahua,Rural,Hombre,Educación básica
+1427,13,1,2,15,3.0,,882.0,Manabí,Urbana,Mujer,Bachillerato
+1428,18,1,1,47,4.0,1696.68,652.5,Tungurahua,Urbana,Hombre,Superior
+1429,17,1,2,27,3.0,615.79,1110.15,Pichincha,Urbana,Mujer,Bachillerato
+1430,17,1,2,19,4.0,621.69,761.55,Pichincha,Urbana,Mujer,Superior
+1431,1,1,1,64,1.0,485.8,334.8,Azuay,Urbana,Hombre,Ninguno
+1432,17,1,1,15,3.0,833.76,846.9,Pichincha,Urbana,Hombre,Bachillerato
+1433,13,1,1,79,2.0,230.01,1208.85,Manabí,Urbana,Hombre,Educación básica
+1434,7,1,2,21,4.0,1655.89,1864.5,El Oro,Urbana,Mujer,Superior
+1435,1,2,2,35,3.0,413.89,1629.75,Azuay,Rural,Mujer,Bachillerato
+1436,1,1,1,58,3.0,289.04,640.65,Azuay,Urbana,Hombre,Bachillerato
+1437,9,1,1,35,4.0,1011.94,287.55,Guayas,Urbana,Hombre,Superior
+1438,1,1,2,75,2.0,576.77,723.3,Azuay,Urbana,Mujer,Educación básica
+1439,9,2,1,55,3.0,559.2,1243.8,Guayas,Rural,Hombre,Bachillerato
+1440,7,2,1,26,4.0,2152.59,991.2,El Oro,Rural,Hombre,Superior
+1441,1,1,2,61,2.0,474.03,318.0,Azuay,Urbana,Mujer,Educación básica
+1442,1,1,2,43,2.0,274.67,1761.9,Azuay,Urbana,Mujer,Educación básica
+1443,1,1,2,66,2.0,256.15,303.75,Azuay,Urbana,Mujer,Educación básica
+1444,17,2,1,43,4.0,635.1,1445.1,Pichincha,Rural,Hombre,Superior
+1445,13,1,1,36,2.0,508.99,2077.35,Manabí,Urbana,Hombre,Educación básica
+1446,13,1,2,33,3.0,291.3,991.05,Manabí,Urbana,Mujer,Bachillerato
+1447,18,1,1,46,3.0,823.71,1662.45,Tungurahua,Urbana,Hombre,Bachillerato
+1448,13,2,2,22,2.0,226.8,1497.75,Manabí,Rural,Mujer,Educación básica
+1449,18,1,1,72,1.0,281.66,511.65,Tungurahua,Urbana,Hombre,Ninguno
+1450,13,2,1,65,1.0,167.67,2402.25,Manabí,Rural,Hombre,Ninguno
+1451,9,2,1,36,3.0,276.68,1273.35,Guayas,Rural,Hombre,Bachillerato
+1452,13,2,1,36,2.0,199.79,2563.35,Manabí,Rural,Hombre,Educación básica
+1453,9,1,2,32,3.0,666.31,621.6,Guayas,Urbana,Mujer,Bachillerato
+1454,7,2,2,62,2.0,236.68,1529.4,El Oro,Rural,Mujer,Educación básica
+1455,1,2,1,22,2.0,,1233.3,Azuay,Rural,Hombre,Educación básica
+1456,18,2,1,40,3.0,458.76,413.1,Tungurahua,Rural,Hombre,Bachillerato
+1457,9,1,1,30,2.0,591.96,1007.55,Guayas,Urbana,Hombre,Educación básica
+1458,17,1,2,42,4.0,583.54,1213.8,Pichincha,Urbana,Mujer,Superior
+1459,9,1,2,43,2.0,258.75,638.25,Guayas,Urbana,Mujer,Educación básica
+1460,1,1,1,56,1.0,,467.4,Azuay,Urbana,Hombre,Ninguno
+1461,13,1,1,28,3.0,486.1,966.45,Manabí,Urbana,Hombre,Bachillerato
+1462,1,1,2,26,1.0,606.67,634.95,Azuay,Urbana,Mujer,Ninguno
+1463,17,1,2,31,3.0,508.59,858.45,Pichincha,Urbana,Mujer,Bachillerato
+1464,9,2,1,27,2.0,237.64,1277.85,Guayas,Rural,Hombre,Educación básica
+1465,17,1,1,66,1.0,207.28,2307.3,Pichincha,Urbana,Hombre,Ninguno
+1466,1,1,1,45,3.0,825.08,565.05,Azuay,Urbana,Hombre,Bachillerato
+1467,1,1,2,15,4.0,739.24,362.7,Azuay,Urbana,Mujer,Superior
+1468,7,2,1,37,1.0,98.87,2528.25,El Oro,Rural,Hombre,Ninguno
+1469,18,1,2,18,4.0,627.64,358.95,Tungurahua,Urbana,Mujer,Superior
+1470,9,1,1,15,2.0,845.51,958.8,Guayas,Urbana,Hombre,Educación básica
+1471,13,2,2,59,3.0,1010.39,1131.45,Manabí,Rural,Mujer,Bachillerato
+1472,9,2,2,47,3.0,442.07,923.1,Guayas,Rural,Mujer,Bachillerato
+1473,7,1,1,40,2.0,264.99,415.95,El Oro,Urbana,Hombre,Educación básica
+1474,7,1,1,17,3.0,454.41,1295.85,El Oro,Urbana,Hombre,Bachillerato
+1475,13,2,2,40,3.0,482.23,2016.6,Manabí,Rural,Mujer,Bachillerato
+1476,9,1,1,36,4.0,1572.54,887.25,Guayas,Urbana,Hombre,Superior
+1477,18,2,1,15,3.0,568.52,2149.8,Tungurahua,Rural,Hombre,Bachillerato
+1478,17,1,1,18,1.0,313.42,736.8,Pichincha,Urbana,Hombre,Ninguno
+1479,17,2,1,36,2.0,341.23,914.7,Pichincha,Rural,Hombre,Educación básica
+1480,1,1,2,39,4.0,1506.17,1450.8,Azuay,Urbana,Mujer,Superior
+1481,9,1,2,41,4.0,1409.18,1030.2,Guayas,Urbana,Mujer,Superior
+1482,1,1,1,30,1.0,158.74,1065.15,Azuay,Urbana,Hombre,Ninguno
+1483,17,2,2,37,3.0,477.56,1288.35,Pichincha,Rural,Mujer,Bachillerato
+1484,9,2,2,16,3.0,675.95,1820.25,Guayas,Rural,Mujer,Bachillerato
+1485,9,1,2,50,1.0,501.55,674.1,Guayas,Urbana,Mujer,Ninguno
+1486,9,1,1,46,4.0,1981.77,378.0,Guayas,Urbana,Hombre,Superior
+1487,1,2,2,40,2.0,349.82,1224.9,Azuay,Rural,Mujer,Educación básica
+1488,18,2,1,21,4.0,1545.24,1206.6,Tungurahua,Rural,Hombre,Superior
+1489,13,2,2,37,2.0,209.78,1468.8,Manabí,Rural,Mujer,Educación básica
+1490,9,1,2,37,4.0,750.91,728.4,Guayas,Urbana,Mujer,Superior
+1491,17,2,2,16,2.0,481.38,902.25,Pichincha,Rural,Mujer,Educación básica
+1492,9,2,1,52,2.0,407.59,1690.5,Guayas,Rural,Hombre,Educación básica
+1493,17,2,1,55,3.0,491.39,901.05,Pichincha,Rural,Hombre,Bachillerato
+1494,17,1,1,51,2.0,579.82,796.05,Pichincha,Urbana,Hombre,Educación básica
+1495,1,1,1,43,2.0,504.64,1065.3,Azuay,Urbana,Hombre,Educación básica
+1496,9,1,1,64,1.0,465.53,549.6,Guayas,Urbana,Hombre,Ninguno
+1497,1,2,2,59,2.0,217.8,442.35,Azuay,Rural,Mujer,Educación básica
+1498,9,1,1,31,4.0,,603.75,Guayas,Urbana,Hombre,Superior
+1499,9,1,2,32,2.0,298.44,942.0,Guayas,Urbana,Mujer,Educación básica
+1500,17,1,2,19,3.0,1147.4,1105.95,Pichincha,Urbana,Mujer,Bachillerato
+1501,9,1,2,32,3.0,650.99,502.05,Guayas,Urbana,Mujer,Bachillerato
+1502,13,2,2,23,4.0,1017.01,1028.85,Manabí,Rural,Mujer,Superior
+1503,9,2,1,40,2.0,365.66,1293.3,Guayas,Rural,Hombre,Educación básica
+1504,17,2,1,17,2.0,,1763.7,Pichincha,Rural,Hombre,Educación básica
+1505,17,1,2,47,4.0,1209.41,621.9,Pichincha,Urbana,Mujer,Superior
+1506,1,1,2,57,4.0,1134.3,598.05,Azuay,Urbana,Mujer,Superior
+1507,17,2,1,46,2.0,296.25,1842.9,Pichincha,Rural,Hombre,Educación básica
+1508,7,1,2,31,2.0,561.31,348.6,El Oro,Urbana,Mujer,Educación básica
+1509,13,1,2,15,4.0,2893.84,684.75,Manabí,Urbana,Mujer,Superior
+1510,1,1,2,54,3.0,994.68,2135.7,Azuay,Urbana,Mujer,Bachillerato
+1511,1,1,2,30,3.0,517.15,665.4,Azuay,Urbana,Mujer,Bachillerato
+1512,18,1,2,15,4.0,861.43,688.2,Tungurahua,Urbana,Mujer,Superior
+1513,17,2,1,32,3.0,356.67,1221.75,Pichincha,Rural,Hombre,Bachillerato
+1514,9,1,1,32,,969.19,930.15,Guayas,Urbana,Hombre,
+1515,7,2,2,41,2.0,336.33,1663.8,El Oro,Rural,Mujer,Educación básica
+1516,9,1,2,24,4.0,576.21,1094.4,Guayas,Urbana,Mujer,Superior
+1517,9,2,2,37,3.0,632.26,1334.4,Guayas,Rural,Mujer,Bachillerato
+1518,9,1,1,15,4.0,576.08,1136.25,Guayas,Urbana,Hombre,Superior
+1519,1,1,2,36,4.0,2773.08,814.8,Azuay,Urbana,Mujer,Superior
+1520,9,1,1,45,3.0,540.03,444.3,Guayas,Urbana,Hombre,Bachillerato
+1521,1,1,1,24,1.0,,1084.8,Azuay,Urbana,Hombre,Ninguno
+1522,1,1,1,58,2.0,232.58,995.25,Azuay,Urbana,Hombre,Educación básica
+1523,17,2,2,15,3.0,771.35,1924.95,Pichincha,Rural,Mujer,Bachillerato
+1524,13,1,1,30,4.0,3119.0,626.25,Manabí,Urbana,Hombre,Superior
+1525,17,1,1,25,2.0,,1046.1,Pichincha,Urbana,Hombre,Educación básica
+1526,13,2,2,29,2.0,325.0,1810.35,Manabí,Rural,Mujer,Educación básica
+1527,9,1,1,25,2.0,561.26,1206.3,Guayas,Urbana,Hombre,Educación básica
+1528,13,1,2,15,2.0,,639.75,Manabí,Urbana,Mujer,Educación básica
+1529,17,2,2,23,2.0,,2457.0,Pichincha,Rural,Mujer,Educación básica
+1530,18,1,2,15,3.0,1577.51,1124.85,Tungurahua,Urbana,Mujer,Bachillerato
+1531,9,2,2,34,2.0,347.91,1634.85,Guayas,Rural,Mujer,Educación básica
+1532,17,1,1,34,2.0,,790.05,Pichincha,Urbana,Hombre,Educación básica
+1533,17,2,2,25,2.0,221.7,2015.1,Pichincha,Rural,Mujer,Educación básica
+1534,7,2,1,26,2.0,141.83,1752.75,El Oro,Rural,Hombre,Educación básica
+1535,13,1,1,39,4.0,648.28,365.7,Manabí,Urbana,Hombre,Superior
+1536,9,1,2,27,2.0,631.48,702.45,Guayas,Urbana,Mujer,Educación básica
+1537,7,1,2,24,,1206.07,1097.25,El Oro,Urbana,Mujer,
+1538,9,1,2,44,2.0,559.66,840.45,Guayas,Urbana,Mujer,Educación básica
+1539,13,1,1,37,4.0,744.51,595.65,Manabí,Urbana,Hombre,Superior
+1540,1,1,2,67,2.0,366.57,787.05,Azuay,Urbana,Mujer,Educación básica
+1541,9,1,1,49,2.0,549.89,1244.4,Guayas,Urbana,Hombre,Educación básica
+1542,9,2,1,23,2.0,358.28,1665.6,Guayas,Rural,Hombre,Educación básica
+1543,9,2,1,22,2.0,,1987.65,Guayas,Rural,Hombre,Educación básica
+1544,17,1,2,42,4.0,1406.33,908.85,Pichincha,Urbana,Mujer,Superior
+1545,9,2,2,64,1.0,252.35,530.85,Guayas,Rural,Mujer,Ninguno
+1546,13,1,2,51,4.0,712.27,683.55,Manabí,Urbana,Mujer,Superior
+1547,17,1,2,33,4.0,1547.33,699.0,Pichincha,Urbana,Mujer,Superior
+1548,18,1,1,35,3.0,531.2,979.95,Tungurahua,Urbana,Hombre,Bachillerato
+1549,7,2,1,26,2.0,327.11,1380.6,El Oro,Rural,Hombre,Educación básica
+1550,9,1,2,49,2.0,411.17,1491.75,Guayas,Urbana,Mujer,Educación básica
+1551,9,1,2,62,2.0,633.56,621.9,Guayas,Urbana,Mujer,Educación básica
+1552,9,2,1,53,2.0,182.11,1384.65,Guayas,Rural,Hombre,Educación básica
+1553,9,2,1,25,3.0,323.93,1498.95,Guayas,Rural,Hombre,Bachillerato
+1554,17,1,2,30,2.0,328.79,1261.05,Pichincha,Urbana,Mujer,Educación básica
+1555,9,2,2,47,3.0,406.7,1508.7,Guayas,Rural,Mujer,Bachillerato
+1556,1,2,2,30,1.0,121.49,702.6,Azuay,Rural,Mujer,Ninguno
+1557,7,1,1,40,3.0,,845.85,El Oro,Urbana,Hombre,Bachillerato
+1558,9,2,2,63,1.0,,1467.6,Guayas,Rural,Mujer,Ninguno
+1559,17,1,1,21,4.0,,668.7,Pichincha,Urbana,Hombre,Superior
+1560,7,2,1,15,3.0,468.62,430.05,El Oro,Rural,Hombre,Bachillerato
+1561,1,1,2,29,1.0,918.28,379.05,Azuay,Urbana,Mujer,Ninguno
+1562,13,1,2,61,2.0,611.66,878.85,Manabí,Urbana,Mujer,Educación básica
+1563,1,1,1,30,4.0,820.75,581.7,Azuay,Urbana,Hombre,Superior
+1564,17,1,1,45,3.0,518.71,473.55,Pichincha,Urbana,Hombre,Bachillerato
+1565,7,1,1,55,3.0,288.11,1143.45,El Oro,Urbana,Hombre,Bachillerato
+1566,13,1,1,33,4.0,1018.88,920.25,Manabí,Urbana,Hombre,Superior
+1567,9,2,2,15,2.0,466.47,813.0,Guayas,Rural,Mujer,Educación básica
+1568,1,1,1,36,3.0,1187.25,811.05,Azuay,Urbana,Hombre,Bachillerato
+1569,13,1,2,31,3.0,335.28,311.55,Manabí,Urbana,Mujer,Bachillerato
+1570,1,2,2,36,2.0,608.27,1343.25,Azuay,Rural,Mujer,Educación básica
+1571,17,2,1,28,2.0,221.38,1883.25,Pichincha,Rural,Hombre,Educación básica
+1572,17,2,1,34,2.0,282.02,1242.75,Pichincha,Rural,Hombre,Educación básica
+1573,7,1,1,56,3.0,531.86,473.4,El Oro,Urbana,Hombre,Bachillerato
+1574,9,2,1,29,1.0,261.83,1906.2,Guayas,Rural,Hombre,Ninguno
+1575,17,1,1,27,4.0,3254.58,719.4,Pichincha,Urbana,Hombre,Superior
+1576,9,1,2,18,2.0,,845.4,Guayas,Urbana,Mujer,Educación básica
+1577,13,2,1,25,2.0,728.72,1986.9,Manabí,Rural,Hombre,Educación básica
+1578,1,1,1,59,2.0,471.25,697.8,Azuay,Urbana,Hombre,Educación básica
+1579,9,1,1,51,3.0,1026.82,686.85,Guayas,Urbana,Hombre,Bachillerato
+1580,9,1,2,28,4.0,1030.19,1441.95,Guayas,Urbana,Mujer,Superior
+1581,13,2,2,34,3.0,206.16,992.4,Manabí,Rural,Mujer,Bachillerato
+1582,13,2,2,23,4.0,884.53,649.35,Manabí,Rural,Mujer,Superior
+1583,13,1,2,73,2.0,519.16,668.7,Manabí,Urbana,Mujer,Educación básica
+1584,17,2,1,15,2.0,79.18,1494.9,Pichincha,Rural,Hombre,Educación básica
+1585,18,1,1,20,3.0,692.75,622.8,Tungurahua,Urbana,Hombre,Bachillerato
+1586,1,1,2,37,4.0,,1068.15,Azuay,Urbana,Mujer,Superior
+1587,13,2,2,16,4.0,289.92,1107.0,Manabí,Rural,Mujer,Superior
+1588,9,1,1,19,2.0,429.86,898.05,Guayas,Urbana,Hombre,Educación básica
+1589,9,1,1,54,4.0,948.72,1536.75,Guayas,Urbana,Hombre,Superior
+1590,17,1,1,34,2.0,,430.8,Pichincha,Urbana,Hombre,Educación básica
+1591,13,1,1,32,2.0,167.9,1541.25,Manabí,Urbana,Hombre,Educación básica
+1592,9,2,2,59,2.0,434.33,1088.7,Guayas,Rural,Mujer,Educación básica
+1593,7,2,1,15,2.0,312.32,1114.8,El Oro,Rural,Hombre,Educación básica
+1594,17,1,1,15,2.0,713.27,494.7,Pichincha,Urbana,Hombre,Educación básica
+1595,17,1,1,15,4.0,1550.31,420.0,Pichincha,Urbana,Hombre,Superior
+1596,13,1,2,59,2.0,255.39,697.2,Manabí,Urbana,Mujer,Educación básica
+1597,17,1,2,46,1.0,116.96,1279.5,Pichincha,Urbana,Mujer,Ninguno
+1598,1,2,2,18,4.0,256.13,2063.1,Azuay,Rural,Mujer,Superior
+1599,9,2,1,43,3.0,518.61,1774.8,Guayas,Rural,Hombre,Bachillerato
+1600,9,1,2,21,4.0,424.76,1052.7,Guayas,Urbana,Mujer,Superior
+1601,17,1,2,27,2.0,625.33,1307.55,Pichincha,Urbana,Mujer,Educación básica
+1602,1,1,1,59,2.0,794.68,527.55,Azuay,Urbana,Hombre,Educación básica
+1603,7,1,2,33,3.0,,1139.25,El Oro,Urbana,Mujer,Bachillerato
+1604,18,1,1,22,1.0,707.69,965.85,Tungurahua,Urbana,Hombre,Ninguno
+1605,7,1,2,46,2.0,441.49,973.65,El Oro,Urbana,Mujer,Educación básica
+1606,17,1,1,25,4.0,4286.49,1103.85,Pichincha,Urbana,Hombre,Superior
+1607,9,1,2,43,3.0,,731.25,Guayas,Urbana,Mujer,Bachillerato
+1608,17,1,2,52,4.0,531.62,231.0,Pichincha,Urbana,Mujer,Superior
+1609,1,1,1,24,1.0,227.95,1361.25,Azuay,Urbana,Hombre,Ninguno
+1610,17,1,2,41,3.0,249.11,589.65,Pichincha,Urbana,Mujer,Bachillerato
+1611,18,1,2,37,3.0,453.99,963.9,Tungurahua,Urbana,Mujer,Bachillerato
+1612,17,2,2,15,3.0,1254.71,1509.45,Pichincha,Rural,Mujer,Bachillerato
+1613,9,1,2,71,,144.45,894.15,Guayas,Urbana,Mujer,
+1614,18,2,2,42,2.0,339.55,2082.6,Tungurahua,Rural,Mujer,Educación básica
+1615,17,1,2,55,4.0,984.43,669.15,Pichincha,Urbana,Mujer,Superior
+1616,13,2,2,19,2.0,463.44,1917.9,Manabí,Rural,Mujer,Educación básica
+1617,9,1,2,15,4.0,842.95,852.3,Guayas,Urbana,Mujer,Superior
+1618,17,2,1,51,2.0,339.73,1309.2,Pichincha,Rural,Hombre,Educación básica
+1619,17,1,2,15,2.0,,1477.2,Pichincha,Urbana,Mujer,Educación básica
+1620,13,1,1,25,3.0,421.82,971.1,Manabí,Urbana,Hombre,Bachillerato
+1621,9,1,2,15,2.0,579.41,893.7,Guayas,Urbana,Mujer,Educación básica
+1622,18,2,2,42,2.0,203.95,2206.35,Tungurahua,Rural,Mujer,Educación básica
+1623,1,2,1,17,3.0,443.46,856.2,Azuay,Rural,Hombre,Bachillerato
+1624,9,2,2,19,2.0,284.34,1617.6,Guayas,Rural,Mujer,Educación básica
+1625,18,2,1,36,2.0,562.43,828.9,Tungurahua,Rural,Hombre,Educación básica
+1626,13,2,2,57,4.0,,1627.95,Manabí,Rural,Mujer,Superior
+1627,1,1,1,66,2.0,,950.4,Azuay,Urbana,Hombre,Educación básica
+1628,13,1,1,22,1.0,230.49,1816.5,Manabí,Urbana,Hombre,Ninguno
+1629,18,1,1,55,2.0,479.17,1061.85,Tungurahua,Urbana,Hombre,Educación básica
+1630,18,2,2,38,2.0,411.7,1044.9,Tungurahua,Rural,Mujer,Educación básica
+1631,9,1,2,43,2.0,244.91,692.55,Guayas,Urbana,Mujer,Educación básica
+1632,9,1,2,27,2.0,324.4,807.3,Guayas,Urbana,Mujer,Educación básica
+1633,9,1,1,19,3.0,641.82,1498.05,Guayas,Urbana,Hombre,Bachillerato
+1634,7,2,2,48,2.0,347.52,979.8,El Oro,Rural,Mujer,Educación básica
+1635,7,1,2,59,4.0,1497.1,783.15,El Oro,Urbana,Mujer,Superior
+1636,9,1,2,20,2.0,496.36,1136.25,Guayas,Urbana,Mujer,Educación básica
+1637,17,1,1,22,,436.07,493.2,Pichincha,Urbana,Hombre,
+1638,13,1,1,28,1.0,248.12,1710.75,Manabí,Urbana,Hombre,Ninguno
+1639,9,1,2,29,4.0,1512.57,1339.5,Guayas,Urbana,Mujer,Superior
+1640,17,2,1,37,3.0,270.7,1710.45,Pichincha,Rural,Hombre,Bachillerato
+1641,9,1,1,60,4.0,1238.44,406.35,Guayas,Urbana,Hombre,Superior
+1642,7,1,2,37,1.0,404.5,648.6,El Oro,Urbana,Mujer,Ninguno
+1643,13,1,2,15,2.0,302.11,1028.55,Manabí,Urbana,Mujer,Educación básica
+1644,1,1,1,46,3.0,495.53,2015.4,Azuay,Urbana,Hombre,Bachillerato
+1645,1,1,2,60,3.0,2058.45,1101.9,Azuay,Urbana,Mujer,Bachillerato
+1646,17,2,2,64,1.0,411.08,2033.25,Pichincha,Rural,Mujer,Ninguno
+1647,9,1,1,50,3.0,937.23,730.5,Guayas,Urbana,Hombre,Bachillerato
+1648,13,1,2,70,,631.42,812.1,Manabí,Urbana,Mujer,
+1649,9,2,1,31,4.0,748.51,633.3,Guayas,Rural,Hombre,Superior
+1650,18,2,1,15,3.0,906.4,1841.55,Tungurahua,Rural,Hombre,Bachillerato
+1651,1,1,1,60,3.0,590.13,1344.45,Azuay,Urbana,Hombre,Bachillerato
+1652,18,2,1,29,2.0,438.45,1841.4,Tungurahua,Rural,Hombre,Educación básica
+1653,13,1,2,25,4.0,1028.23,358.35,Manabí,Urbana,Mujer,Superior
+1654,18,2,2,56,2.0,186.67,1474.2,Tungurahua,Rural,Mujer,Educación básica
+1655,7,1,1,25,2.0,464.55,731.85,El Oro,Urbana,Hombre,Educación básica
+1656,9,2,1,28,,633.29,1752.3,Guayas,Rural,Hombre,
+1657,1,1,2,63,1.0,258.17,466.2,Azuay,Urbana,Mujer,Ninguno
+1658,18,1,2,33,3.0,834.92,843.6,Tungurahua,Urbana,Mujer,Bachillerato
+1659,9,1,1,34,2.0,134.97,1288.2,Guayas,Urbana,Hombre,Educación básica
+1660,9,2,2,49,1.0,165.95,656.25,Guayas,Rural,Mujer,Ninguno
+1661,13,1,2,31,4.0,1088.9,634.95,Manabí,Urbana,Mujer,Superior
+1662,17,1,2,51,2.0,251.11,929.4,Pichincha,Urbana,Mujer,Educación básica
+1663,13,1,2,15,2.0,823.18,536.1,Manabí,Urbana,Mujer,Educación básica
+1664,1,1,1,53,2.0,648.79,398.7,Azuay,Urbana,Hombre,Educación básica
+1665,9,1,2,77,2.0,607.63,1225.35,Guayas,Urbana,Mujer,Educación básica
+1666,13,1,1,84,2.0,319.72,1567.8,Manabí,Urbana,Hombre,Educación básica
+1667,9,1,2,86,2.0,,372.75,Guayas,Urbana,Mujer,Educación básica
+1668,7,2,1,31,4.0,,1550.1,El Oro,Rural,Hombre,Superior
+1669,9,1,1,26,1.0,304.5,701.85,Guayas,Urbana,Hombre,Ninguno
+1670,9,1,2,23,3.0,902.44,525.0,Guayas,Urbana,Mujer,Bachillerato
+1671,1,1,2,22,3.0,594.0,635.25,Azuay,Urbana,Mujer,Bachillerato
+1672,13,1,1,31,4.0,,694.05,Manabí,Urbana,Hombre,Superior
+1673,17,1,1,36,4.0,1965.1,410.1,Pichincha,Urbana,Hombre,Superior
+1674,7,2,1,55,2.0,284.0,874.5,El Oro,Rural,Hombre,Educación básica
+1675,17,2,1,23,2.0,155.41,1707.3,Pichincha,Rural,Hombre,Educación básica
+1676,9,1,1,26,2.0,389.92,891.3,Guayas,Urbana,Hombre,Educación básica
+1677,9,2,2,25,3.0,493.32,1417.8,Guayas,Rural,Mujer,Bachillerato
+1678,13,1,2,27,2.0,735.16,1046.4,Manabí,Urbana,Mujer,Educación básica
+1679,7,1,2,47,,430.39,382.35,El Oro,Urbana,Mujer,
+1680,9,1,1,69,2.0,547.66,769.05,Guayas,Urbana,Hombre,Educación básica
+1681,17,2,2,40,2.0,529.95,686.1,Pichincha,Rural,Mujer,Educación básica
+1682,9,1,1,32,2.0,1214.59,780.45,Guayas,Urbana,Hombre,Educación básica
+1683,18,2,1,25,2.0,591.73,1563.6,Tungurahua,Rural,Hombre,Educación básica
+1684,9,2,2,37,2.0,337.03,1600.95,Guayas,Rural,Mujer,Educación básica
+1685,9,2,1,37,2.0,808.55,1365.0,Guayas,Rural,Hombre,Educación básica
+1686,13,2,2,43,2.0,331.12,1213.8,Manabí,Rural,Mujer,Educación básica
+1687,17,2,2,53,3.0,265.26,2082.9,Pichincha,Rural,Mujer,Bachillerato
+1688,17,1,2,77,2.0,360.14,385.35,Pichincha,Urbana,Mujer,Educación básica
+1689,9,1,1,20,4.0,2125.1,1181.1,Guayas,Urbana,Hombre,Superior
+1690,7,1,1,37,3.0,,770.4,El Oro,Urbana,Hombre,Bachillerato
+1691,9,2,2,32,3.0,369.49,1736.85,Guayas,Rural,Mujer,Bachillerato
+1692,9,1,2,45,2.0,461.68,482.4,Guayas,Urbana,Mujer,Educación básica
+1693,7,1,1,33,4.0,1229.91,351.6,El Oro,Urbana,Hombre,Superior
+1694,7,1,2,73,3.0,344.53,852.0,El Oro,Urbana,Mujer,Bachillerato
+1695,17,1,1,43,3.0,988.68,1510.2,Pichincha,Urbana,Hombre,Bachillerato
+1696,9,2,2,26,2.0,,1415.7,Guayas,Rural,Mujer,Educación básica
+1697,18,1,1,28,,454.87,1424.1,Tungurahua,Urbana,Hombre,
+1698,13,1,2,40,,730.97,1144.95,Manabí,Urbana,Mujer,
+1699,1,2,1,67,2.0,360.52,917.7,Azuay,Rural,Hombre,Educación básica
+1700,17,2,1,15,2.0,,1427.25,Pichincha,Rural,Hombre,Educación básica
+1701,7,1,2,43,4.0,1124.19,519.15,El Oro,Urbana,Mujer,Superior
+1702,9,1,2,30,3.0,1571.86,532.8,Guayas,Urbana,Mujer,Bachillerato
+1703,9,1,2,46,2.0,674.12,875.85,Guayas,Urbana,Mujer,Educación básica
+1704,1,2,1,20,3.0,138.44,1523.1,Azuay,Rural,Hombre,Bachillerato
+1705,17,2,2,20,3.0,438.83,2085.9,Pichincha,Rural,Mujer,Bachillerato
+1706,9,1,2,16,4.0,,1642.95,Guayas,Urbana,Mujer,Superior
+1707,13,1,1,57,1.0,201.1,1004.25,Manabí,Urbana,Hombre,Ninguno
+1708,9,2,2,27,2.0,263.0,1636.95,Guayas,Rural,Mujer,Educación básica
+1709,13,1,2,15,1.0,342.05,923.55,Manabí,Urbana,Mujer,Ninguno
+1710,17,1,2,15,4.0,914.18,1416.3,Pichincha,Urbana,Mujer,Superior
+1711,7,2,2,34,4.0,1373.96,864.3,El Oro,Rural,Mujer,Superior
+1712,9,1,1,15,2.0,491.08,801.0,Guayas,Urbana,Hombre,Educación básica
+1713,13,2,1,54,2.0,709.56,1090.35,Manabí,Rural,Hombre,Educación básica
+1714,1,2,2,36,2.0,437.96,968.85,Azuay,Rural,Mujer,Educación básica
+1715,13,1,1,38,2.0,217.55,679.95,Manabí,Urbana,Hombre,Educación básica
+1716,18,1,2,15,1.0,333.56,689.1,Tungurahua,Urbana,Mujer,Ninguno
+1717,17,1,1,29,2.0,415.05,572.1,Pichincha,Urbana,Hombre,Educación básica
+1718,9,1,2,25,4.0,,1185.15,Guayas,Urbana,Mujer,Superior
+1719,7,2,2,37,4.0,646.32,2345.85,El Oro,Rural,Mujer,Superior
+1720,1,2,1,22,3.0,508.48,2175.3,Azuay,Rural,Hombre,Bachillerato
+1721,17,1,1,30,4.0,888.7,1597.95,Pichincha,Urbana,Hombre,Superior
+1722,17,1,2,37,4.0,468.25,818.25,Pichincha,Urbana,Mujer,Superior
+1723,17,2,1,18,3.0,252.39,2087.25,Pichincha,Rural,Hombre,Bachillerato
+1724,9,1,2,41,4.0,1079.69,1394.25,Guayas,Urbana,Mujer,Superior
+1725,1,1,1,50,4.0,1316.79,1157.55,Azuay,Urbana,Hombre,Superior
+1726,13,2,2,41,2.0,486.02,774.15,Manabí,Rural,Mujer,Educación básica
+1727,9,1,2,16,3.0,,981.3,Guayas,Urbana,Mujer,Bachillerato
+1728,1,2,1,33,2.0,271.16,2993.25,Azuay,Rural,Hombre,Educación básica
+1729,9,1,2,26,3.0,741.94,610.05,Guayas,Urbana,Mujer,Bachillerato
+1730,13,1,1,25,2.0,316.28,867.0,Manabí,Urbana,Hombre,Educación básica
+1731,7,1,1,29,4.0,952.58,2297.7,El Oro,Urbana,Hombre,Superior
+1732,9,2,1,34,3.0,736.97,1441.5,Guayas,Rural,Hombre,Bachillerato
+1733,9,1,2,39,2.0,295.93,749.25,Guayas,Urbana,Mujer,Educación básica
+1734,17,2,2,26,3.0,985.59,882.0,Pichincha,Rural,Mujer,Bachillerato
+1735,9,1,1,33,2.0,488.54,232.2,Guayas,Urbana,Hombre,Educación básica
+1736,13,1,1,33,,578.57,865.95,Manabí,Urbana,Hombre,
+1737,9,1,2,42,2.0,257.38,967.95,Guayas,Urbana,Mujer,Educación básica
+1738,9,2,2,18,2.0,361.52,2875.65,Guayas,Rural,Mujer,Educación básica
+1739,7,1,2,45,2.0,422.2,896.55,El Oro,Urbana,Mujer,Educación básica
+1740,9,2,2,41,3.0,455.72,284.25,Guayas,Rural,Mujer,Bachillerato
+1741,18,1,1,47,2.0,553.95,684.15,Tungurahua,Urbana,Hombre,Educación básica
+1742,17,1,2,18,2.0,546.84,634.05,Pichincha,Urbana,Mujer,Educación básica
+1743,13,2,2,32,2.0,,1496.1,Manabí,Rural,Mujer,Educación básica
+1744,17,1,1,78,3.0,425.66,852.9,Pichincha,Urbana,Hombre,Bachillerato
+1745,1,1,1,90,1.0,380.19,353.4,Azuay,Urbana,Hombre,Ninguno
+1746,17,1,2,32,3.0,404.69,821.4,Pichincha,Urbana,Mujer,Bachillerato
+1747,17,2,2,73,2.0,197.05,2297.55,Pichincha,Rural,Mujer,Educación básica
+1748,13,2,1,36,3.0,,1662.75,Manabí,Rural,Hombre,Bachillerato
+1749,17,1,1,21,3.0,797.02,972.6,Pichincha,Urbana,Hombre,Bachillerato
+1750,1,1,1,15,1.0,603.08,1218.0,Azuay,Urbana,Hombre,Ninguno
+1751,1,1,1,18,2.0,131.75,2140.35,Azuay,Urbana,Hombre,Educación básica
+1752,18,2,1,15,4.0,405.95,1295.1,Tungurahua,Rural,Hombre,Superior
+1753,9,1,1,15,2.0,844.43,1386.6,Guayas,Urbana,Hombre,Educación básica
+1754,18,2,2,21,4.0,804.64,2844.15,Tungurahua,Rural,Mujer,Superior
+1755,9,2,1,59,3.0,675.35,1252.05,Guayas,Rural,Hombre,Bachillerato
+1756,9,1,2,15,,364.48,357.0,Guayas,Urbana,Mujer,
+1757,17,1,2,44,3.0,931.92,568.05,Pichincha,Urbana,Mujer,Bachillerato
+1758,9,1,2,42,4.0,2158.19,1215.75,Guayas,Urbana,Mujer,Superior
+1759,7,1,2,56,2.0,167.98,1642.2,El Oro,Urbana,Mujer,Educación básica
+1760,9,1,1,42,4.0,640.39,557.4,Guayas,Urbana,Hombre,Superior
+1761,7,2,2,18,2.0,249.05,1627.2,El Oro,Rural,Mujer,Educación básica
+1762,17,2,2,44,4.0,1149.08,1282.05,Pichincha,Rural,Mujer,Superior
+1763,17,2,1,77,2.0,393.56,763.65,Pichincha,Rural,Hombre,Educación básica
+1764,7,1,1,15,4.0,1904.06,1199.1,El Oro,Urbana,Hombre,Superior
+1765,9,1,1,26,2.0,436.92,703.95,Guayas,Urbana,Hombre,Educación básica
+1766,17,1,2,55,4.0,1071.55,834.9,Pichincha,Urbana,Mujer,Superior
+1767,1,1,2,37,4.0,1245.49,1443.0,Azuay,Urbana,Mujer,Superior
+1768,1,2,1,54,3.0,428.43,1811.55,Azuay,Rural,Hombre,Bachillerato
+1769,7,1,1,35,3.0,490.36,1188.15,El Oro,Urbana,Hombre,Bachillerato
+1770,18,1,2,34,3.0,514.91,835.2,Tungurahua,Urbana,Mujer,Bachillerato
+1771,9,2,2,26,1.0,237.53,1785.9,Guayas,Rural,Mujer,Ninguno
+1772,7,1,2,16,2.0,336.95,977.55,El Oro,Urbana,Mujer,Educación básica
+1773,7,2,2,16,3.0,791.67,799.65,El Oro,Rural,Mujer,Bachillerato
+1774,7,2,1,42,2.0,451.64,1180.5,El Oro,Rural,Hombre,Educación básica
+1775,13,1,2,15,3.0,400.99,448.05,Manabí,Urbana,Mujer,Bachillerato
+1776,7,2,2,36,2.0,213.51,1462.35,El Oro,Rural,Mujer,Educación básica
+1777,13,2,2,43,3.0,1191.3,1065.9,Manabí,Rural,Mujer,Bachillerato
+1778,18,1,1,15,3.0,,871.2,Tungurahua,Urbana,Hombre,Bachillerato
+1779,13,1,1,36,3.0,776.15,1048.95,Manabí,Urbana,Hombre,Bachillerato
+1780,9,1,2,15,2.0,614.44,516.9,Guayas,Urbana,Mujer,Educación básica
+1781,7,2,1,28,2.0,370.06,675.15,El Oro,Rural,Hombre,Educación básica
+1782,9,1,1,20,2.0,883.51,888.6,Guayas,Urbana,Hombre,Educación básica
+1783,9,1,2,47,4.0,438.1,684.75,Guayas,Urbana,Mujer,Superior
+1784,7,1,1,33,2.0,294.17,1453.05,El Oro,Urbana,Hombre,Educación básica
+1785,1,2,1,85,2.0,209.08,2043.9,Azuay,Rural,Hombre,Educación básica
+1786,17,1,2,18,4.0,1877.96,1263.3,Pichincha,Urbana,Mujer,Superior
+1787,13,1,1,90,2.0,477.75,694.95,Manabí,Urbana,Hombre,Educación básica
+1788,17,1,1,21,2.0,295.93,678.3,Pichincha,Urbana,Hombre,Educación básica
+1789,9,1,1,17,4.0,744.81,1011.9,Guayas,Urbana,Hombre,Superior
+1790,9,1,2,19,2.0,559.92,776.7,Guayas,Urbana,Mujer,Educación básica
+1791,13,1,1,29,4.0,1159.54,1032.9,Manabí,Urbana,Hombre,Superior
+1792,9,1,1,60,3.0,827.05,1330.05,Guayas,Urbana,Hombre,Bachillerato
+1793,9,1,1,21,3.0,1270.24,513.6,Guayas,Urbana,Hombre,Bachillerato
+1794,17,1,2,25,2.0,323.78,900.3,Pichincha,Urbana,Mujer,Educación básica
+1795,18,1,1,27,2.0,403.86,856.95,Tungurahua,Urbana,Hombre,Educación básica
+1796,17,2,1,24,,383.7,2033.85,Pichincha,Rural,Hombre,
+1797,17,1,1,81,1.0,273.92,878.85,Pichincha,Urbana,Hombre,Ninguno
+1798,13,1,2,29,3.0,486.06,1062.45,Manabí,Urbana,Mujer,Bachillerato
+1799,9,2,1,15,3.0,276.64,1532.55,Guayas,Rural,Hombre,Bachillerato
+1800,17,1,2,53,3.0,430.79,736.65,Pichincha,Urbana,Mujer,Bachillerato
+1801,17,2,1,16,4.0,811.37,1470.75,Pichincha,Rural,Hombre,Superior
+1802,7,1,2,30,3.0,391.88,1273.05,El Oro,Urbana,Mujer,Bachillerato
+1803,18,2,2,44,3.0,153.54,2264.1,Tungurahua,Rural,Mujer,Bachillerato
+1804,18,1,1,15,2.0,1732.92,448.8,Tungurahua,Urbana,Hombre,Educación básica
+1805,9,1,2,27,3.0,538.61,429.9,Guayas,Urbana,Mujer,Bachillerato
+1806,9,1,1,51,3.0,627.3,744.0,Guayas,Urbana,Hombre,Bachillerato
+1807,9,2,1,74,,737.02,1340.1,Guayas,Rural,Hombre,
+1808,9,1,2,90,2.0,358.19,471.6,Guayas,Urbana,Mujer,Educación básica
+1809,9,1,1,30,2.0,,520.35,Guayas,Urbana,Hombre,Educación básica
+1810,7,2,2,48,2.0,,1952.25,El Oro,Rural,Mujer,Educación básica
+1811,18,1,1,48,2.0,357.32,1688.4,Tungurahua,Urbana,Hombre,Educación básica
+1812,13,2,2,34,3.0,,1541.25,Manabí,Rural,Mujer,Bachillerato
+1813,18,1,2,21,3.0,1025.62,608.1,Tungurahua,Urbana,Mujer,Bachillerato
+1814,13,2,2,30,2.0,249.35,2990.25,Manabí,Rural,Mujer,Educación básica
+1815,9,1,2,82,2.0,368.56,838.95,Guayas,Urbana,Mujer,Educación básica
+1816,17,2,1,15,3.0,,1669.2,Pichincha,Rural,Hombre,Bachillerato
+1817,9,1,1,42,,364.04,1124.7,Guayas,Urbana,Hombre,
+1818,18,1,2,37,4.0,1826.07,1408.05,Tungurahua,Urbana,Mujer,Superior
+1819,9,2,1,47,2.0,214.92,4696.95,Guayas,Rural,Hombre,Educación básica
+1820,9,1,2,40,3.0,,1078.35,Guayas,Urbana,Mujer,Bachillerato
+1821,13,1,1,29,1.0,431.0,612.6,Manabí,Urbana,Hombre,Ninguno
+1822,9,1,2,26,3.0,497.59,768.75,Guayas,Urbana,Mujer,Bachillerato
+1823,9,1,1,15,4.0,1842.69,1209.0,Guayas,Urbana,Hombre,Superior
+1824,9,1,1,52,4.0,1124.13,888.0,Guayas,Urbana,Hombre,Superior
+1825,1,1,2,41,2.0,849.27,1403.25,Azuay,Urbana,Mujer,Educación básica
+1826,13,1,1,15,2.0,346.85,1200.9,Manabí,Urbana,Hombre,Educación básica
+1827,13,1,2,62,3.0,559.74,1408.05,Manabí,Urbana,Mujer,Bachillerato
+1828,9,2,2,49,3.0,379.17,587.25,Guayas,Rural,Mujer,Bachillerato
+1829,9,1,1,15,4.0,1121.45,400.05,Guayas,Urbana,Hombre,Superior
+1830,1,1,2,25,2.0,340.41,837.3,Azuay,Urbana,Mujer,Educación básica
+1831,9,2,2,28,2.0,391.08,742.5,Guayas,Rural,Mujer,Educación básica
+1832,17,1,2,90,2.0,,1381.5,Pichincha,Urbana,Mujer,Educación básica
+1833,9,2,2,17,3.0,651.99,1967.1,Guayas,Rural,Mujer,Bachillerato
+1834,7,1,1,49,2.0,611.33,790.95,El Oro,Urbana,Hombre,Educación básica
+1835,7,1,2,67,2.0,422.22,1152.3,El Oro,Urbana,Mujer,Educación básica
+1836,9,1,2,27,3.0,411.16,1022.4,Guayas,Urbana,Mujer,Bachillerato
+1837,9,1,1,21,2.0,628.79,833.25,Guayas,Urbana,Hombre,Educación básica
+1838,9,1,1,57,2.0,398.61,267.75,Guayas,Urbana,Hombre,Educación básica
+1839,13,1,1,20,2.0,309.54,755.25,Manabí,Urbana,Hombre,Educación básica
+1840,9,1,1,36,4.0,945.51,903.0,Guayas,Urbana,Hombre,Superior
+1841,9,1,1,44,2.0,522.31,1171.5,Guayas,Urbana,Hombre,Educación básica
+1842,9,1,1,17,4.0,1840.76,1049.85,Guayas,Urbana,Hombre,Superior
+1843,13,2,1,58,4.0,981.12,566.1,Manabí,Rural,Hombre,Superior
+1844,1,1,2,35,2.0,513.13,1233.9,Azuay,Urbana,Mujer,Educación básica
+1845,17,1,2,39,4.0,841.29,813.45,Pichincha,Urbana,Mujer,Superior
+1846,17,2,1,38,3.0,594.87,1932.0,Pichincha,Rural,Hombre,Bachillerato
+1847,9,1,1,42,4.0,921.01,641.4,Guayas,Urbana,Hombre,Superior
+1848,1,1,1,22,4.0,,575.25,Azuay,Urbana,Hombre,Superior
+1849,17,1,1,22,3.0,682.62,979.35,Pichincha,Urbana,Hombre,Bachillerato
+1850,13,1,1,44,2.0,,571.8,Manabí,Urbana,Hombre,Educación básica
+1851,17,1,1,61,2.0,469.55,1851.45,Pichincha,Urbana,Hombre,Educación básica
+1852,7,1,1,50,3.0,274.42,1434.45,El Oro,Urbana,Hombre,Bachillerato
+1853,13,2,2,45,2.0,946.09,2038.65,Manabí,Rural,Mujer,Educación básica
+1854,9,2,2,54,2.0,369.84,908.25,Guayas,Rural,Mujer,Educación básica
+1855,1,1,1,29,2.0,645.5,1452.75,Azuay,Urbana,Hombre,Educación básica
+1856,13,1,2,25,2.0,274.48,1000.05,Manabí,Urbana,Mujer,Educación básica
+1857,9,2,1,35,3.0,574.57,1821.15,Guayas,Rural,Hombre,Bachillerato
+1858,17,1,2,37,4.0,1228.9,1431.75,Pichincha,Urbana,Mujer,Superior
+1859,9,2,2,16,2.0,337.51,801.9,Guayas,Rural,Mujer,Educación básica
+1860,9,2,2,57,3.0,1202.37,730.8,Guayas,Rural,Mujer,Bachillerato
+1861,9,2,1,22,2.0,908.54,1081.95,Guayas,Rural,Hombre,Educación básica
+1862,9,1,1,26,4.0,1518.22,370.2,Guayas,Urbana,Hombre,Superior
+1863,9,1,1,30,4.0,,631.8,Guayas,Urbana,Hombre,Superior
+1864,1,1,1,73,2.0,320.38,531.75,Azuay,Urbana,Hombre,Educación básica
+1865,18,2,2,62,1.0,380.03,1051.05,Tungurahua,Rural,Mujer,Ninguno
+1866,17,1,1,21,,1254.86,1378.65,Pichincha,Urbana,Hombre,
+1867,17,2,2,48,3.0,332.67,2233.35,Pichincha,Rural,Mujer,Bachillerato
+1868,9,1,2,28,2.0,765.41,852.6,Guayas,Urbana,Mujer,Educación básica
+1869,9,2,2,21,3.0,284.4,1411.95,Guayas,Rural,Mujer,Bachillerato
+1870,17,1,1,34,4.0,1368.28,1156.8,Pichincha,Urbana,Hombre,Superior
+1871,18,1,1,48,1.0,343.3,1071.45,Tungurahua,Urbana,Hombre,Ninguno
+1872,17,1,1,34,4.0,1499.7,622.5,Pichincha,Urbana,Hombre,Superior
+1873,1,1,1,23,1.0,649.01,1857.45,Azuay,Urbana,Hombre,Ninguno
+1874,17,1,1,55,1.0,319.58,720.15,Pichincha,Urbana,Hombre,Ninguno
+1875,9,1,2,22,3.0,1061.38,481.2,Guayas,Urbana,Mujer,Bachillerato
+1876,1,1,2,32,3.0,439.86,741.15,Azuay,Urbana,Mujer,Bachillerato
+1877,9,2,2,56,3.0,326.75,1190.4,Guayas,Rural,Mujer,Bachillerato
+1878,17,1,1,66,3.0,221.22,951.15,Pichincha,Urbana,Hombre,Bachillerato
+1879,9,1,2,23,4.0,1574.93,611.7,Guayas,Urbana,Mujer,Superior
+1880,17,1,1,15,2.0,329.69,584.7,Pichincha,Urbana,Hombre,Educación básica
+1881,9,1,1,15,4.0,1872.53,1000.95,Guayas,Urbana,Hombre,Superior
+1882,1,1,1,55,3.0,825.79,717.6,Azuay,Urbana,Hombre,Bachillerato
+1883,13,2,1,15,3.0,1173.85,1934.1,Manabí,Rural,Hombre,Bachillerato
+1884,9,2,1,46,,,1768.2,Guayas,Rural,Hombre,
+1885,7,2,1,46,1.0,318.09,1614.0,El Oro,Rural,Hombre,Ninguno
+1886,13,2,1,15,3.0,554.5,1107.0,Manabí,Rural,Hombre,Bachillerato
+1887,13,1,2,24,4.0,1112.22,1026.3,Manabí,Urbana,Mujer,Superior
+1888,9,2,1,38,1.0,392.17,1549.8,Guayas,Rural,Hombre,Ninguno
+1889,1,2,2,26,4.0,867.13,1146.9,Azuay,Rural,Mujer,Superior
+1890,17,1,2,25,4.0,901.86,836.55,Pichincha,Urbana,Mujer,Superior
+1891,13,2,2,35,3.0,464.4,1139.1,Manabí,Rural,Mujer,Bachillerato
+1892,7,1,2,28,3.0,283.76,837.15,El Oro,Urbana,Mujer,Bachillerato
+1893,17,2,2,20,2.0,408.3,1320.75,Pichincha,Rural,Mujer,Educación básica
+1894,9,2,2,15,3.0,,769.65,Guayas,Rural,Mujer,Bachillerato
+1895,17,2,1,21,2.0,279.52,1066.5,Pichincha,Rural,Hombre,Educación básica
+1896,17,2,2,49,4.0,,1179.9,Pichincha,Rural,Mujer,Superior
+1897,7,2,1,20,3.0,864.67,1384.05,El Oro,Rural,Hombre,Bachillerato
+1898,9,1,2,35,1.0,269.54,723.75,Guayas,Urbana,Mujer,Ninguno
+1899,17,1,1,15,3.0,676.96,997.8,Pichincha,Urbana,Hombre,Bachillerato
+1900,18,1,1,55,3.0,867.93,800.55,Tungurahua,Urbana,Hombre,Bachillerato
+1901,13,1,2,34,3.0,545.19,599.4,Manabí,Urbana,Mujer,Bachillerato
+1902,13,2,2,39,,,1005.45,Manabí,Rural,Mujer,
+1903,18,2,1,48,3.0,544.84,2735.55,Tungurahua,Rural,Hombre,Bachillerato
+1904,7,1,2,67,1.0,203.06,954.75,El Oro,Urbana,Mujer,Ninguno
+1905,13,1,2,32,3.0,1278.78,704.85,Manabí,Urbana,Mujer,Bachillerato
+1906,17,2,2,18,3.0,227.57,2026.2,Pichincha,Rural,Mujer,Bachillerato
+1907,9,1,1,41,1.0,153.56,564.75,Guayas,Urbana,Hombre,Ninguno
+1908,13,1,1,15,2.0,392.12,1135.05,Manabí,Urbana,Hombre,Educación básica
+1909,9,1,2,20,3.0,414.04,728.1,Guayas,Urbana,Mujer,Bachillerato
+1910,1,2,2,26,2.0,223.14,1580.55,Azuay,Rural,Mujer,Educación básica
+1911,9,1,1,18,2.0,328.1,390.9,Guayas,Urbana,Hombre,Educación básica
+1912,1,2,1,37,,321.43,1958.7,Azuay,Rural,Hombre,
+1913,17,1,1,41,2.0,249.89,889.35,Pichincha,Urbana,Hombre,Educación básica
+1914,17,1,2,37,2.0,,1929.75,Pichincha,Urbana,Mujer,Educación básica
+1915,7,2,2,38,1.0,312.61,1453.95,El Oro,Rural,Mujer,Ninguno
+1916,17,2,1,15,2.0,,939.45,Pichincha,Rural,Hombre,Educación básica
+1917,9,1,2,29,1.0,215.13,1098.0,Guayas,Urbana,Mujer,Ninguno
+1918,1,1,2,26,4.0,791.58,1169.85,Azuay,Urbana,Mujer,Superior
+1919,9,1,1,46,4.0,2046.12,916.8,Guayas,Urbana,Hombre,Superior
+1920,9,1,1,27,2.0,,453.15,Guayas,Urbana,Hombre,Educación básica
+1921,17,1,1,31,4.0,1735.1,650.25,Pichincha,Urbana,Hombre,Superior
+1922,13,2,1,26,2.0,175.19,1205.1,Manabí,Rural,Hombre,Educación básica
+1923,1,1,1,15,4.0,1776.42,1189.5,Azuay,Urbana,Hombre,Superior
+1924,7,1,2,18,2.0,309.34,719.4,El Oro,Urbana,Mujer,Educación básica
+1925,17,1,2,19,3.0,890.19,543.3,Pichincha,Urbana,Mujer,Bachillerato
+1926,9,1,2,31,3.0,,980.25,Guayas,Urbana,Mujer,Bachillerato
+1927,13,1,2,70,3.0,269.13,958.8,Manabí,Urbana,Mujer,Bachillerato
+1928,7,1,2,29,3.0,,1302.9,El Oro,Urbana,Mujer,Bachillerato
+1929,13,1,1,52,3.0,385.6,1165.95,Manabí,Urbana,Hombre,Bachillerato
+1930,9,1,2,42,3.0,626.97,1782.3,Guayas,Urbana,Mujer,Bachillerato
+1931,1,1,1,55,4.0,938.58,356.7,Azuay,Urbana,Hombre,Superior
+1932,9,2,1,31,2.0,307.8,752.4,Guayas,Rural,Hombre,Educación básica
+1933,13,2,1,34,3.0,379.06,745.5,Manabí,Rural,Hombre,Bachillerato
+1934,13,2,2,21,2.0,250.16,1149.3,Manabí,Rural,Mujer,Educación básica
+1935,9,1,2,42,2.0,,791.1,Guayas,Urbana,Mujer,Educación básica
+1936,9,1,2,40,2.0,581.67,453.45,Guayas,Urbana,Mujer,Educación básica
+1937,9,1,1,30,4.0,1972.05,475.35,Guayas,Urbana,Hombre,Superior
+1938,9,1,2,53,2.0,348.0,1500.6,Guayas,Urbana,Mujer,Educación básica
+1939,17,1,2,55,2.0,399.71,734.4,Pichincha,Urbana,Mujer,Educación básica
+1940,13,1,1,27,3.0,813.03,831.75,Manabí,Urbana,Hombre,Bachillerato
+1941,9,1,2,39,,1981.23,1144.2,Guayas,Urbana,Mujer,
+1942,7,1,1,36,4.0,936.82,723.3,El Oro,Urbana,Hombre,Superior
+1943,9,2,2,26,3.0,,2688.9,Guayas,Rural,Mujer,Bachillerato
+1944,17,1,1,17,2.0,223.23,953.1,Pichincha,Urbana,Hombre,Educación básica
+1945,9,2,2,34,3.0,241.82,2847.3,Guayas,Rural,Mujer,Bachillerato
+1946,13,2,1,22,3.0,,1047.3,Manabí,Rural,Hombre,Bachillerato
+1947,7,1,1,42,2.0,182.08,354.6,El Oro,Urbana,Hombre,Educación básica
+1948,7,1,1,65,2.0,376.4,1074.15,El Oro,Urbana,Hombre,Educación básica
+1949,17,1,2,35,2.0,772.86,505.95,Pichincha,Urbana,Mujer,Educación básica
+1950,13,2,2,25,3.0,509.64,1451.55,Manabí,Rural,Mujer,Bachillerato
+1951,7,1,2,27,3.0,1380.14,584.1,El Oro,Urbana,Mujer,Bachillerato
+1952,17,1,2,49,2.0,482.42,745.8,Pichincha,Urbana,Mujer,Educación básica
+1953,17,1,2,17,4.0,1164.73,1337.25,Pichincha,Urbana,Mujer,Superior
+1954,13,2,1,24,3.0,,1360.95,Manabí,Rural,Hombre,Bachillerato
+1955,9,2,1,40,3.0,506.45,465.6,Guayas,Rural,Hombre,Bachillerato
+1956,9,1,2,39,,524.15,980.4,Guayas,Urbana,Mujer,
+1957,9,2,1,30,2.0,527.08,1105.05,Guayas,Rural,Hombre,Educación básica
+1958,13,2,2,49,2.0,299.52,1545.15,Manabí,Rural,Mujer,Educación básica
+1959,7,1,2,39,3.0,596.78,774.75,El Oro,Urbana,Mujer,Bachillerato
+1960,17,1,2,56,3.0,1375.75,528.75,Pichincha,Urbana,Mujer,Bachillerato
+1961,18,1,2,59,4.0,1349.36,1730.1,Tungurahua,Urbana,Mujer,Superior
+1962,17,2,2,55,2.0,618.14,2075.25,Pichincha,Rural,Mujer,Educación básica
+1963,1,1,1,55,4.0,1470.85,1732.5,Azuay,Urbana,Hombre,Superior
+1964,9,1,2,26,4.0,1937.86,430.5,Guayas,Urbana,Mujer,Superior
+1965,1,1,1,45,2.0,521.57,969.6,Azuay,Urbana,Hombre,Educación básica
+1966,13,1,1,29,3.0,356.02,208.2,Manabí,Urbana,Hombre,Bachillerato
+1967,9,2,2,38,4.0,1170.4,1332.15,Guayas,Rural,Mujer,Superior
+1968,9,1,2,57,4.0,1775.33,428.4,Guayas,Urbana,Mujer,Superior
+1969,1,1,1,21,2.0,225.14,1294.5,Azuay,Urbana,Hombre,Educación básica
+1970,13,1,2,28,2.0,372.8,1072.35,Manabí,Urbana,Mujer,Educación básica
+1971,13,1,2,34,4.0,2024.0,739.05,Manabí,Urbana,Mujer,Superior
+1972,13,1,2,25,3.0,1204.86,327.0,Manabí,Urbana,Mujer,Bachillerato
+1973,1,2,1,29,2.0,375.53,1745.4,Azuay,Rural,Hombre,Educación básica
+1974,17,2,1,28,2.0,258.05,1342.95,Pichincha,Rural,Hombre,Educación básica
+1975,18,1,2,40,1.0,231.38,1308.6,Tungurahua,Urbana,Mujer,Ninguno
+1976,17,1,2,79,1.0,196.77,1225.65,Pichincha,Urbana,Mujer,Ninguno
+1977,18,1,1,15,4.0,752.2,432.15,Tungurahua,Urbana,Hombre,Superior
+1978,17,1,1,24,,1058.7,1698.15,Pichincha,Urbana,Hombre,
+1979,17,2,1,28,3.0,441.63,1339.8,Pichincha,Rural,Hombre,Bachillerato
+1980,7,1,1,32,1.0,236.09,987.3,El Oro,Urbana,Hombre,Ninguno
+1981,18,1,2,17,3.0,627.59,587.25,Tungurahua,Urbana,Mujer,Bachillerato
+1982,7,2,2,15,,225.38,1183.8,El Oro,Rural,Mujer,
+1983,9,1,2,39,3.0,407.86,830.4,Guayas,Urbana,Mujer,Bachillerato
+1984,18,1,1,30,4.0,1115.59,1016.7,Tungurahua,Urbana,Hombre,Superior
+1985,18,1,2,20,2.0,441.66,1266.9,Tungurahua,Urbana,Mujer,Educación básica
+1986,9,1,2,18,2.0,267.56,816.0,Guayas,Urbana,Mujer,Educación básica
+1987,18,1,2,29,4.0,898.51,915.15,Tungurahua,Urbana,Mujer,Superior
+1988,7,2,1,19,3.0,356.09,2185.05,El Oro,Rural,Hombre,Bachillerato
+1989,9,1,2,33,4.0,,916.05,Guayas,Urbana,Mujer,Superior
+1990,1,1,1,33,3.0,386.82,1079.85,Azuay,Urbana,Hombre,Bachillerato
+1991,13,1,1,26,2.0,669.27,534.45,Manabí,Urbana,Hombre,Educación básica
+1992,1,1,1,37,2.0,442.25,1412.1,Azuay,Urbana,Hombre,Educación básica
+1993,13,1,1,44,2.0,836.98,1113.45,Manabí,Urbana,Hombre,Educación básica
+1994,9,1,1,18,4.0,1889.36,650.7,Guayas,Urbana,Hombre,Superior
+1995,9,1,1,26,2.0,551.73,480.75,Guayas,Urbana,Hombre,Educación básica
+1996,17,2,2,51,2.0,345.52,1370.1,Pichincha,Rural,Mujer,Educación básica
+1997,13,1,2,46,2.0,300.81,1204.65,Manabí,Urbana,Mujer,Educación básica
+1998,9,1,2,19,2.0,1212.38,968.25,Guayas,Urbana,Mujer,Educación básica
+1999,7,1,2,62,1.0,488.97,601.95,El Oro,Urbana,Mujer,Ninguno
+2000,17,1,2,66,2.0,267.52,1307.25,Pichincha,Urbana,Mujer,Educación básica
