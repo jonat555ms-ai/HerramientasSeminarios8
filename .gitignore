@@ -1,0 +1,26 @@
+# Datos: se descargan desde la fuente oficial, no se suben
+data/raw/*
+data/external/*
+data/processed/*
+outputs/*
+!data/raw/.gitkeep
+!data/external/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Quarto
+/.quarto/
+*_files/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

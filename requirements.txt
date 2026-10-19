@@ -1,0 +1,10 @@
+# Requisitos MÍNIMOS (semanas 1 a 6). Para el resto: requirements-completo.txt
+
+pandas>=2.2
+numpy
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+nbformat
+nbclient
