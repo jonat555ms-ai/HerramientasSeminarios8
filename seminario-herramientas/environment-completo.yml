@@ -1,0 +1,43 @@
+# Entorno COMPLETO: archivos, estadística, mapas, tableros y reportes.
+# Se usa desde la semana 7. Si ya creaste el entorno mínimo, actualízalo con:
+#   conda env update -f environment-completo.yml
+# Si prefieres crearlo desde cero:
+#   conda env create -f environment-completo.yml
+name: seminario-encuestas
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  # Datos
+  - pandas>=2.2
+  - numpy
+  - polars
+  - pyarrow
+  - openpyxl
+  - pyreadstat      # lectura de .sav (SPSS) y .dta (Stata), comunes en bases de encuestas
+  # Geoespacial
+  - geopandas>=1.0
+  - shapely
+  - pyogrio
+  - mapclassify
+  - libpysal
+  - esda
+  - spreg
+  # Visualización
+  - matplotlib
+  - seaborn
+  - plotly
+  - altair
+  - folium
+  # Estadística
+  - scipy
+  - statsmodels
+  # Entorno de trabajo
+  - jupyterlab
+  - ipykernel
+  - nbformat
+  - nbclient
+  - pip:
+      - streamlit
+      - quarto-cli
